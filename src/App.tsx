@@ -234,31 +234,31 @@ function App() {
 
             {/* Legend */}
             <div className="bg-slate-800/60 rounded-xl border border-slate-700/50 p-4">
-              <h3 className="text-sm font-semibold text-white mb-3">📊 图例说明</h3>
+              <h3 className="text-sm font-semibold text-white mb-3">图例说明</h3>
               <div className="space-y-2 text-xs">
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-red-500 shadow-lg shadow-red-500/50"></span>
-                  <span className="text-slate-300">极高 (&gt;0.15) - 舞萌圣地</span>
+                  <span className="text-slate-300">极高 (&gt;0.15)</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-orange-500 shadow-lg shadow-orange-500/50"></span>
-                  <span className="text-slate-300">很高 (0.08-0.15) - 音游天堂</span>
+                  <span className="text-slate-300">很高 (0.08-0.15)</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-yellow-400 shadow-lg shadow-yellow-400/50"></span>
-                  <span className="text-slate-300">较高 (0.05-0.08) - 音游热区</span>
+                  <span className="text-slate-300">较高 (0.05-0.08)</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-green-500 shadow-lg shadow-green-500/50"></span>
-                  <span className="text-slate-300">中等 (0.02-0.05) - 音游社区</span>
+                  <span className="text-slate-300">中等 (0.02-0.05)</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-cyan-400 shadow-lg shadow-cyan-400/50"></span>
-                  <span className="text-slate-300">较低 (0.01-0.02) - 音游萌芽</span>
+                  <span className="text-slate-300">较低 (0.01-0.02)</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-blue-600 shadow-lg shadow-blue-600/50"></span>
-                  <span className="text-slate-300">低 (&lt;0.01) - 音游荒漠</span>
+                  <span className="text-slate-300">低 (&lt;0.01)</span>
                 </div>
               </div>
             </div>
