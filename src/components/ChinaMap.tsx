@@ -52,10 +52,10 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
 
     chartInstance.current = echarts.init(chartRef.current);
 
-    const handleResize = () => {
+    const resizeObserver = new ResizeObserver(() => {
       chartInstance.current?.resize();
-    };
-    window.addEventListener('resize', handleResize);
+    });
+    resizeObserver.observe(chartRef.current);
 
     // 点击事件
     chartInstance.current.on('click', (params: any) => {
@@ -65,7 +65,7 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
     });
 
     return () => {
-      window.removeEventListener('resize', handleResize);
+      resizeObserver.disconnect();
       chartInstance.current?.dispose();
     };
   }, [mapLoaded]);
