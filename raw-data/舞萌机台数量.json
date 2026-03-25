@@ -1,0 +1,1648 @@
+[
+  {
+    "name": "北京",
+    "count": 156,
+    "cities": []
+  },
+  {
+    "name": "天津",
+    "count": 56,
+    "cities": []
+  },
+  {
+    "name": "河北",
+    "cities": [
+      {
+        "name": "石家庄",
+        "count": 31
+      },
+      {
+        "name": "唐山",
+        "count": 13
+      },
+      {
+        "name": "秦皇岛",
+        "count": 8
+      },
+      {
+        "name": "邯郸",
+        "count": 11
+      },
+      {
+        "name": "邢台",
+        "count": 8
+      },
+      {
+        "name": "保定",
+        "count": 21
+      },
+      {
+        "name": "张家口",
+        "count": 6
+      },
+      {
+        "name": "承德",
+        "count": 3
+      },
+      {
+        "name": "沧州",
+        "count": 15
+      },
+      {
+        "name": "廊坊",
+        "count": 19
+      },
+      {
+        "name": "衡水",
+        "count": 3
+      }
+    ],
+    "count": 138
+  },
+  {
+    "name": "山西",
+    "cities": [
+      {
+        "name": "太原",
+        "count": 25
+      },
+      {
+        "name": "大同",
+        "count": 9
+      },
+      {
+        "name": "阳泉",
+        "count": 0
+      },
+      {
+        "name": "长治",
+        "count": 3
+      },
+      {
+        "name": "晋城",
+        "count": 4
+      },
+      {
+        "name": "朔州",
+        "count": 5
+      },
+      {
+        "name": "晋中",
+        "count": 10
+      },
+      {
+        "name": "运城",
+        "count": 5
+      },
+      {
+        "name": "忻州",
+        "count": 2
+      },
+      {
+        "name": "临汾",
+        "count": 5
+      },
+      {
+        "name": "吕梁",
+        "count": 9
+      }
+    ],
+    "count": 77
+  },
+  {
+    "name": "内蒙古",
+    "count": 15,
+    "cities": [
+      {
+        "name": "包头",
+        "count": 11
+      },
+      {
+        "name": "乌海",
+        "count": 3
+      },
+      {
+        "name": "赤峰",
+        "count": 4
+      },
+      {
+        "name": "通辽",
+        "count": 6
+      },
+      {
+        "name": "鄂尔多斯",
+        "count": 5
+      },
+      {
+        "name": "呼伦贝尔",
+        "count": 4
+      },
+      {
+        "name": "巴彦淖尔",
+        "count": 3
+      },
+      {
+        "name": "乌兰察布",
+        "count": 1
+      },
+      {
+        "name": "兴安",
+        "count": 3
+      },
+      {
+        "name": "锡林郭勒",
+        "count": 1
+      },
+      {
+        "name": "阿拉善",
+        "count": 0
+      }
+    ]
+  },
+  {
+    "name": "辽宁",
+    "cities": [
+      {
+        "name": "沈阳",
+        "count": 43
+      },
+      {
+        "name": "大连",
+        "count": 24
+      },
+      {
+        "name": "鞍山",
+        "count": 5
+      },
+      {
+        "name": "抚顺",
+        "count": 3
+      },
+      {
+        "name": "本溪",
+        "count": 3
+      },
+      {
+        "name": "丹东",
+        "count": 2
+      },
+      {
+        "name": "锦州",
+        "count": 7
+      },
+      {
+        "name": "营口",
+        "count": 4
+      },
+      {
+        "name": "阜新",
+        "count": 1
+      },
+      {
+        "name": "辽阳",
+        "count": 3
+      },
+      {
+        "name": "盘锦",
+        "count": 5
+      },
+      {
+        "name": "铁岭",
+        "count": 2
+      },
+      {
+        "name": "朝阳",
+        "count": 0
+      },
+      {
+        "name": "葫芦岛",
+        "count": 2
+      }
+    ],
+    "count": 104
+  },
+  {
+    "name": "吉林",
+    "cities": [
+      {
+        "name": "长春",
+        "count": 38
+      },
+      {
+        "name": "吉林",
+        "count": 8
+      },
+      {
+        "name": "四平",
+        "count": 2
+      },
+      {
+        "name": "辽源",
+        "count": 1
+      },
+      {
+        "name": "通化",
+        "count": 2
+      },
+      {
+        "name": "白山",
+        "count": 1
+      },
+      {
+        "name": "松原",
+        "count": 2
+      },
+      {
+        "name": "白城",
+        "count": 1
+      },
+      {
+        "name": "延边",
+        "count": 7
+      }
+    ],
+    "count": 62
+  },
+  {
+    "name": "黑龙江",
+    "cities": [
+      {
+        "name": "哈尔滨",
+        "count": 45
+      },
+      {
+        "name": "齐齐哈尔",
+        "count": 3
+      },
+      {
+        "name": "鸡西",
+        "count": 5
+      },
+      {
+        "name": "鹤岗",
+        "count": 2
+      },
+      {
+        "name": "双鸭山",
+        "count": 3
+      },
+      {
+        "name": "大庆",
+        "count": 2
+      },
+      {
+        "name": "伊春",
+        "count": 1
+      },
+      {
+        "name": "佳木斯",
+        "count": 3
+      },
+      {
+        "name": "七台河",
+        "count": 1
+      },
+      {
+        "name": "牡丹江",
+        "count": 2
+      },
+      {
+        "name": "黑河",
+        "count": 3
+      },
+      {
+        "name": "绥化",
+        "count": 5
+      },
+      {
+        "name": "大兴安岭",
+        "count": 0
+      }
+    ],
+    "count": 75
+  },
+  {
+    "name": "上海",
+    "count": 184,
+    "cities": []
+  },
+  {
+    "name": "江苏",
+    "cities": [
+      {
+        "name": "南京",
+        "count": 84
+      },
+      {
+        "name": "无锡",
+        "count": 30
+      },
+      {
+        "name": "徐州",
+        "count": 28
+      },
+      {
+        "name": "常州",
+        "count": 30
+      },
+      {
+        "name": "苏州",
+        "count": 59
+      },
+      {
+        "name": "南通",
+        "count": 19
+      },
+      {
+        "name": "连云港",
+        "count": 12
+      },
+      {
+        "name": "淮安",
+        "count": 21
+      },
+      {
+        "name": "盐城",
+        "count": 12
+      },
+      {
+        "name": "扬州",
+        "count": 11
+      },
+      {
+        "name": "镇江",
+        "count": 7
+      },
+      {
+        "name": "泰州",
+        "count": 11
+      },
+      {
+        "name": "宿迁",
+        "count": 17
+      }
+    ],
+    "count": 341
+  },
+  {
+    "name": "浙江",
+    "cities": [
+      {
+        "name": "杭州",
+        "count": 85
+      },
+      {
+        "name": "宁波",
+        "count": 34
+      },
+      {
+        "name": "温州",
+        "count": 27
+      },
+      {
+        "name": "嘉兴",
+        "count": 19
+      },
+      {
+        "name": "湖州",
+        "count": 15
+      },
+      {
+        "name": "绍兴",
+        "count": 23
+      },
+      {
+        "name": "金华",
+        "count": 27
+      },
+      {
+        "name": "衢州",
+        "count": 2
+      },
+      {
+        "name": "舟山",
+        "count": 2
+      },
+      {
+        "name": "台州",
+        "count": 23
+      },
+      {
+        "name": "丽水",
+        "count": 9
+      }
+    ],
+    "count": 266
+  },
+  {
+    "name": "安徽",
+    "cities": [
+      {
+        "name": "合肥",
+        "count": 44
+      },
+      {
+        "name": "芜湖",
+        "count": 13
+      },
+      {
+        "name": "蚌埠",
+        "count": 7
+      },
+      {
+        "name": "淮南",
+        "count": 8
+      },
+      {
+        "name": "马鞍山",
+        "count": 7
+      },
+      {
+        "name": "淮北",
+        "count": 4
+      },
+      {
+        "name": "铜陵",
+        "count": 4
+      },
+      {
+        "name": "安庆",
+        "count": 6
+      },
+      {
+        "name": "黄山",
+        "count": 2
+      },
+      {
+        "name": "滁州",
+        "count": 4
+      },
+      {
+        "name": "阜阳",
+        "count": 21
+      },
+      {
+        "name": "宿州",
+        "count": 12
+      },
+      {
+        "name": "六安",
+        "count": 11
+      },
+      {
+        "name": "亳州",
+        "count": 7
+      },
+      {
+        "name": "池州",
+        "count": 2
+      },
+      {
+        "name": "宣城",
+        "count": 3
+      }
+    ],
+    "count": 155
+  },
+  {
+    "name": "福建",
+    "cities": [
+      {
+        "name": "福州",
+        "count": 27
+      },
+      {
+        "name": "厦门",
+        "count": 25
+      },
+      {
+        "name": "莆田",
+        "count": 7
+      },
+      {
+        "name": "三明",
+        "count": 6
+      },
+      {
+        "name": "泉州",
+        "count": 23
+      },
+      {
+        "name": "漳州",
+        "count": 11
+      },
+      {
+        "name": "南平",
+        "count": 5
+      },
+      {
+        "name": "龙岩",
+        "count": 4
+      },
+      {
+        "name": "宁德",
+        "count": 9
+      }
+    ],
+    "count": 117
+  },
+  {
+    "name": "江西",
+    "cities": [
+      {
+        "name": "南昌",
+        "count": 35
+      },
+      {
+        "name": "景德镇",
+        "count": 4
+      },
+      {
+        "name": "萍乡",
+        "count": 2
+      },
+      {
+        "name": "九江",
+        "count": 15
+      },
+      {
+        "name": "新余",
+        "count": 2
+      },
+      {
+        "name": "鹰潭",
+        "count": 4
+      },
+      {
+        "name": "赣州",
+        "count": 16
+      },
+      {
+        "name": "吉安",
+        "count": 4
+      },
+      {
+        "name": "宜春",
+        "count": 10
+      },
+      {
+        "name": "抚州",
+        "count": 1
+      },
+      {
+        "name": "上饶",
+        "count": 14
+      }
+    ],
+    "count": 107
+  },
+  {
+    "name": "山东",
+    "cities": [
+      {
+        "name": "济南",
+        "count": 40
+      },
+      {
+        "name": "青岛",
+        "count": 37
+      },
+      {
+        "name": "淄博",
+        "count": 11
+      },
+      {
+        "name": "枣庄",
+        "count": 11
+      },
+      {
+        "name": "东营",
+        "count": 7
+      },
+      {
+        "name": "烟台",
+        "count": 24
+      },
+      {
+        "name": "潍坊",
+        "count": 22
+      },
+      {
+        "name": "济宁",
+        "count": 18
+      },
+      {
+        "name": "泰安",
+        "count": 6
+      },
+      {
+        "name": "威海",
+        "count": 12
+      },
+      {
+        "name": "日照",
+        "count": 6
+      },
+      {
+        "name": "临沂",
+        "count": 18
+      },
+      {
+        "name": "德州",
+        "count": 12
+      },
+      {
+        "name": "聊城",
+        "count": 5
+      },
+      {
+        "name": "滨州",
+        "count": 6
+      },
+      {
+        "name": "菏泽",
+        "count": 7
+      }
+    ],
+    "count": 242
+  },
+  {
+    "name": "河南",
+    "cities": [
+      {
+        "name": "郑州",
+        "count": 56
+      },
+      {
+        "name": "开封",
+        "count": 4
+      },
+      {
+        "name": "洛阳",
+        "count": 16
+      },
+      {
+        "name": "平顶山",
+        "count": 3
+      },
+      {
+        "name": "安阳",
+        "count": 15
+      },
+      {
+        "name": "鹤壁",
+        "count": 4
+      },
+      {
+        "name": "新乡",
+        "count": 7
+      },
+      {
+        "name": "焦作",
+        "count": 3
+      },
+      {
+        "name": "濮阳",
+        "count": 5
+      },
+      {
+        "name": "许昌",
+        "count": 10
+      },
+      {
+        "name": "漯河",
+        "count": 5
+      },
+      {
+        "name": "三门峡",
+        "count": 4
+      },
+      {
+        "name": "南阳",
+        "count": 14
+      },
+      {
+        "name": "商丘",
+        "count": 7
+      },
+      {
+        "name": "信阳",
+        "count": 6
+      },
+      {
+        "name": "周口",
+        "count": 12
+      },
+      {
+        "name": "驻马店",
+        "count": 9
+      },
+      {
+        "name": "济源",
+        "count": 2
+      }
+    ],
+    "count": 182
+  },
+  {
+    "name": "湖北",
+    "cities": [
+      {
+        "name": "武汉",
+        "count": 90
+      },
+      {
+        "name": "黄石",
+        "count": 9
+      },
+      {
+        "name": "十堰",
+        "count": 6
+      },
+      {
+        "name": "宜昌",
+        "count": 17
+      },
+      {
+        "name": "襄阳",
+        "count": 10
+      },
+      {
+        "name": "鄂州",
+        "count": 3
+      },
+      {
+        "name": "荆门",
+        "count": 6
+      },
+      {
+        "name": "孝感",
+        "count": 6
+      },
+      {
+        "name": "荆州",
+        "count": 10
+      },
+      {
+        "name": "黄冈",
+        "count": 13
+      },
+      {
+        "name": "咸宁",
+        "count": 7
+      },
+      {
+        "name": "随州",
+        "count": 2
+      },
+      {
+        "name": "恩施",
+        "count": 8
+      },
+      {
+        "name": "仙桃",
+        "count": 4
+      },
+      {
+        "name": "潜江",
+        "count": 3
+      },
+      {
+        "name": "天门",
+        "count": 1
+      },
+      {
+        "name": "神农架",
+        "count": 0
+      }
+    ],
+    "count": 195
+  },
+  {
+    "name": "湖南",
+    "cities": [
+      {
+        "name": "长沙",
+        "count": 91
+      },
+      {
+        "name": "株洲",
+        "count": 11
+      },
+      {
+        "name": "湘潭",
+        "count": 2
+      },
+      {
+        "name": "衡阳",
+        "count": 20
+      },
+      {
+        "name": "邵阳",
+        "count": 8
+      },
+      {
+        "name": "岳阳",
+        "count": 13
+      },
+      {
+        "name": "常德",
+        "count": 11
+      },
+      {
+        "name": "张家界",
+        "count": 2
+      },
+      {
+        "name": "益阳",
+        "count": 7
+      },
+      {
+        "name": "郴州",
+        "count": 7
+      },
+      {
+        "name": "永州",
+        "count": 4
+      },
+      {
+        "name": "怀化",
+        "count": 4
+      },
+      {
+        "name": "娄底",
+        "count": 11
+      },
+      {
+        "name": "湘西",
+        "count": 2
+      }
+    ],
+    "count": 193
+  },
+  {
+    "name": "广东",
+    "cities": [
+      {
+        "name": "广州",
+        "count": 160
+      },
+      {
+        "name": "韶关",
+        "count": 9
+      },
+      {
+        "name": "深圳",
+        "count": 122
+      },
+      {
+        "name": "珠海",
+        "count": 29
+      },
+      {
+        "name": "汕头",
+        "count": 24
+      },
+      {
+        "name": "佛山",
+        "count": 61
+      },
+      {
+        "name": "江门",
+        "count": 17
+      },
+      {
+        "name": "湛江",
+        "count": 16
+      },
+      {
+        "name": "茂名",
+        "count": 10
+      },
+      {
+        "name": "肇庆",
+        "count": 17
+      },
+      {
+        "name": "惠州",
+        "count": 22
+      },
+      {
+        "name": "梅州",
+        "count": 4
+      },
+      {
+        "name": "汕尾",
+        "count": 6
+      },
+      {
+        "name": "河源",
+        "count": 4
+      },
+      {
+        "name": "阳江",
+        "count": 9
+      },
+      {
+        "name": "清远",
+        "count": 14
+      },
+      {
+        "name": "东莞",
+        "count": 56
+      },
+      {
+        "name": "中山",
+        "count": 12
+      },
+      {
+        "name": "潮州",
+        "count": 6
+      },
+      {
+        "name": "揭阳",
+        "count": 13
+      },
+      {
+        "name": "云浮",
+        "count": 5
+      }
+    ],
+    "count": 616
+  },
+  {
+    "name": "广西",
+    "cities": [
+      {
+        "name": "南宁",
+        "count": 41
+      },
+      {
+        "name": "柳州",
+        "count": 9
+      },
+      {
+        "name": "桂林",
+        "count": 9
+      },
+      {
+        "name": "梧州",
+        "count": 6
+      },
+      {
+        "name": "北海",
+        "count": 3
+      },
+      {
+        "name": "防城港",
+        "count": 1
+      },
+      {
+        "name": "钦州",
+        "count": 8
+      },
+      {
+        "name": "贵港",
+        "count": 3
+      },
+      {
+        "name": "玉林",
+        "count": 6
+      },
+      {
+        "name": "百色",
+        "count": 4
+      },
+      {
+        "name": "贺州",
+        "count": 5
+      },
+      {
+        "name": "河池",
+        "count": 3
+      },
+      {
+        "name": "来宾",
+        "count": 2
+      },
+      {
+        "name": "崇左",
+        "count": 1
+      }
+    ],
+    "count": 101
+  },
+  {
+    "name": "海南",
+    "cities": [
+      {
+        "name": "海口",
+        "count": 19
+      },
+      {
+        "name": "三亚",
+        "count": 12
+      },
+      {
+        "name": "三沙",
+        "count": 0
+      },
+      {
+        "name": "儋州",
+        "count": 2
+      },
+      {
+        "name": "五指山",
+        "count": 0
+      },
+      {
+        "name": "琼海",
+        "count": 2
+      },
+      {
+        "name": "文昌",
+        "count": 1
+      },
+      {
+        "name": "万宁",
+        "count": 1
+      },
+      {
+        "name": "东方",
+        "count": 0
+      },
+      {
+        "name": "定安",
+        "count": 0
+      }
+    ],
+    "count": 37
+  },
+  {
+    "name": "重庆",
+    "count": 72,
+    "cities": []
+  },
+  {
+    "name": "四川",
+    "cities": [
+      {
+        "name": "成都",
+        "count": 90
+      },
+      {
+        "name": "自贡",
+        "count": 4
+      },
+      {
+        "name": "攀枝花",
+        "count": 2
+      },
+      {
+        "name": "泸州",
+        "count": 7
+      },
+      {
+        "name": "德阳",
+        "count": 4
+      },
+      {
+        "name": "绵阳",
+        "count": 14
+      },
+      {
+        "name": "广元",
+        "count": 4
+      },
+      {
+        "name": "遂宁",
+        "count": 7
+      },
+      {
+        "name": "内江",
+        "count": 5
+      },
+      {
+        "name": "乐山",
+        "count": 5
+      },
+      {
+        "name": "南充",
+        "count": 7
+      },
+      {
+        "name": "眉山",
+        "count": 4
+      },
+      {
+        "name": "宜宾",
+        "count": 6
+      },
+      {
+        "name": "广安",
+        "count": 4
+      },
+      {
+        "name": "达州",
+        "count": 8
+      },
+      {
+        "name": "雅安",
+        "count": 1
+      },
+      {
+        "name": "巴中",
+        "count": 2
+      },
+      {
+        "name": "资阳",
+        "count": 4
+      },
+      {
+        "name": "阿坝",
+        "count": 0
+      },
+      {
+        "name": "甘孜",
+        "count": 0
+      },
+      {
+        "name": "凉山",
+        "count": 0
+      }
+    ],
+    "count": 178
+  },
+  {
+    "name": "贵州",
+    "cities": [
+      {
+        "name": "贵阳",
+        "count": 27
+      },
+      {
+        "name": "六盘水",
+        "count": 3
+      },
+      {
+        "name": "遵义",
+        "count": 7
+      },
+      {
+        "name": "安顺",
+        "count": 4
+      },
+      {
+        "name": "毕节",
+        "count": 4
+      },
+      {
+        "name": "铜仁",
+        "count": 2
+      },
+      {
+        "name": "黔西南",
+        "count": 3
+      },
+      {
+        "name": "黔东南",
+        "count": 1
+      },
+      {
+        "name": "黔南",
+        "count": 2
+      }
+    ],
+    "count": 53
+  },
+  {
+    "name": "云南",
+    "cities": [
+      {
+        "name": "昆明",
+        "count": 30
+      },
+      {
+        "name": "曲靖",
+        "count": 4
+      },
+      {
+        "name": "玉溪",
+        "count": 2
+      },
+      {
+        "name": "保山",
+        "count": 1
+      },
+      {
+        "name": "昭通",
+        "count": 3
+      },
+      {
+        "name": "丽江",
+        "count": 1
+      },
+      {
+        "name": "普洱",
+        "count": 2
+      },
+      {
+        "name": "临沧",
+        "count": 1
+      },
+      {
+        "name": "楚雄",
+        "count": 2
+      },
+      {
+        "name": "红河",
+        "count": 2
+      },
+      {
+        "name": "文山",
+        "count": 1
+      },
+      {
+        "name": "西双版纳",
+        "count": 2
+      },
+      {
+        "name": "大理",
+        "count": 3
+      },
+      {
+        "name": "德宏",
+        "count": 1
+      },
+      {
+        "name": "怒江",
+        "count": 0
+      },
+      {
+        "name": "迪庆",
+        "count": 0
+      }
+    ],
+    "count": 55
+  },
+  {
+    "name": "西藏",
+    "cities": [
+      {
+        "name": "拉萨",
+        "count": 1
+      },
+      {
+        "name": "日喀则",
+        "count": 0
+      },
+      {
+        "name": "昌都",
+        "count": 0
+      },
+      {
+        "name": "林芝",
+        "count": 0
+      },
+      {
+        "name": "山南",
+        "count": 0
+      },
+      {
+        "name": "那曲",
+        "count": 0
+      },
+      {
+        "name": "阿里",
+        "count": 0
+      }
+    ],
+    "count": 1
+  },
+  {
+    "name": "陕西",
+    "cities": [
+      {
+        "name": "西安",
+        "count": 58
+      },
+      {
+        "name": "铜川",
+        "count": 0
+      },
+      {
+        "name": "宝鸡",
+        "count": 6
+      },
+      {
+        "name": "咸阳",
+        "count": 10
+      },
+      {
+        "name": "渭南",
+        "count": 7
+      },
+      {
+        "name": "延安",
+        "count": 2
+      },
+      {
+        "name": "汉中",
+        "count": 4
+      },
+      {
+        "name": "榆林",
+        "count": 4
+      },
+      {
+        "name": "安康",
+        "count": 1
+      },
+      {
+        "name": "商洛",
+        "count": 1
+      }
+    ],
+    "count": 93
+  },
+  {
+    "name": "甘肃",
+    "cities": [
+      {
+        "name": "兰州",
+        "count": 12
+      },
+      {
+        "name": "嘉峪关",
+        "count": 2
+      },
+      {
+        "name": "金昌",
+        "count": 0
+      },
+      {
+        "name": "白银",
+        "count": 0
+      },
+      {
+        "name": "天水",
+        "count": 3
+      },
+      {
+        "name": "武威",
+        "count": 1
+      },
+      {
+        "name": "张掖",
+        "count": 0
+      },
+      {
+        "name": "平凉",
+        "count": 0
+      },
+      {
+        "name": "酒泉",
+        "count": 0
+      },
+      {
+        "name": "庆阳",
+        "count": 1
+      },
+      {
+        "name": "定西",
+        "count": 0
+      },
+      {
+        "name": "陇南",
+        "count": 0
+      },
+      {
+        "name": "临夏",
+        "count": 0
+      },
+      {
+        "name": "甘南",
+        "count": 0
+      }
+    ],
+    "count": 19
+  },
+  {
+    "name": "青海",
+    "cities": [
+      {
+        "name": "西宁",
+        "count": 8
+      },
+      {
+        "name": "海东",
+        "count": 0
+      },
+      {
+        "name": "海北",
+        "count": 0
+      },
+      {
+        "name": "黄南",
+        "count": 0
+      },
+      {
+        "name": "海南",
+        "count": 0
+      },
+      {
+        "name": "果洛",
+        "count": 0
+      },
+      {
+        "name": "玉树",
+        "count": 0
+      },
+      {
+        "name": "海西",
+        "count": 0
+      }
+    ],
+    "count": 8
+  },
+  {
+    "name": "宁夏",
+    "cities": [
+      {
+        "name": "银川",
+        "count": 13
+      },
+      {
+        "name": "石嘴山",
+        "count": 0
+      },
+      {
+        "name": "吴忠",
+        "count": 1
+      },
+      {
+        "name": "固原",
+        "count": 0
+      },
+      {
+        "name": "中卫",
+        "count": 0
+      }
+    ],
+    "count": 14
+  },
+  {
+    "name": "新疆",
+    "cities": [
+      {
+        "name": "乌鲁木齐",
+        "count": 16
+      },
+      {
+        "name": "克拉玛依",
+        "count": 1
+      },
+      {
+        "name": "吐鲁番",
+        "count": 0
+      },
+      {
+        "name": "哈密",
+        "count": 1
+      },
+      {
+        "name": "昌吉",
+        "count": 3
+      },
+      {
+        "name": "博尔塔拉",
+        "count": 0
+      },
+      {
+        "name": "巴音郭楞",
+        "count": 3
+      },
+      {
+        "name": "阿克苏",
+        "count": 2
+      },
+      {
+        "name": "克孜勒苏柯尔克孜",
+        "count": 0
+      },
+      {
+        "name": "喀什",
+        "count": 3
+      },
+      {
+        "name": "和田",
+        "count": 0
+      },
+      {
+        "name": "伊犁",
+        "count": 3
+      },
+      {
+        "name": "塔城",
+        "count": 0
+      },
+      {
+        "name": "阿勒泰",
+        "count": 0
+      },
+      {
+        "name": "石河子",
+        "count": 2
+      },
+      {
+        "name": "阿拉尔",
+        "count": 0
+      },
+      {
+        "name": "图木舒克",
+        "count": 0
+      },
+      {
+        "name": "五家渠",
+        "count": 0
+      },
+      {
+        "name": "北屯",
+        "count": 0
+      },
+      {
+        "name": "铁门关",
+        "count": 0
+      },
+      {
+        "name": "双河",
+        "count": 1
+      },
+      {
+        "name": "可克达拉",
+        "count": 0
+      },
+      {
+        "name": "昆玉",
+        "count": 0
+      },
+      {
+        "name": "胡杨河",
+        "count": 0
+      },
+      {
+        "name": "新星",
+        "count": 0
+      }
+    ],
+    "count": 35
+  },
+  {
+    "name": "台湾",
+    "cities": [
+      {
+        "name": "台北",
+        "count": 44
+      },
+      {
+        "name": "高雄",
+        "count": 32
+      },
+      {
+        "name": "台南",
+        "count": 15
+      },
+      {
+        "name": "台中",
+        "count": 20
+      },
+      {
+        "name": "新竹",
+        "count": 6
+      },
+      {
+        "name": "嘉义",
+        "count": 5
+      },
+      {
+        "name": "新北",
+        "count": 13
+      },
+      {
+        "name": "桃园",
+        "count": 10
+      }
+    ],
+    "count": 145
+  },
+  {
+    "name": "香港",
+    "count": 95,
+    "cities": []
+  },
+  {
+    "name": "澳门",
+    "count": 16,
+    "cities": []
+  }
+]

@@ -1,0 +1,4326 @@
+{
+  "澳门": [
+    {
+      "name": "澳门",
+      "name_en": "Macau",
+      "maimai_count": 16,
+      "population_total": 68.0,
+      "maimai_index": 0.2353,
+      "coord": [
+        113.5491,
+        22.1928
+      ],
+      "province": "澳门",
+      "grp_total": null,
+      "per_capita_total": null
+    }
+  ],
+  "台湾": [
+    {
+      "name": "嘉义",
+      "name_en": "嘉义",
+      "maimai_count": 5,
+      "population_total": 26.22,
+      "maimai_index": 0.1907,
+      "coord": [
+        120.453,
+        23.4816
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "台北",
+      "name_en": "台北",
+      "maimai_count": 44,
+      "population_total": 249.09,
+      "maimai_index": 0.1766,
+      "coord": [
+        121.5654,
+        25.033
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "新竹",
+      "name_en": "新竹",
+      "maimai_count": 6,
+      "population_total": 45.72,
+      "maimai_index": 0.1312,
+      "coord": [
+        120.9688,
+        24.8067
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "高雄",
+      "name_en": "高雄",
+      "maimai_count": 32,
+      "population_total": 273.14,
+      "maimai_index": 0.1172,
+      "coord": [
+        120.3014,
+        22.6273
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "台南",
+      "name_en": "台南",
+      "maimai_count": 15,
+      "population_total": 185.87,
+      "maimai_index": 0.0807,
+      "coord": [
+        120.2133,
+        22.9908
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "台中",
+      "name_en": "台中",
+      "maimai_count": 20,
+      "population_total": 286.06,
+      "maimai_index": 0.0699,
+      "coord": [
+        120.6736,
+        24.1477
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "桃园",
+      "name_en": "桃园",
+      "maimai_count": 10,
+      "population_total": 233.86,
+      "maimai_index": 0.0428,
+      "coord": [
+        121.3,
+        24.99
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    },
+    {
+      "name": "新北",
+      "name_en": "新北",
+      "maimai_count": 13,
+      "population_total": 404.7,
+      "maimai_index": 0.0321,
+      "coord": [
+        121.4633,
+        25.0114
+      ],
+      "province": "台湾",
+      "grp_total": null,
+      "per_capita_total": null
+    }
+  ],
+  "香港": [
+    {
+      "name": "香港",
+      "name_en": "Hong Kong",
+      "maimai_count": 95,
+      "population_total": 750.0,
+      "maimai_index": 0.1267,
+      "coord": [
+        114.1716,
+        22.2814
+      ],
+      "province": "香港",
+      "grp_total": null,
+      "per_capita_total": null
+    }
+  ],
+  "广东": [
+    {
+      "name": "珠海",
+      "name_en": "Zhuhai",
+      "maimai_count": 29,
+      "population_total": 249.0,
+      "maimai_index": 0.1165,
+      "coord": [
+        113.5767,
+        22.2707
+      ],
+      "province": "广东",
+      "grp_total": 4233,
+      "per_capita_total": 170306.0
+    },
+    {
+      "name": "广州",
+      "name_en": "Guangzhou",
+      "maimai_count": 160,
+      "population_total": 1883.0,
+      "maimai_index": 0.085,
+      "coord": [
+        113.2644,
+        23.1291
+      ],
+      "province": "广东",
+      "grp_total": 30356,
+      "per_capita_total": 161634.0
+    },
+    {
+      "name": "深圳",
+      "name_en": "Shenzhen",
+      "maimai_count": 122,
+      "population_total": 1779.0,
+      "maimai_index": 0.0686,
+      "coord": [
+        114.0579,
+        22.5431
+      ],
+      "province": "广东",
+      "grp_total": 34606,
+      "per_capita_total": 195230.0
+    },
+    {
+      "name": "佛山",
+      "name_en": "Foshan",
+      "maimai_count": 61,
+      "population_total": 962.0,
+      "maimai_index": 0.0634,
+      "coord": [
+        113.1214,
+        23.0215
+      ],
+      "province": "广东",
+      "grp_total": 13276,
+      "per_capita_total": 138526.0
+    },
+    {
+      "name": "东莞",
+      "name_en": "Dongguan",
+      "maimai_count": 56,
+      "population_total": 1049.0,
+      "maimai_index": 0.0534,
+      "coord": [
+        113.7518,
+        23.0207
+      ],
+      "province": "广东",
+      "grp_total": 11438,
+      "per_capita_total": 109339.0
+    },
+    {
+      "name": "汕头",
+      "name_en": "Shantou",
+      "maimai_count": 24,
+      "population_total": 556.0,
+      "maimai_index": 0.0432,
+      "coord": [
+        116.7085,
+        23.371
+      ],
+      "province": "广东",
+      "grp_total": 3158,
+      "per_capita_total": 56910.0
+    },
+    {
+      "name": "肇庆",
+      "name_en": "Zhaoqing",
+      "maimai_count": 17,
+      "population_total": 413.0,
+      "maimai_index": 0.0412,
+      "coord": [
+        112.4653,
+        23.0469
+      ],
+      "province": "广东",
+      "grp_total": 2793,
+      "per_capita_total": 67614.0
+    },
+    {
+      "name": "惠州",
+      "name_en": "Huizhou",
+      "maimai_count": 22,
+      "population_total": 607.0,
+      "maimai_index": 0.0362,
+      "coord": [
+        114.4168,
+        23.1108
+      ],
+      "province": "广东",
+      "grp_total": 5640,
+      "per_capita_total": 93036.0
+    },
+    {
+      "name": "江门",
+      "name_en": "Jiangmen",
+      "maimai_count": 17,
+      "population_total": 482.0,
+      "maimai_index": 0.0353,
+      "coord": [
+        113.0819,
+        22.5789
+      ],
+      "province": "广东",
+      "grp_total": 4022,
+      "per_capita_total": 83409.0
+    },
+    {
+      "name": "清远",
+      "name_en": "Qiingyuan",
+      "maimai_count": 14,
+      "population_total": 399.0,
+      "maimai_index": 0.0351,
+      "coord": [
+        113.056,
+        23.682
+      ],
+      "province": "广东",
+      "grp_total": 2120,
+      "per_capita_total": 53188.0
+    },
+    {
+      "name": "阳江",
+      "name_en": "Yangjiang",
+      "maimai_count": 9,
+      "population_total": 262.0,
+      "maimai_index": 0.0344,
+      "coord": [
+        111.9751,
+        21.8592
+      ],
+      "province": "广东",
+      "grp_total": 1582,
+      "per_capita_total": 60294.0
+    },
+    {
+      "name": "韶关",
+      "name_en": "Shaoguan",
+      "maimai_count": 9,
+      "population_total": 286.0,
+      "maimai_index": 0.0315,
+      "coord": [
+        113.5972,
+        24.8108
+      ],
+      "province": "广东",
+      "grp_total": 1621,
+      "per_capita_total": 56677.0
+    },
+    {
+      "name": "中山",
+      "name_en": "Zhongshan",
+      "maimai_count": 12,
+      "population_total": 446.0,
+      "maimai_index": 0.0269,
+      "coord": [
+        113.393,
+        22.5176
+      ],
+      "province": "广东",
+      "grp_total": 3851,
+      "per_capita_total": 86636.0
+    },
+    {
+      "name": "潮州",
+      "name_en": "Chaozhou",
+      "maimai_count": 6,
+      "population_total": 258.0,
+      "maimai_index": 0.0233,
+      "coord": [
+        116.6229,
+        23.6567
+      ],
+      "province": "广东",
+      "grp_total": 1357,
+      "per_capita_total": 52665.0
+    },
+    {
+      "name": "揭阳",
+      "name_en": "Jieyang",
+      "maimai_count": 13,
+      "population_total": 565.0,
+      "maimai_index": 0.023,
+      "coord": [
+        116.3727,
+        23.5497
+      ],
+      "province": "广东",
+      "grp_total": 2445,
+      "per_capita_total": 43322.0
+    },
+    {
+      "name": "湛江",
+      "name_en": "Zhanjiang",
+      "maimai_count": 16,
+      "population_total": 708.0,
+      "maimai_index": 0.0226,
+      "coord": [
+        110.3594,
+        21.2707
+      ],
+      "province": "广东",
+      "grp_total": 3794,
+      "per_capita_total": 53757.0
+    },
+    {
+      "name": "汕尾",
+      "name_en": "Shanwei",
+      "maimai_count": 6,
+      "population_total": 269.0,
+      "maimai_index": 0.0223,
+      "coord": [
+        115.3752,
+        22.7862
+      ],
+      "province": "广东",
+      "grp_total": 1431,
+      "per_capita_total": 53252.0
+    },
+    {
+      "name": "云浮",
+      "name_en": "Yunfu",
+      "maimai_count": 5,
+      "population_total": 240.0,
+      "maimai_index": 0.0208,
+      "coord": [
+        112.0444,
+        22.915
+      ],
+      "province": "广东",
+      "grp_total": 1207,
+      "per_capita_total": 50382.0
+    },
+    {
+      "name": "茂名",
+      "name_en": "Maoming",
+      "maimai_count": 10,
+      "population_total": 625.0,
+      "maimai_index": 0.016,
+      "coord": [
+        110.9252,
+        21.6633
+      ],
+      "province": "广东",
+      "grp_total": 3987,
+      "per_capita_total": 63844.0
+    },
+    {
+      "name": "河源",
+      "name_en": "Heyuan",
+      "maimai_count": 4,
+      "population_total": 284.0,
+      "maimai_index": 0.0141,
+      "coord": [
+        114.6978,
+        23.7436
+      ],
+      "province": "广东",
+      "grp_total": 1348,
+      "per_capita_total": 47472.0
+    },
+    {
+      "name": "梅州",
+      "name_en": "Meizhou",
+      "maimai_count": 4,
+      "population_total": 385.0,
+      "maimai_index": 0.0104,
+      "coord": [
+        116.1225,
+        24.2886
+      ],
+      "province": "广东",
+      "grp_total": 1408,
+      "per_capita_total": 36549.0
+    }
+  ],
+  "海南": [
+    {
+      "name": "三亚",
+      "name_en": "Sanya",
+      "maimai_count": 12,
+      "population_total": 111.0,
+      "maimai_index": 0.1081,
+      "coord": [
+        109.5082,
+        18.2479
+      ],
+      "province": "海南",
+      "grp_total": 971,
+      "per_capita_total": 89446.0
+    },
+    {
+      "name": "海口",
+      "name_en": "Haikou",
+      "maimai_count": 19,
+      "population_total": 300.0,
+      "maimai_index": 0.0633,
+      "coord": [
+        110.3492,
+        20.0174
+      ],
+      "province": "海南",
+      "grp_total": 2358,
+      "per_capita_total": 79390.0
+    },
+    {
+      "name": "儋州",
+      "name_en": "Danzhou",
+      "maimai_count": 2,
+      "population_total": 102.0,
+      "maimai_index": 0.0196,
+      "coord": [
+        109.5808,
+        19.5211
+      ],
+      "province": "海南",
+      "grp_total": 1003,
+      "per_capita_total": 100430.0
+    }
+  ],
+  "江苏": [
+    {
+      "name": "南京",
+      "name_en": "Nanjing",
+      "maimai_count": 84,
+      "population_total": 955.0,
+      "maimai_index": 0.088,
+      "coord": [
+        118.7969,
+        32.0603
+      ],
+      "province": "江苏",
+      "grp_total": 17421,
+      "per_capita_total": 183015.0
+    },
+    {
+      "name": "常州",
+      "name_en": "Changzhou",
+      "maimai_count": 30,
+      "population_total": 538.0,
+      "maimai_index": 0.0558,
+      "coord": [
+        119.9741,
+        31.8112
+      ],
+      "province": "江苏",
+      "grp_total": 10116,
+      "per_capita_total": 188366.0
+    },
+    {
+      "name": "淮安",
+      "name_en": "Huai'an",
+      "maimai_count": 21,
+      "population_total": 454.0,
+      "maimai_index": 0.0463,
+      "coord": [
+        119.0153,
+        33.6104
+      ],
+      "province": "江苏",
+      "grp_total": 5015,
+      "per_capita_total": 110329.0
+    },
+    {
+      "name": "苏州",
+      "name_en": "Suzhou",
+      "maimai_count": 59,
+      "population_total": 1296.0,
+      "maimai_index": 0.0455,
+      "coord": [
+        120.5853,
+        31.2989
+      ],
+      "province": "江苏",
+      "grp_total": 24653,
+      "per_capita_total": 190605.0
+    },
+    {
+      "name": "无锡",
+      "name_en": "Wuxi",
+      "maimai_count": 30,
+      "population_total": 750.0,
+      "maimai_index": 0.04,
+      "coord": [
+        120.3119,
+        31.4912
+      ],
+      "province": "江苏",
+      "grp_total": 15456,
+      "per_capita_total": 206278.0
+    },
+    {
+      "name": "宿迁",
+      "name_en": "Suqian",
+      "maimai_count": 17,
+      "population_total": 498.0,
+      "maimai_index": 0.0341,
+      "coord": [
+        118.2755,
+        33.963
+      ],
+      "province": "江苏",
+      "grp_total": 4398,
+      "per_capita_total": 88379.0
+    },
+    {
+      "name": "徐州",
+      "name_en": "Xuzhou",
+      "maimai_count": 28,
+      "population_total": 902.0,
+      "maimai_index": 0.031,
+      "coord": [
+        117.2841,
+        34.2058
+      ],
+      "province": "江苏",
+      "grp_total": 8900,
+      "per_capita_total": 98683.0
+    },
+    {
+      "name": "连云港",
+      "name_en": "Lianyungang",
+      "maimai_count": 12,
+      "population_total": 459.0,
+      "maimai_index": 0.0261,
+      "coord": [
+        119.1788,
+        34.6
+      ],
+      "province": "江苏",
+      "grp_total": 4364,
+      "per_capita_total": 94917.0
+    },
+    {
+      "name": "南通",
+      "name_en": "Nantong",
+      "maimai_count": 19,
+      "population_total": 775.0,
+      "maimai_index": 0.0245,
+      "coord": [
+        120.8646,
+        32.0162
+      ],
+      "province": "江苏",
+      "grp_total": 11813,
+      "per_capita_total": 152508.0
+    },
+    {
+      "name": "泰州",
+      "name_en": "Taizhou",
+      "maimai_count": 11,
+      "population_total": 451.0,
+      "maimai_index": 0.0244,
+      "coord": [
+        119.9152,
+        32.4847
+      ],
+      "province": "江苏",
+      "grp_total": 6732,
+      "per_capita_total": 149383.0
+    },
+    {
+      "name": "扬州",
+      "name_en": "Yangzhou",
+      "maimai_count": 11,
+      "population_total": 459.0,
+      "maimai_index": 0.024,
+      "coord": [
+        119.421,
+        32.3932
+      ],
+      "province": "江苏",
+      "grp_total": 7423,
+      "per_capita_total": 161940.0
+    },
+    {
+      "name": "镇江",
+      "name_en": "Zhenjiang",
+      "maimai_count": 7,
+      "population_total": 323.0,
+      "maimai_index": 0.0217,
+      "coord": [
+        119.4528,
+        32.2044
+      ],
+      "province": "江苏",
+      "grp_total": 5264,
+      "per_capita_total": 163272.0
+    },
+    {
+      "name": "盐城",
+      "name_en": "Yancheng",
+      "maimai_count": 12,
+      "population_total": 669.0,
+      "maimai_index": 0.0179,
+      "coord": [
+        120.1398,
+        33.3776
+      ],
+      "province": "江苏",
+      "grp_total": 7404,
+      "per_capita_total": 110681.0
+    }
+  ],
+  "湖南": [
+    {
+      "name": "长沙",
+      "name_en": "Changsha",
+      "maimai_count": 91,
+      "population_total": 1051.0,
+      "maimai_index": 0.0866,
+      "coord": [
+        112.9388,
+        28.2282
+      ],
+      "province": "湖南",
+      "grp_total": 14332,
+      "per_capita_total": 136927.0
+    },
+    {
+      "name": "衡阳",
+      "name_en": "Hengyang",
+      "maimai_count": 20,
+      "population_total": 650.0,
+      "maimai_index": 0.0308,
+      "coord": [
+        112.572,
+        26.8932
+      ],
+      "province": "湖南",
+      "grp_total": 4191,
+      "per_capita_total": 64108.0
+    },
+    {
+      "name": "娄底",
+      "name_en": "Loudi",
+      "maimai_count": 11,
+      "population_total": 374.0,
+      "maimai_index": 0.0294,
+      "coord": [
+        111.9945,
+        27.7
+      ],
+      "province": "湖南",
+      "grp_total": 1991,
+      "per_capita_total": 53056.0
+    },
+    {
+      "name": "株洲",
+      "name_en": "Zhuzhou",
+      "maimai_count": 11,
+      "population_total": 385.0,
+      "maimai_index": 0.0286,
+      "coord": [
+        113.134,
+        27.8275
+      ],
+      "province": "湖南",
+      "grp_total": 3668,
+      "per_capita_total": 94983.0
+    },
+    {
+      "name": "岳阳",
+      "name_en": "Yueyang",
+      "maimai_count": 13,
+      "population_total": 499.0,
+      "maimai_index": 0.0261,
+      "coord": [
+        113.1292,
+        29.3573
+      ],
+      "province": "湖南",
+      "grp_total": 4842,
+      "per_capita_total": 96749.0
+    },
+    {
+      "name": "常德",
+      "name_en": "Changde",
+      "maimai_count": 11,
+      "population_total": 519.0,
+      "maimai_index": 0.0212,
+      "coord": [
+        111.6985,
+        29.0316
+      ],
+      "province": "湖南",
+      "grp_total": 4386,
+      "per_capita_total": 84342.0
+    },
+    {
+      "name": "益阳",
+      "name_en": "Yiyang",
+      "maimai_count": 7,
+      "population_total": 376.0,
+      "maimai_index": 0.0186,
+      "coord": [
+        112.3552,
+        28.5539
+      ],
+      "province": "湖南",
+      "grp_total": 2136,
+      "per_capita_total": 56567.0
+    },
+    {
+      "name": "郴州",
+      "name_en": "Chenzhou",
+      "maimai_count": 7,
+      "population_total": 460.0,
+      "maimai_index": 0.0152,
+      "coord": [
+        113.0147,
+        25.7705
+      ],
+      "province": "湖南",
+      "grp_total": 3111,
+      "per_capita_total": 67347.0
+    },
+    {
+      "name": "张家界",
+      "name_en": "Zhangjiajie",
+      "maimai_count": 2,
+      "population_total": 150.0,
+      "maimai_index": 0.0133,
+      "coord": [
+        110.4792,
+        29.1171
+      ],
+      "province": "湖南",
+      "grp_total": 614,
+      "per_capita_total": 40920.0
+    },
+    {
+      "name": "邵阳",
+      "name_en": "Shaoyang",
+      "maimai_count": 8,
+      "population_total": 636.0,
+      "maimai_index": 0.0126,
+      "coord": [
+        111.4678,
+        27.2389
+      ],
+      "province": "湖南",
+      "grp_total": 2731,
+      "per_capita_total": 42757.0
+    },
+    {
+      "name": "怀化",
+      "name_en": "Huaihua",
+      "maimai_count": 4,
+      "population_total": 447.0,
+      "maimai_index": 0.0089,
+      "coord": [
+        110.0016,
+        27.553
+      ],
+      "province": "湖南",
+      "grp_total": 1949,
+      "per_capita_total": 43335.0
+    },
+    {
+      "name": "永州",
+      "name_en": "Yongzhou",
+      "maimai_count": 4,
+      "population_total": 508.0,
+      "maimai_index": 0.0079,
+      "coord": [
+        111.6082,
+        26.4345
+      ],
+      "province": "湖南",
+      "grp_total": 2496,
+      "per_capita_total": 48842.0
+    },
+    {
+      "name": "湘潭",
+      "name_en": "Xiangtan",
+      "maimai_count": 2,
+      "population_total": 270.0,
+      "maimai_index": 0.0074,
+      "coord": [
+        112.9441,
+        27.8297
+      ],
+      "province": "湖南",
+      "grp_total": 2742,
+      "per_capita_total": 101474.0
+    }
+  ],
+  "上海": [
+    {
+      "name": "上海",
+      "name_en": "Shanghai",
+      "maimai_count": 184,
+      "population_total": 2487.0,
+      "maimai_index": 0.074,
+      "coord": [
+        121.4737,
+        31.2304
+      ],
+      "province": "上海",
+      "grp_total": 47219,
+      "per_capita_total": 190300.0
+    }
+  ],
+  "北京": [
+    {
+      "name": "北京",
+      "name_en": "Beijing",
+      "maimai_count": 156,
+      "population_total": 2186.0,
+      "maimai_index": 0.0714,
+      "coord": [
+        116.4074,
+        39.9042
+      ],
+      "province": "北京",
+      "grp_total": 43761,
+      "per_capita_total": 200278.0
+    }
+  ],
+  "浙江": [
+    {
+      "name": "杭州",
+      "name_en": "Hangzhou",
+      "maimai_count": 85,
+      "population_total": 1252.0,
+      "maimai_index": 0.0679,
+      "coord": [
+        120.1551,
+        30.2741
+      ],
+      "province": "浙江",
+      "grp_total": 20059,
+      "per_capita_total": 161129.0
+    },
+    {
+      "name": "湖州",
+      "name_en": "Huzhou",
+      "maimai_count": 15,
+      "population_total": 344.0,
+      "maimai_index": 0.0436,
+      "coord": [
+        120.1,
+        30.87
+      ],
+      "province": "浙江",
+      "grp_total": 4015,
+      "per_capita_total": 117195.0
+    },
+    {
+      "name": "绍兴",
+      "name_en": "Shaoxing",
+      "maimai_count": 23,
+      "population_total": 539.0,
+      "maimai_index": 0.0427,
+      "coord": [
+        120.58,
+        30.0
+      ],
+      "province": "浙江",
+      "grp_total": 7791,
+      "per_capita_total": 144992.0
+    },
+    {
+      "name": "金华",
+      "name_en": "Jinhua",
+      "maimai_count": 27,
+      "population_total": 716.0,
+      "maimai_index": 0.0377,
+      "coord": [
+        119.65,
+        29.08
+      ],
+      "province": "浙江",
+      "grp_total": 6011,
+      "per_capita_total": 84133.0
+    },
+    {
+      "name": "丽水",
+      "name_en": "Lishui",
+      "maimai_count": 9,
+      "population_total": 253.0,
+      "maimai_index": 0.0356,
+      "coord": [
+        119.92,
+        28.45
+      ],
+      "province": "浙江",
+      "grp_total": 1964,
+      "per_capita_total": 77908.0
+    },
+    {
+      "name": "宁波",
+      "name_en": "Ningbo",
+      "maimai_count": 34,
+      "population_total": 970.0,
+      "maimai_index": 0.0351,
+      "coord": [
+        121.55,
+        29.875
+      ],
+      "province": "浙江",
+      "grp_total": 16453,
+      "per_capita_total": 170363.0
+    },
+    {
+      "name": "台州",
+      "name_en": "Taizhou",
+      "maimai_count": 23,
+      "population_total": 671.0,
+      "maimai_index": 0.0343,
+      "coord": [
+        121.42,
+        28.66
+      ],
+      "province": "浙江",
+      "grp_total": 6241,
+      "per_capita_total": 93214.0
+    },
+    {
+      "name": "嘉兴",
+      "name_en": "Jiaxing",
+      "maimai_count": 19,
+      "population_total": 558.0,
+      "maimai_index": 0.0341,
+      "coord": [
+        120.75,
+        30.75
+      ],
+      "province": "浙江",
+      "grp_total": 7062,
+      "per_capita_total": 126851.0
+    },
+    {
+      "name": "温州",
+      "name_en": "Wenzhou",
+      "maimai_count": 27,
+      "population_total": 976.0,
+      "maimai_index": 0.0277,
+      "coord": [
+        120.65,
+        28.0
+      ],
+      "province": "浙江",
+      "grp_total": 8731,
+      "per_capita_total": 89821.0
+    },
+    {
+      "name": "舟山",
+      "name_en": "Zhoushan",
+      "maimai_count": 2,
+      "population_total": 117.0,
+      "maimai_index": 0.0171,
+      "coord": [
+        122.2,
+        30.0
+      ],
+      "province": "浙江",
+      "grp_total": 2101,
+      "per_capita_total": 179322.0
+    },
+    {
+      "name": "衢州",
+      "name_en": "Quzhou",
+      "maimai_count": 2,
+      "population_total": 230.0,
+      "maimai_index": 0.0087,
+      "coord": [
+        118.87,
+        28.97
+      ],
+      "province": "浙江",
+      "grp_total": 2125,
+      "per_capita_total": 92662.0
+    }
+  ],
+  "湖北": [
+    {
+      "name": "武汉",
+      "name_en": "Wuhan",
+      "maimai_count": 90,
+      "population_total": 1377.0,
+      "maimai_index": 0.0654,
+      "coord": [
+        114.3054,
+        30.5931
+      ],
+      "province": "湖北",
+      "grp_total": 20012,
+      "per_capita_total": 145471.0
+    },
+    {
+      "name": "宜昌",
+      "name_en": "Yichang",
+      "maimai_count": 17,
+      "population_total": 392.0,
+      "maimai_index": 0.0434,
+      "coord": [
+        111.2865,
+        30.6919
+      ],
+      "province": "湖北",
+      "grp_total": 5756,
+      "per_capita_total": 146771.0
+    },
+    {
+      "name": "黄石",
+      "name_en": "Huangshi",
+      "maimai_count": 9,
+      "population_total": 244.0,
+      "maimai_index": 0.0369,
+      "coord": [
+        115.0389,
+        30.201
+      ],
+      "province": "湖北",
+      "grp_total": 2109,
+      "per_capita_total": 86371.0
+    },
+    {
+      "name": "鄂州",
+      "name_en": "Ezhou",
+      "maimai_count": 3,
+      "population_total": 107.0,
+      "maimai_index": 0.028,
+      "coord": [
+        114.8956,
+        30.3965
+      ],
+      "province": "湖北",
+      "grp_total": 1266,
+      "per_capita_total": 118133.0
+    },
+    {
+      "name": "咸宁",
+      "name_en": "Xianning",
+      "maimai_count": 7,
+      "population_total": 261.0,
+      "maimai_index": 0.0268,
+      "coord": [
+        114.3225,
+        29.8413
+      ],
+      "province": "湖北",
+      "grp_total": 1819,
+      "per_capita_total": 69634.0
+    },
+    {
+      "name": "荆门",
+      "name_en": "Jingmen",
+      "maimai_count": 6,
+      "population_total": 255.0,
+      "maimai_index": 0.0235,
+      "coord": [
+        112.1994,
+        31.0354
+      ],
+      "province": "湖北",
+      "grp_total": 2272,
+      "per_capita_total": 89150.0
+    },
+    {
+      "name": "黄冈",
+      "name_en": "Huanggang",
+      "maimai_count": 13,
+      "population_total": 579.0,
+      "maimai_index": 0.0225,
+      "coord": [
+        114.8723,
+        30.4539
+      ],
+      "province": "湖北",
+      "grp_total": 2885,
+      "per_capita_total": 49812.0
+    },
+    {
+      "name": "荆州",
+      "name_en": "Jingzhou",
+      "maimai_count": 10,
+      "population_total": 514.0,
+      "maimai_index": 0.0195,
+      "coord": [
+        112.2397,
+        30.3352
+      ],
+      "province": "湖北",
+      "grp_total": 3151,
+      "per_capita_total": 61369.0
+    },
+    {
+      "name": "十堰",
+      "name_en": "Shiyan",
+      "maimai_count": 6,
+      "population_total": 315.0,
+      "maimai_index": 0.019,
+      "coord": [
+        110.798,
+        32.6294
+      ],
+      "province": "湖北",
+      "grp_total": 2359,
+      "per_capita_total": 74660.0
+    },
+    {
+      "name": "襄阳",
+      "name_en": "Xiangyang",
+      "maimai_count": 10,
+      "population_total": 528.0,
+      "maimai_index": 0.0189,
+      "coord": [
+        112.1222,
+        32.009
+      ],
+      "province": "湖北",
+      "grp_total": 5843,
+      "per_capita_total": 110719.0
+    },
+    {
+      "name": "孝感",
+      "name_en": "Xiaogan",
+      "maimai_count": 6,
+      "population_total": 417.0,
+      "maimai_index": 0.0144,
+      "coord": [
+        113.9165,
+        30.9245
+      ],
+      "province": "湖北",
+      "grp_total": 2920,
+      "per_capita_total": 69873.0
+    },
+    {
+      "name": "随州",
+      "name_en": "Suizhou",
+      "maimai_count": 2,
+      "population_total": 200.0,
+      "maimai_index": 0.01,
+      "coord": [
+        113.3827,
+        31.6909
+      ],
+      "province": "湖北",
+      "grp_total": 1331,
+      "per_capita_total": 66254.0
+    }
+  ],
+  "甘肃": [
+    {
+      "name": "嘉峪关",
+      "name_en": "Jiayuguan",
+      "maimai_count": 2,
+      "population_total": 32.0,
+      "maimai_index": 0.0625,
+      "coord": [
+        98.2773,
+        39.7865
+      ],
+      "province": "甘肃",
+      "grp_total": 383,
+      "per_capita_total": 121271.0
+    },
+    {
+      "name": "兰州",
+      "name_en": "Lanzhou",
+      "maimai_count": 12,
+      "population_total": 443.0,
+      "maimai_index": 0.0271,
+      "coord": [
+        103.8343,
+        36.0611
+      ],
+      "province": "甘肃",
+      "grp_total": 3487,
+      "per_capita_total": 78894.0
+    },
+    {
+      "name": "天水",
+      "name_en": "Tianshui",
+      "maimai_count": 3,
+      "population_total": 291.0,
+      "maimai_index": 0.0103,
+      "coord": [
+        105.7249,
+        34.5809
+      ],
+      "province": "甘肃",
+      "grp_total": 857,
+      "per_capita_total": 29233.0
+    },
+    {
+      "name": "武威",
+      "name_en": "Wuwei",
+      "maimai_count": 1,
+      "population_total": 143.0,
+      "maimai_index": 0.007,
+      "coord": [
+        102.6347,
+        37.9283
+      ],
+      "province": "甘肃",
+      "grp_total": 708,
+      "per_capita_total": 49302.0
+    },
+    {
+      "name": "庆阳",
+      "name_en": "Qingyang",
+      "maimai_count": 1,
+      "population_total": 213.0,
+      "maimai_index": 0.0047,
+      "coord": [
+        107.6436,
+        35.7098
+      ],
+      "province": "甘肃",
+      "grp_total": 1100,
+      "per_capita_total": 51289.0
+    },
+    {
+      "name": "金昌",
+      "name_en": "Jinchang",
+      "maimai_count": 0,
+      "population_total": 43.0,
+      "maimai_index": 0.0,
+      "coord": [
+        102.188,
+        38.52
+      ],
+      "province": "甘肃",
+      "grp_total": 568,
+      "per_capita_total": 131056.0
+    },
+    {
+      "name": "白银",
+      "name_en": "Baiyin",
+      "maimai_count": 0,
+      "population_total": 149.0,
+      "maimai_index": 0.0,
+      "coord": [
+        104.1736,
+        36.5455
+      ],
+      "province": "甘肃",
+      "grp_total": 672,
+      "per_capita_total": 44967.0
+    },
+    {
+      "name": "张掖",
+      "name_en": "Zhangye",
+      "maimai_count": 0,
+      "population_total": 110.0,
+      "maimai_index": 0.0,
+      "coord": [
+        100.4498,
+        38.9259
+      ],
+      "province": "甘肃",
+      "grp_total": 608,
+      "per_capita_total": 54660.0
+    },
+    {
+      "name": "平凉",
+      "name_en": "Pingliang",
+      "maimai_count": 0,
+      "population_total": 179.0,
+      "maimai_index": 0.0,
+      "coord": [
+        106.6652,
+        35.543
+      ],
+      "province": "甘肃",
+      "grp_total": 669,
+      "per_capita_total": 37057.0
+    },
+    {
+      "name": "酒泉",
+      "name_en": "Jiuquan",
+      "maimai_count": 0,
+      "population_total": 104.0,
+      "maimai_index": 0.0,
+      "coord": [
+        98.4945,
+        39.7326
+      ],
+      "province": "甘肃",
+      "grp_total": 909,
+      "per_capita_total": 86714.0
+    },
+    {
+      "name": "定西",
+      "name_en": "Dingxi",
+      "maimai_count": 0,
+      "population_total": 248.0,
+      "maimai_index": 0.0,
+      "coord": [
+        104.6263,
+        35.5807
+      ],
+      "province": "甘肃",
+      "grp_total": 600,
+      "per_capita_total": 24061.0
+    },
+    {
+      "name": "陇南",
+      "name_en": "Longnan",
+      "maimai_count": 0,
+      "population_total": 234.0,
+      "maimai_index": 0.0,
+      "coord": [
+        104.96,
+        33.37
+      ],
+      "province": "甘肃",
+      "grp_total": 603,
+      "per_capita_total": 25477.0
+    }
+  ],
+  "内蒙古": [
+    {
+      "name": "乌海",
+      "name_en": "Wuhai",
+      "maimai_count": 3,
+      "population_total": 56.0,
+      "maimai_index": 0.0536,
+      "coord": [
+        106.7953,
+        39.6538
+      ],
+      "province": "内蒙古",
+      "grp_total": 713,
+      "per_capita_total": 127342.0
+    },
+    {
+      "name": "包头",
+      "name_en": "Baotou",
+      "maimai_count": 11,
+      "population_total": 276.0,
+      "maimai_index": 0.0399,
+      "coord": [
+        109.8403,
+        40.6574
+      ],
+      "province": "内蒙古",
+      "grp_total": 4264,
+      "per_capita_total": 155050.0
+    },
+    {
+      "name": "鄂尔多斯",
+      "name_en": "Erdos",
+      "maimai_count": 5,
+      "population_total": 222.0,
+      "maimai_index": 0.0225,
+      "coord": [
+        109.7813,
+        39.6082
+      ],
+      "province": "内蒙古",
+      "grp_total": 5850,
+      "per_capita_total": 264699.0
+    },
+    {
+      "name": "通辽",
+      "name_en": "Tongliao",
+      "maimai_count": 6,
+      "population_total": 281.0,
+      "maimai_index": 0.0214,
+      "coord": [
+        122.2443,
+        43.6525
+      ],
+      "province": "内蒙古",
+      "grp_total": 1609,
+      "per_capita_total": 57056.0
+    },
+    {
+      "name": "巴彦淖尔",
+      "name_en": "Bayannur",
+      "maimai_count": 3,
+      "population_total": 150.0,
+      "maimai_index": 0.02,
+      "coord": [
+        107.3879,
+        40.7432
+      ],
+      "province": "内蒙古",
+      "grp_total": 1161,
+      "per_capita_total": 76893.0
+    },
+    {
+      "name": "呼伦贝尔",
+      "name_en": "Hulunbuir",
+      "maimai_count": 4,
+      "population_total": 217.0,
+      "maimai_index": 0.0184,
+      "coord": [
+        119.7658,
+        49.2118
+      ],
+      "province": "内蒙古",
+      "grp_total": 1596,
+      "per_capita_total": 73192.0
+    },
+    {
+      "name": "赤峰",
+      "name_en": "Chifeng",
+      "maimai_count": 4,
+      "population_total": 397.0,
+      "maimai_index": 0.0101,
+      "coord": [
+        118.8869,
+        42.2578
+      ],
+      "province": "内蒙古",
+      "grp_total": 2198,
+      "per_capita_total": 55144.0
+    },
+    {
+      "name": "乌兰察布",
+      "name_en": "Ulanqab",
+      "maimai_count": 1,
+      "population_total": 160.0,
+      "maimai_index": 0.0063,
+      "coord": [
+        113.1326,
+        40.9946
+      ],
+      "province": "内蒙古",
+      "grp_total": 1085,
+      "per_capita_total": 67158.0
+    }
+  ],
+  "江西": [
+    {
+      "name": "南昌",
+      "name_en": "Nanchang",
+      "maimai_count": 35,
+      "population_total": 657.0,
+      "maimai_index": 0.0533,
+      "coord": [
+        115.854,
+        28.683
+      ],
+      "province": "江西",
+      "grp_total": 7213,
+      "per_capita_total": 110067.0
+    },
+    {
+      "name": "鹰潭",
+      "name_en": "Yingtan",
+      "maimai_count": 4,
+      "population_total": 115.0,
+      "maimai_index": 0.0348,
+      "coord": [
+        117.0339,
+        28.2382
+      ],
+      "province": "江西",
+      "grp_total": 1282,
+      "per_capita_total": 110975.0
+    },
+    {
+      "name": "九江",
+      "name_en": "Jiujiang",
+      "maimai_count": 15,
+      "population_total": 454.0,
+      "maimai_index": 0.033,
+      "coord": [
+        116.0019,
+        29.7051
+      ],
+      "province": "江西",
+      "grp_total": 3845,
+      "per_capita_total": 84566.0
+    },
+    {
+      "name": "景德镇",
+      "name_en": "Jingdezhen",
+      "maimai_count": 4,
+      "population_total": 162.0,
+      "maimai_index": 0.0247,
+      "coord": [
+        117.1784,
+        29.2688
+      ],
+      "province": "江西",
+      "grp_total": 1201,
+      "per_capita_total": 74146.0
+    },
+    {
+      "name": "上饶",
+      "name_en": "Shangrao",
+      "maimai_count": 14,
+      "population_total": 640.0,
+      "maimai_index": 0.0219,
+      "coord": [
+        117.9436,
+        28.4549
+      ],
+      "province": "江西",
+      "grp_total": 3402,
+      "per_capita_total": 53020.0
+    },
+    {
+      "name": "宜春",
+      "name_en": "Yichun",
+      "maimai_count": 10,
+      "population_total": 494.0,
+      "maimai_index": 0.0202,
+      "coord": [
+        114.3911,
+        27.8043
+      ],
+      "province": "江西",
+      "grp_total": 3467,
+      "per_capita_total": 69951.0
+    },
+    {
+      "name": "赣州",
+      "name_en": "Ganzhou",
+      "maimai_count": 16,
+      "population_total": 899.0,
+      "maimai_index": 0.0178,
+      "coord": [
+        114.9359,
+        25.831
+      ],
+      "province": "江西",
+      "grp_total": 4606,
+      "per_capita_total": 51245.0
+    },
+    {
+      "name": "新余",
+      "name_en": "Xinyu",
+      "maimai_count": 2,
+      "population_total": 120.0,
+      "maimai_index": 0.0167,
+      "coord": [
+        114.9308,
+        27.8108
+      ],
+      "province": "江西",
+      "grp_total": 1262,
+      "per_capita_total": 105098.0
+    },
+    {
+      "name": "萍乡",
+      "name_en": "Pingxiang",
+      "maimai_count": 2,
+      "population_total": 180.0,
+      "maimai_index": 0.0111,
+      "coord": [
+        113.8543,
+        27.6229
+      ],
+      "province": "江西",
+      "grp_total": 1152,
+      "per_capita_total": 63796.0
+    },
+    {
+      "name": "吉安",
+      "name_en": "Ji'an",
+      "maimai_count": 4,
+      "population_total": 439.0,
+      "maimai_index": 0.0091,
+      "coord": [
+        114.9867,
+        27.1117
+      ],
+      "province": "江西",
+      "grp_total": 2735,
+      "per_capita_total": 62099.0
+    },
+    {
+      "name": "抚州",
+      "name_en": "Fuzhou",
+      "maimai_count": 1,
+      "population_total": 356.0,
+      "maimai_index": 0.0028,
+      "coord": [
+        116.3581,
+        27.948
+      ],
+      "province": "江西",
+      "grp_total": 2035,
+      "per_capita_total": 56854.0
+    }
+  ],
+  "福建": [
+    {
+      "name": "厦门",
+      "name_en": "Xiamen",
+      "maimai_count": 25,
+      "population_total": 533.0,
+      "maimai_index": 0.0469,
+      "coord": [
+        118.0894,
+        24.4798
+      ],
+      "province": "福建",
+      "grp_total": 8066,
+      "per_capita_total": 151697.0
+    },
+    {
+      "name": "福州",
+      "name_en": "Fuzhou",
+      "maimai_count": 27,
+      "population_total": 847.0,
+      "maimai_index": 0.0319,
+      "coord": [
+        119.2965,
+        26.0745
+      ],
+      "province": "福建",
+      "grp_total": 12928,
+      "per_capita_total": 152846.0
+    },
+    {
+      "name": "宁德",
+      "name_en": "Ningde",
+      "maimai_count": 9,
+      "population_total": 316.0,
+      "maimai_index": 0.0285,
+      "coord": [
+        119.5482,
+        26.666
+      ],
+      "province": "福建",
+      "grp_total": 3807,
+      "per_capita_total": 120619.0
+    },
+    {
+      "name": "泉州",
+      "name_en": "Quanzhou",
+      "maimai_count": 23,
+      "population_total": 888.0,
+      "maimai_index": 0.0259,
+      "coord": [
+        118.6757,
+        24.874
+      ],
+      "province": "福建",
+      "grp_total": 12172,
+      "per_capita_total": 137060.0
+    },
+    {
+      "name": "三明",
+      "name_en": "Sanming",
+      "maimai_count": 6,
+      "population_total": 243.0,
+      "maimai_index": 0.0247,
+      "coord": [
+        117.6392,
+        26.2639
+      ],
+      "province": "福建",
+      "grp_total": 3007,
+      "per_capita_total": 123141.0
+    },
+    {
+      "name": "莆田",
+      "name_en": "Putian",
+      "maimai_count": 7,
+      "population_total": 318.0,
+      "maimai_index": 0.022,
+      "coord": [
+        119.0076,
+        25.4541
+      ],
+      "province": "福建",
+      "grp_total": 3071,
+      "per_capita_total": 96291.0
+    },
+    {
+      "name": "漳州",
+      "name_en": "Zhangzhou",
+      "maimai_count": 11,
+      "population_total": 506.0,
+      "maimai_index": 0.0217,
+      "coord": [
+        117.6475,
+        24.5135
+      ],
+      "province": "福建",
+      "grp_total": 5728,
+      "per_capita_total": 113087.0
+    },
+    {
+      "name": "南平",
+      "name_en": "Nanping",
+      "maimai_count": 5,
+      "population_total": 263.0,
+      "maimai_index": 0.019,
+      "coord": [
+        118.1778,
+        26.6418
+      ],
+      "province": "福建",
+      "grp_total": 2270,
+      "per_capita_total": 85969.0
+    },
+    {
+      "name": "龙岩",
+      "name_en": "Longyan",
+      "maimai_count": 4,
+      "population_total": 269.0,
+      "maimai_index": 0.0149,
+      "coord": [
+        117.0298,
+        25.0913
+      ],
+      "province": "福建",
+      "grp_total": 3318,
+      "per_capita_total": 122683.0
+    }
+  ],
+  "黑龙江": [
+    {
+      "name": "哈尔滨",
+      "name_en": "Harbin",
+      "maimai_count": 45,
+      "population_total": 978.0,
+      "maimai_index": 0.046,
+      "coord": [
+        126.534,
+        45.8038
+      ],
+      "province": "黑龙江",
+      "grp_total": 5576,
+      "per_capita_total": 56901.0
+    },
+    {
+      "name": "鸡西",
+      "name_en": "Jixi",
+      "maimai_count": 5,
+      "population_total": 142.0,
+      "maimai_index": 0.0352,
+      "coord": [
+        130.975,
+        45.3
+      ],
+      "province": "黑龙江",
+      "grp_total": 656,
+      "per_capita_total": 45684.0
+    },
+    {
+      "name": "双鸭山",
+      "name_en": "Shuangyashan",
+      "maimai_count": 3,
+      "population_total": 115.0,
+      "maimai_index": 0.0261,
+      "coord": [
+        131.15,
+        46.65
+      ],
+      "province": "黑龙江",
+      "grp_total": 541,
+      "per_capita_total": 46701.0
+    },
+    {
+      "name": "黑河",
+      "name_en": "Heihe",
+      "maimai_count": 3,
+      "population_total": 123.0,
+      "maimai_index": 0.0244,
+      "coord": [
+        127.5,
+        50.25
+      ],
+      "province": "黑龙江",
+      "grp_total": 661,
+      "per_capita_total": 53250.0
+    },
+    {
+      "name": "鹤岗",
+      "name_en": "Hegang",
+      "maimai_count": 2,
+      "population_total": 85.0,
+      "maimai_index": 0.0235,
+      "coord": [
+        130.27,
+        47.33
+      ],
+      "province": "黑龙江",
+      "grp_total": 384,
+      "per_capita_total": 44915.0
+    },
+    {
+      "name": "七台河",
+      "name_en": "Qitaihe",
+      "maimai_count": 1,
+      "population_total": 66.0,
+      "maimai_index": 0.0152,
+      "coord": [
+        130.95,
+        45.78
+      ],
+      "province": "黑龙江",
+      "grp_total": 263,
+      "per_capita_total": 39710.0
+    },
+    {
+      "name": "佳木斯",
+      "name_en": "Jiamusi",
+      "maimai_count": 3,
+      "population_total": 208.0,
+      "maimai_index": 0.0144,
+      "coord": [
+        130.32,
+        46.8
+      ],
+      "province": "黑龙江",
+      "grp_total": 909,
+      "per_capita_total": 43504.0
+    },
+    {
+      "name": "绥化",
+      "name_en": "Suihua",
+      "maimai_count": 5,
+      "population_total": 356.0,
+      "maimai_index": 0.014,
+      "coord": [
+        126.98,
+        46.63
+      ],
+      "province": "黑龙江",
+      "grp_total": 1235,
+      "per_capita_total": null
+    },
+    {
+      "name": "伊春",
+      "name_en": "Yichun",
+      "maimai_count": 1,
+      "population_total": 82.0,
+      "maimai_index": 0.0122,
+      "coord": [
+        128.9,
+        47.73
+      ],
+      "province": "黑龙江",
+      "grp_total": 358,
+      "per_capita_total": 43198.0
+    },
+    {
+      "name": "牡丹江",
+      "name_en": "Mudanjiang",
+      "maimai_count": 2,
+      "population_total": 222.0,
+      "maimai_index": 0.009,
+      "coord": [
+        129.6,
+        44.58
+      ],
+      "province": "黑龙江",
+      "grp_total": 953,
+      "per_capita_total": 43181.0
+    },
+    {
+      "name": "齐齐哈尔",
+      "name_en": "Qiqihar",
+      "maimai_count": 3,
+      "population_total": 386.0,
+      "maimai_index": 0.0078,
+      "coord": [
+        123.9182,
+        47.3543
+      ],
+      "province": "黑龙江",
+      "grp_total": 1328,
+      "per_capita_total": 34036.0
+    },
+    {
+      "name": "大庆",
+      "name_en": "Daqing",
+      "maimai_count": 2,
+      "population_total": 270.0,
+      "maimai_index": 0.0074,
+      "coord": [
+        125.03,
+        46.58
+      ],
+      "province": "黑龙江",
+      "grp_total": 2862,
+      "per_capita_total": 105493.0
+    }
+  ],
+  "山西": [
+    {
+      "name": "太原",
+      "name_en": "Taiyuan",
+      "maimai_count": 25,
+      "population_total": 545.0,
+      "maimai_index": 0.0459,
+      "coord": [
+        112.5489,
+        37.8706
+      ],
+      "province": "山西",
+      "grp_total": 5574,
+      "per_capita_total": 102370.0
+    },
+    {
+      "name": "朔州",
+      "name_en": "Shuozhou",
+      "maimai_count": 5,
+      "population_total": 158.0,
+      "maimai_index": 0.0316,
+      "coord": [
+        112.4312,
+        39.3316
+      ],
+      "province": "山西",
+      "grp_total": 1539,
+      "per_capita_total": 97133.0
+    },
+    {
+      "name": "晋中",
+      "name_en": "Jinzhong",
+      "maimai_count": 10,
+      "population_total": 338.0,
+      "maimai_index": 0.0296,
+      "coord": [
+        112.7527,
+        37.687
+      ],
+      "province": "山西",
+      "grp_total": 2091,
+      "per_capita_total": 61760.0
+    },
+    {
+      "name": "大同",
+      "name_en": "Datong",
+      "maimai_count": 9,
+      "population_total": 308.0,
+      "maimai_index": 0.0292,
+      "coord": [
+        113.3001,
+        40.0768
+      ],
+      "province": "山西",
+      "grp_total": 1872,
+      "per_capita_total": 60580.0
+    },
+    {
+      "name": "吕梁",
+      "name_en": "Lvliang",
+      "maimai_count": 9,
+      "population_total": 335.0,
+      "maimai_index": 0.0269,
+      "coord": [
+        111.1443,
+        37.5184
+      ],
+      "province": "山西",
+      "grp_total": 2366,
+      "per_capita_total": 70450.0
+    },
+    {
+      "name": "晋城",
+      "name_en": "Jincheng",
+      "maimai_count": 4,
+      "population_total": 217.0,
+      "maimai_index": 0.0184,
+      "coord": [
+        112.8511,
+        35.4976
+      ],
+      "province": "山西",
+      "grp_total": 2333,
+      "per_capita_total": 107003.0
+    },
+    {
+      "name": "临汾",
+      "name_en": "Linfen",
+      "maimai_count": 5,
+      "population_total": 389.0,
+      "maimai_index": 0.0129,
+      "coord": [
+        111.519,
+        36.0883
+      ],
+      "province": "山西",
+      "grp_total": 2312,
+      "per_capita_total": 59342.0
+    },
+    {
+      "name": "运城",
+      "name_en": "Yuncheng",
+      "maimai_count": 5,
+      "population_total": 471.0,
+      "maimai_index": 0.0106,
+      "coord": [
+        111.0074,
+        35.0263
+      ],
+      "province": "山西",
+      "grp_total": 2330,
+      "per_capita_total": 49445.0
+    },
+    {
+      "name": "长治",
+      "name_en": "Changzhi",
+      "maimai_count": 3,
+      "population_total": 313.0,
+      "maimai_index": 0.0096,
+      "coord": [
+        113.1163,
+        36.1954
+      ],
+      "province": "山西",
+      "grp_total": 2806,
+      "per_capita_total": 89536.0
+    },
+    {
+      "name": "忻州",
+      "name_en": "Xinzhou",
+      "maimai_count": 2,
+      "population_total": 263.0,
+      "maimai_index": 0.0076,
+      "coord": [
+        112.7342,
+        38.4167
+      ],
+      "province": "山西",
+      "grp_total": 1444,
+      "per_capita_total": 54578.0
+    },
+    {
+      "name": "阳泉",
+      "name_en": "Yangquan",
+      "maimai_count": 0,
+      "population_total": 130.0,
+      "maimai_index": 0.0,
+      "coord": [
+        113.5805,
+        37.8566
+      ],
+      "province": "山西",
+      "grp_total": 1003,
+      "per_capita_total": 76830.0
+    }
+  ],
+  "广西": [
+    {
+      "name": "南宁",
+      "name_en": "Nanning",
+      "maimai_count": 41,
+      "population_total": 894.0,
+      "maimai_index": 0.0459,
+      "coord": [
+        108.3661,
+        22.8172
+      ],
+      "province": "广西",
+      "grp_total": 5469,
+      "per_capita_total": 61338.0
+    },
+    {
+      "name": "贺州",
+      "name_en": "Hezhou",
+      "maimai_count": 5,
+      "population_total": 201.0,
+      "maimai_index": 0.0249,
+      "coord": [
+        111.5666,
+        24.4036
+      ],
+      "province": "广西",
+      "grp_total": 975,
+      "per_capita_total": 48257.0
+    },
+    {
+      "name": "钦州",
+      "name_en": "Qinzhou",
+      "maimai_count": 8,
+      "population_total": 332.0,
+      "maimai_index": 0.0241,
+      "coord": [
+        108.6545,
+        21.9797
+      ],
+      "province": "广西",
+      "grp_total": 1961,
+      "per_capita_total": 59125.0
+    },
+    {
+      "name": "柳州",
+      "name_en": "Liuzhou",
+      "maimai_count": 9,
+      "population_total": 415.0,
+      "maimai_index": 0.0217,
+      "coord": [
+        109.4155,
+        24.3255
+      ],
+      "province": "广西",
+      "grp_total": 3116,
+      "per_capita_total": 74679.0
+    },
+    {
+      "name": "梧州",
+      "name_en": "Wuzhou",
+      "maimai_count": 6,
+      "population_total": 283.0,
+      "maimai_index": 0.0212,
+      "coord": [
+        111.2791,
+        23.4769
+      ],
+      "province": "广西",
+      "grp_total": 1491,
+      "per_capita_total": 52640.0
+    },
+    {
+      "name": "桂林",
+      "name_en": "Guilin",
+      "maimai_count": 9,
+      "population_total": 495.0,
+      "maimai_index": 0.0182,
+      "coord": [
+        110.1794,
+        25.2345
+      ],
+      "province": "广西",
+      "grp_total": 2523,
+      "per_capita_total": 50943.0
+    },
+    {
+      "name": "北海",
+      "name_en": "Beihai",
+      "maimai_count": 3,
+      "population_total": 189.0,
+      "maimai_index": 0.0159,
+      "coord": [
+        109.1202,
+        21.4813
+      ],
+      "province": "广西",
+      "grp_total": 1751,
+      "per_capita_total": 92901.0
+    },
+    {
+      "name": "百色",
+      "name_en": "Baise",
+      "maimai_count": 4,
+      "population_total": 351.0,
+      "maimai_index": 0.0114,
+      "coord": [
+        106.6184,
+        23.9023
+      ],
+      "province": "广西",
+      "grp_total": 1850,
+      "per_capita_total": 52321.0
+    },
+    {
+      "name": "玉林",
+      "name_en": "Yulin",
+      "maimai_count": 6,
+      "population_total": 582.0,
+      "maimai_index": 0.0103,
+      "coord": [
+        110.1544,
+        22.6314
+      ],
+      "province": "广西",
+      "grp_total": 2194,
+      "per_capita_total": 37682.0
+    },
+    {
+      "name": "来宾",
+      "name_en": "Laibin",
+      "maimai_count": 2,
+      "population_total": 205.0,
+      "maimai_index": 0.0098,
+      "coord": [
+        109.2215,
+        23.7503
+      ],
+      "province": "广西",
+      "grp_total": 981,
+      "per_capita_total": 47538.0
+    },
+    {
+      "name": "防城港",
+      "name_en": "Fangchenggang",
+      "maimai_count": 1,
+      "population_total": 107.0,
+      "maimai_index": 0.0093,
+      "coord": [
+        108.3547,
+        21.6861
+      ],
+      "province": "广西",
+      "grp_total": 1036,
+      "per_capita_total": 97327.0
+    },
+    {
+      "name": "河池",
+      "name_en": "Hechi",
+      "maimai_count": 3,
+      "population_total": 335.0,
+      "maimai_index": 0.009,
+      "coord": [
+        108.0854,
+        24.6928
+      ],
+      "province": "广西",
+      "grp_total": 1163,
+      "per_capita_total": 34405.0
+    },
+    {
+      "name": "贵港",
+      "name_en": "Guigang",
+      "maimai_count": 3,
+      "population_total": 431.0,
+      "maimai_index": 0.007,
+      "coord": [
+        109.5989,
+        23.1115
+      ],
+      "province": "广西",
+      "grp_total": 1573,
+      "per_capita_total": 36321.0
+    },
+    {
+      "name": "崇左",
+      "name_en": "Chongzuo",
+      "maimai_count": 1,
+      "population_total": 206.0,
+      "maimai_index": 0.0049,
+      "coord": [
+        107.3647,
+        22.3765
+      ],
+      "province": "广西",
+      "grp_total": 1118,
+      "per_capita_total": 53939.0
+    }
+  ],
+  "安徽": [
+    {
+      "name": "合肥",
+      "name_en": "Hefei",
+      "maimai_count": 44,
+      "population_total": 985.0,
+      "maimai_index": 0.0447,
+      "coord": [
+        117.2272,
+        31.8206
+      ],
+      "province": "安徽",
+      "grp_total": 12674,
+      "per_capita_total": 130074.0
+    },
+    {
+      "name": "芜湖",
+      "name_en": "Wuhu",
+      "maimai_count": 13,
+      "population_total": 376.0,
+      "maimai_index": 0.0346,
+      "coord": [
+        118.3762,
+        31.3263
+      ],
+      "province": "安徽",
+      "grp_total": 4741,
+      "per_capita_total": 126648.0
+    },
+    {
+      "name": "马鞍山",
+      "name_en": "Ma'anshan",
+      "maimai_count": 7,
+      "population_total": 219.0,
+      "maimai_index": 0.032,
+      "coord": [
+        118.5075,
+        31.7001
+      ],
+      "province": "安徽",
+      "grp_total": 2591,
+      "per_capita_total": 118371.0
+    },
+    {
+      "name": "铜陵",
+      "name_en": "Tongling",
+      "maimai_count": 4,
+      "population_total": 130.0,
+      "maimai_index": 0.0308,
+      "coord": [
+        117.8121,
+        30.9454
+      ],
+      "province": "安徽",
+      "grp_total": 1230,
+      "per_capita_total": 94530.0
+    },
+    {
+      "name": "淮南",
+      "name_en": "Huainan",
+      "maimai_count": 8,
+      "population_total": 302.0,
+      "maimai_index": 0.0265,
+      "coord": [
+        117.0184,
+        32.5852
+      ],
+      "province": "安徽",
+      "grp_total": 1602,
+      "per_capita_total": 53005.0
+    },
+    {
+      "name": "阜阳",
+      "name_en": "Fuyang",
+      "maimai_count": 21,
+      "population_total": 808.0,
+      "maimai_index": 0.026,
+      "coord": [
+        115.8145,
+        32.8908
+      ],
+      "province": "安徽",
+      "grp_total": 3324,
+      "per_capita_total": 40970.0
+    },
+    {
+      "name": "六安",
+      "name_en": "Lu'an",
+      "maimai_count": 11,
+      "population_total": 434.0,
+      "maimai_index": 0.0253,
+      "coord": [
+        116.5178,
+        31.7356
+      ],
+      "province": "安徽",
+      "grp_total": 2113,
+      "per_capita_total": 48462.0
+    },
+    {
+      "name": "宿州",
+      "name_en": "Suzhou",
+      "maimai_count": 12,
+      "population_total": 526.0,
+      "maimai_index": 0.0228,
+      "coord": [
+        116.9643,
+        33.6339
+      ],
+      "province": "安徽",
+      "grp_total": 2291,
+      "per_capita_total": 43387.0
+    },
+    {
+      "name": "蚌埠",
+      "name_en": "Bengbu",
+      "maimai_count": 7,
+      "population_total": 326.0,
+      "maimai_index": 0.0215,
+      "coord": [
+        117.3893,
+        32.9156
+      ],
+      "province": "安徽",
+      "grp_total": 2116,
+      "per_capita_total": 64402.0
+    },
+    {
+      "name": "淮北",
+      "name_en": "Huaibei",
+      "maimai_count": 4,
+      "population_total": 194.0,
+      "maimai_index": 0.0206,
+      "coord": [
+        116.7986,
+        33.9558
+      ],
+      "province": "安徽",
+      "grp_total": 1366,
+      "per_capita_total": 70135.0
+    },
+    {
+      "name": "黄山",
+      "name_en": "Huangshan",
+      "maimai_count": 2,
+      "population_total": 132.0,
+      "maimai_index": 0.0152,
+      "coord": [
+        118.3387,
+        29.7147
+      ],
+      "province": "安徽",
+      "grp_total": 1046,
+      "per_capita_total": 79295.0
+    },
+    {
+      "name": "池州",
+      "name_en": "Chizhou",
+      "maimai_count": 2,
+      "population_total": 132.0,
+      "maimai_index": 0.0152,
+      "coord": [
+        117.4892,
+        30.656
+      ],
+      "province": "安徽",
+      "grp_total": 1112,
+      "per_capita_total": 83906.0
+    },
+    {
+      "name": "安庆",
+      "name_en": "Anqing",
+      "maimai_count": 6,
+      "population_total": 412.0,
+      "maimai_index": 0.0146,
+      "coord": [
+        117.0635,
+        30.5429
+      ],
+      "province": "安徽",
+      "grp_total": 2878,
+      "per_capita_total": 69583.0
+    },
+    {
+      "name": "亳州",
+      "name_en": "Bozhou",
+      "maimai_count": 7,
+      "population_total": 490.0,
+      "maimai_index": 0.0143,
+      "coord": [
+        115.7795,
+        33.8446
+      ],
+      "province": "安徽",
+      "grp_total": 2216,
+      "per_capita_total": 44941.0
+    },
+    {
+      "name": "宣城",
+      "name_en": "Xuancheng",
+      "maimai_count": 3,
+      "population_total": 249.0,
+      "maimai_index": 0.012,
+      "coord": [
+        118.7587,
+        30.9408
+      ],
+      "province": "安徽",
+      "grp_total": 1952,
+      "per_capita_total": 78358.0
+    },
+    {
+      "name": "滁州",
+      "name_en": "Chuzhou",
+      "maimai_count": 4,
+      "population_total": 406.0,
+      "maimai_index": 0.0099,
+      "coord": [
+        118.3163,
+        32.3016
+      ],
+      "province": "安徽",
+      "grp_total": 3782,
+      "per_capita_total": 93325.0
+    }
+  ],
+  "宁夏": [
+    {
+      "name": "银川",
+      "name_en": "Yinchuan",
+      "maimai_count": 13,
+      "population_total": 291.0,
+      "maimai_index": 0.0447,
+      "coord": [
+        106.2309,
+        38.4872
+      ],
+      "province": "宁夏",
+      "grp_total": 2686,
+      "per_capita_total": 92530.0
+    },
+    {
+      "name": "吴忠",
+      "name_en": "Wuzhong",
+      "maimai_count": 1,
+      "population_total": 140.0,
+      "maimai_index": 0.0071,
+      "coord": [
+        106.199,
+        37.9857
+      ],
+      "province": "宁夏",
+      "grp_total": 902,
+      "per_capita_total": 64418.0
+    },
+    {
+      "name": "石嘴山",
+      "name_en": "Shizuishan",
+      "maimai_count": 0,
+      "population_total": 75.0,
+      "maimai_index": 0.0,
+      "coord": [
+        106.3833,
+        39.02
+      ],
+      "province": "宁夏",
+      "grp_total": 699,
+      "per_capita_total": 93030.0
+    },
+    {
+      "name": "固原",
+      "name_en": "Guyuan",
+      "maimai_count": 0,
+      "population_total": 115.0,
+      "maimai_index": 0.0,
+      "coord": [
+        106.2848,
+        36.0046
+      ],
+      "province": "宁夏",
+      "grp_total": 437,
+      "per_capita_total": 38017.0
+    },
+    {
+      "name": "中卫",
+      "name_en": "Zhongwei",
+      "maimai_count": 0,
+      "population_total": 108.0,
+      "maimai_index": 0.0,
+      "coord": [
+        105.1968,
+        37.5003
+      ],
+      "province": "宁夏",
+      "grp_total": 591,
+      "per_capita_total": 54677.0
+    }
+  ],
+  "陕西": [
+    {
+      "name": "西安",
+      "name_en": "Xi'an",
+      "maimai_count": 58,
+      "population_total": 1308.0,
+      "maimai_index": 0.0443,
+      "coord": [
+        108.9398,
+        34.3416
+      ],
+      "province": "陕西",
+      "grp_total": 12011,
+      "per_capita_total": 92128.0
+    },
+    {
+      "name": "咸阳",
+      "name_en": "Xianyang",
+      "maimai_count": 10,
+      "population_total": 412.0,
+      "maimai_index": 0.0243,
+      "coord": [
+        108.7089,
+        34.3296
+      ],
+      "province": "陕西",
+      "grp_total": 2878,
+      "per_capita_total": 69439.0
+    },
+    {
+      "name": "宝鸡",
+      "name_en": "Baoji",
+      "maimai_count": 6,
+      "population_total": 326.0,
+      "maimai_index": 0.0184,
+      "coord": [
+        107.2378,
+        34.3632
+      ],
+      "province": "陕西",
+      "grp_total": 2641,
+      "per_capita_total": 80998.0
+    },
+    {
+      "name": "渭南",
+      "name_en": "Weinan",
+      "maimai_count": 7,
+      "population_total": 460.0,
+      "maimai_index": 0.0152,
+      "coord": [
+        109.5109,
+        34.4994
+      ],
+      "province": "陕西",
+      "grp_total": 2104,
+      "per_capita_total": 45621.0
+    },
+    {
+      "name": "汉中",
+      "name_en": "Hanzhong",
+      "maimai_count": 4,
+      "population_total": 317.0,
+      "maimai_index": 0.0126,
+      "coord": [
+        107.023,
+        33.0676
+      ],
+      "province": "陕西",
+      "grp_total": 1895,
+      "per_capita_total": 59722.0
+    },
+    {
+      "name": "榆林",
+      "name_en": "Yulin",
+      "maimai_count": 4,
+      "population_total": 361.0,
+      "maimai_index": 0.0111,
+      "coord": [
+        109.7349,
+        38.2852
+      ],
+      "province": "陕西",
+      "grp_total": 7091,
+      "per_capita_total": 196346.0
+    },
+    {
+      "name": "延安",
+      "name_en": "Yan'an",
+      "maimai_count": 2,
+      "population_total": 226.0,
+      "maimai_index": 0.0088,
+      "coord": [
+        109.4898,
+        36.5853
+      ],
+      "province": "陕西",
+      "grp_total": 2280,
+      "per_capita_total": 100695.0
+    },
+    {
+      "name": "商洛",
+      "name_en": "Shangluo",
+      "maimai_count": 1,
+      "population_total": 201.0,
+      "maimai_index": 0.005,
+      "coord": [
+        109.9404,
+        33.8704
+      ],
+      "province": "陕西",
+      "grp_total": 836,
+      "per_capita_total": 41444.0
+    },
+    {
+      "name": "安康",
+      "name_en": "Ankang",
+      "maimai_count": 1,
+      "population_total": 246.0,
+      "maimai_index": 0.0041,
+      "coord": [
+        109.0293,
+        32.69
+      ],
+      "province": "陕西",
+      "grp_total": 1217,
+      "per_capita_total": 49390.0
+    },
+    {
+      "name": "铜川",
+      "name_en": "Tongchuan",
+      "maimai_count": 0,
+      "population_total": 70.0,
+      "maimai_index": 0.0,
+      "coord": [
+        108.9794,
+        34.9159
+      ],
+      "province": "陕西",
+      "grp_total": 511,
+      "per_capita_total": 72435.0
+    }
+  ],
+  "河南": [
+    {
+      "name": "郑州",
+      "name_en": "Zhengzhou",
+      "maimai_count": 56,
+      "population_total": 1301.0,
+      "maimai_index": 0.043,
+      "coord": [
+        113.6253,
+        34.7466
+      ],
+      "province": "河南",
+      "grp_total": 13618,
+      "per_capita_total": 105416.0
+    },
+    {
+      "name": "安阳",
+      "name_en": "Anyang",
+      "maimai_count": 15,
+      "population_total": 538.0,
+      "maimai_index": 0.0279,
+      "coord": [
+        114.3925,
+        36.0976
+      ],
+      "province": "河南",
+      "grp_total": 2486,
+      "per_capita_total": 46070.0
+    },
+    {
+      "name": "鹤壁",
+      "name_en": "Hebi",
+      "maimai_count": 4,
+      "population_total": 157.0,
+      "maimai_index": 0.0255,
+      "coord": [
+        114.297,
+        35.747
+      ],
+      "province": "河南",
+      "grp_total": 1033,
+      "per_capita_total": 65807.0
+    },
+    {
+      "name": "许昌",
+      "name_en": "Xuchang",
+      "maimai_count": 10,
+      "population_total": 438.0,
+      "maimai_index": 0.0228,
+      "coord": [
+        113.8523,
+        34.0357
+      ],
+      "province": "河南",
+      "grp_total": 3238,
+      "per_capita_total": 73897.0
+    },
+    {
+      "name": "洛阳",
+      "name_en": "Luoyang",
+      "maimai_count": 16,
+      "population_total": 708.0,
+      "maimai_index": 0.0226,
+      "coord": [
+        112.4345,
+        34.6574
+      ],
+      "province": "河南",
+      "grp_total": 5482,
+      "per_capita_total": 77434.0
+    },
+    {
+      "name": "漯河",
+      "name_en": "Luohe",
+      "maimai_count": 5,
+      "population_total": 237.0,
+      "maimai_index": 0.0211,
+      "coord": [
+        114.0165,
+        33.5815
+      ],
+      "province": "河南",
+      "grp_total": 1764,
+      "per_capita_total": 74491.0
+    },
+    {
+      "name": "三门峡",
+      "name_en": "Sanmenxia",
+      "maimai_count": 4,
+      "population_total": 202.0,
+      "maimai_index": 0.0198,
+      "coord": [
+        111.2003,
+        34.7726
+      ],
+      "province": "河南",
+      "grp_total": 1620,
+      "per_capita_total": 79875.0
+    },
+    {
+      "name": "南阳",
+      "name_en": "Nanyang",
+      "maimai_count": 14,
+      "population_total": 950.0,
+      "maimai_index": 0.0147,
+      "coord": [
+        112.5283,
+        32.9908
+      ],
+      "province": "河南",
+      "grp_total": 4572,
+      "per_capita_total": 47846.0
+    },
+    {
+      "name": "周口",
+      "name_en": "Zhoukou",
+      "maimai_count": 12,
+      "population_total": 867.0,
+      "maimai_index": 0.0138,
+      "coord": [
+        114.6969,
+        33.6258
+      ],
+      "province": "河南",
+      "grp_total": 3333,
+      "per_capita_total": 38134.0
+    },
+    {
+      "name": "濮阳",
+      "name_en": "Puyang",
+      "maimai_count": 5,
+      "population_total": 370.0,
+      "maimai_index": 0.0135,
+      "coord": [
+        115.0292,
+        35.7619
+      ],
+      "province": "河南",
+      "grp_total": 1851,
+      "per_capita_total": 49722.0
+    },
+    {
+      "name": "驻马店",
+      "name_en": "Zhumadian",
+      "maimai_count": 9,
+      "population_total": 677.0,
+      "maimai_index": 0.0133,
+      "coord": [
+        114.0223,
+        33.0115
+      ],
+      "province": "河南",
+      "grp_total": 3097,
+      "per_capita_total": 45333.0
+    },
+    {
+      "name": "新乡",
+      "name_en": "Xinxiang",
+      "maimai_count": 7,
+      "population_total": 613.0,
+      "maimai_index": 0.0114,
+      "coord": [
+        113.9268,
+        35.303
+      ],
+      "province": "河南",
+      "grp_total": 3348,
+      "per_capita_total": 54473.0
+    },
+    {
+      "name": "信阳",
+      "name_en": "Xinyang",
+      "maimai_count": 6,
+      "population_total": 605.0,
+      "maimai_index": 0.0099,
+      "coord": [
+        114.0912,
+        32.147
+      ],
+      "province": "河南",
+      "grp_total": 2959,
+      "per_capita_total": 48459.0
+    },
+    {
+      "name": "商丘",
+      "name_en": "Shangqiu",
+      "maimai_count": 7,
+      "population_total": 766.0,
+      "maimai_index": 0.0091,
+      "coord": [
+        115.6564,
+        34.4142
+      ],
+      "province": "河南",
+      "grp_total": 3109,
+      "per_capita_total": 40403.0
+    },
+    {
+      "name": "开封",
+      "name_en": "Kaifeng",
+      "maimai_count": 4,
+      "population_total": 471.0,
+      "maimai_index": 0.0085,
+      "coord": [
+        114.3076,
+        34.7972
+      ],
+      "province": "河南",
+      "grp_total": 2534,
+      "per_capita_total": 53873.0
+    },
+    {
+      "name": "焦作",
+      "name_en": "Jiaozuo",
+      "maimai_count": 3,
+      "population_total": 352.0,
+      "maimai_index": 0.0085,
+      "coord": [
+        113.242,
+        35.2159
+      ],
+      "province": "河南",
+      "grp_total": 2234,
+      "per_capita_total": 63437.0
+    },
+    {
+      "name": "平顶山",
+      "name_en": "Pingdingshan",
+      "maimai_count": 3,
+      "population_total": 492.0,
+      "maimai_index": 0.0061,
+      "coord": [
+        113.1925,
+        33.7661
+      ],
+      "province": "河南",
+      "grp_total": 2720,
+      "per_capita_total": 55057.0
+    }
+  ],
+  "山东": [
+    {
+      "name": "济南",
+      "name_en": "Jinan",
+      "maimai_count": 40,
+      "population_total": 944.0,
+      "maimai_index": 0.0424,
+      "coord": [
+        117.1205,
+        36.651
+      ],
+      "province": "山东",
+      "grp_total": 12757,
+      "per_capita_total": 135347.0
+    },
+    {
+      "name": "威海",
+      "name_en": "Weihai",
+      "maimai_count": 12,
+      "population_total": 291.0,
+      "maimai_index": 0.0412,
+      "coord": [
+        122.1212,
+        37.5135
+      ],
+      "province": "山东",
+      "grp_total": 3514,
+      "per_capita_total": 120504.0
+    },
+    {
+      "name": "青岛",
+      "name_en": "Qingdao",
+      "maimai_count": 37,
+      "population_total": 1037.0,
+      "maimai_index": 0.0357,
+      "coord": [
+        120.3826,
+        36.0671
+      ],
+      "province": "山东",
+      "grp_total": 15760,
+      "per_capita_total": 152174.0
+    },
+    {
+      "name": "烟台",
+      "name_en": "Yantai",
+      "maimai_count": 24,
+      "population_total": 703.0,
+      "maimai_index": 0.0341,
+      "coord": [
+        121.4481,
+        37.4635
+      ],
+      "province": "山东",
+      "grp_total": 10162,
+      "per_capita_total": 144241.0
+    },
+    {
+      "name": "东营",
+      "name_en": "Dongying",
+      "maimai_count": 7,
+      "population_total": 221.0,
+      "maimai_index": 0.0317,
+      "coord": [
+        118.6747,
+        37.4348
+      ],
+      "province": "山东",
+      "grp_total": 3899,
+      "per_capita_total": 176628.0
+    },
+    {
+      "name": "枣庄",
+      "name_en": "Zaozhuang",
+      "maimai_count": 11,
+      "population_total": 381.0,
+      "maimai_index": 0.0289,
+      "coord": [
+        117.3237,
+        34.8109
+      ],
+      "province": "山东",
+      "grp_total": 2157,
+      "per_capita_total": 56463.0
+    },
+    {
+      "name": "淄博",
+      "name_en": "Zibo",
+      "maimai_count": 11,
+      "population_total": 467.0,
+      "maimai_index": 0.0236,
+      "coord": [
+        118.055,
+        36.8135
+      ],
+      "province": "山东",
+      "grp_total": 4562,
+      "per_capita_total": 97267.0
+    },
+    {
+      "name": "潍坊",
+      "name_en": "Weifang",
+      "maimai_count": 22,
+      "population_total": 937.0,
+      "maimai_index": 0.0235,
+      "coord": [
+        119.1619,
+        36.7069
+      ],
+      "province": "山东",
+      "grp_total": 7606,
+      "per_capita_total": 80970.0
+    },
+    {
+      "name": "济宁",
+      "name_en": "Jining",
+      "maimai_count": 18,
+      "population_total": 824.0,
+      "maimai_index": 0.0218,
+      "coord": [
+        116.3655,
+        35.4146
+      ],
+      "province": "山东",
+      "grp_total": 5516,
+      "per_capita_total": 66741.0
+    },
+    {
+      "name": "德州",
+      "name_en": "Dezhou",
+      "maimai_count": 12,
+      "population_total": 554.0,
+      "maimai_index": 0.0217,
+      "coord": [
+        116.3584,
+        37.4341
+      ],
+      "province": "山东",
+      "grp_total": 3805,
+      "per_capita_total": 68494.0
+    },
+    {
+      "name": "日照",
+      "name_en": "Rizhao",
+      "maimai_count": 6,
+      "population_total": 295.0,
+      "maimai_index": 0.0203,
+      "coord": [
+        119.5269,
+        35.4164
+      ],
+      "province": "山东",
+      "grp_total": 2391,
+      "per_capita_total": 80820.0
+    },
+    {
+      "name": "临沂",
+      "name_en": "Linyi",
+      "maimai_count": 18,
+      "population_total": 1094.0,
+      "maimai_index": 0.0165,
+      "coord": [
+        118.3508,
+        35.0537
+      ],
+      "province": "山东",
+      "grp_total": 6105,
+      "per_capita_total": 55661.0
+    },
+    {
+      "name": "滨州",
+      "name_en": "Binzhou",
+      "maimai_count": 6,
+      "population_total": 390.0,
+      "maimai_index": 0.0154,
+      "coord": [
+        117.9707,
+        37.381
+      ],
+      "province": "山东",
+      "grp_total": 3119,
+      "per_capita_total": 79738.0
+    },
+    {
+      "name": "泰安",
+      "name_en": "Tai'an",
+      "maimai_count": 6,
+      "population_total": 535.0,
+      "maimai_index": 0.0112,
+      "coord": [
+        117.0876,
+        36.2001
+      ],
+      "province": "山东",
+      "grp_total": 3324,
+      "per_capita_total": 61841.0
+    },
+    {
+      "name": "聊城",
+      "name_en": "Liaocheng",
+      "maimai_count": 5,
+      "population_total": 586.0,
+      "maimai_index": 0.0085,
+      "coord": [
+        115.9804,
+        36.456
+      ],
+      "province": "山东",
+      "grp_total": 2926,
+      "per_capita_total": 49760.0
+    },
+    {
+      "name": "菏泽",
+      "name_en": "Heze",
+      "maimai_count": 7,
+      "population_total": 864.0,
+      "maimai_index": 0.0081,
+      "coord": [
+        115.4807,
+        35.2336
+      ],
+      "province": "山东",
+      "grp_total": 4464,
+      "per_capita_total": 51557.0
+    }
+  ],
+  "贵州": [
+    {
+      "name": "贵阳",
+      "name_en": "Guiyang",
+      "maimai_count": 27,
+      "population_total": 640.0,
+      "maimai_index": 0.0422,
+      "coord": [
+        106.6302,
+        26.6477
+      ],
+      "province": "贵州",
+      "grp_total": 5155,
+      "per_capita_total": 81670.0
+    },
+    {
+      "name": "安顺",
+      "name_en": "Anshun",
+      "maimai_count": 4,
+      "population_total": 246.0,
+      "maimai_index": 0.0163,
+      "coord": [
+        106.2285,
+        26.2531
+      ],
+      "province": "贵州",
+      "grp_total": 1100,
+      "per_capita_total": 44777.0
+    },
+    {
+      "name": "遵义",
+      "name_en": "Zunyi",
+      "maimai_count": 7,
+      "population_total": 658.0,
+      "maimai_index": 0.0106,
+      "coord": [
+        106.9274,
+        27.7254
+      ],
+      "province": "贵州",
+      "grp_total": 4602,
+      "per_capita_total": 69842.0
+    },
+    {
+      "name": "六盘水",
+      "name_en": "Liupanshui",
+      "maimai_count": 3,
+      "population_total": 303.0,
+      "maimai_index": 0.0099,
+      "coord": [
+        104.8305,
+        26.5927
+      ],
+      "province": "贵州",
+      "grp_total": 1558,
+      "per_capita_total": 51533.0
+    },
+    {
+      "name": "铜仁",
+      "name_en": "Tongren",
+      "maimai_count": 2,
+      "population_total": 321.0,
+      "maimai_index": 0.0062,
+      "coord": [
+        109.1896,
+        27.7186
+      ],
+      "province": "贵州",
+      "grp_total": 1514,
+      "per_capita_total": 46746.0
+    },
+    {
+      "name": "毕节",
+      "name_en": "Bijie",
+      "maimai_count": 4,
+      "population_total": 673.0,
+      "maimai_index": 0.0059,
+      "coord": [
+        105.285,
+        27.3017
+      ],
+      "province": "贵州",
+      "grp_total": 2302,
+      "per_capita_total": 33984.0
+    }
+  ],
+  "四川": [
+    {
+      "name": "成都",
+      "name_en": "Chengdu",
+      "maimai_count": 90,
+      "population_total": 2140.0,
+      "maimai_index": 0.0421,
+      "coord": [
+        104.0668,
+        30.5728
+      ],
+      "province": "四川",
+      "grp_total": 22075,
+      "per_capita_total": 103465.0
+    },
+    {
+      "name": "绵阳",
+      "name_en": "Mianyang",
+      "maimai_count": 14,
+      "population_total": 491.0,
+      "maimai_index": 0.0285,
+      "coord": [
+        104.6796,
+        31.4675
+      ],
+      "province": "四川",
+      "grp_total": 4039,
+      "per_capita_total": 82347.0
+    },
+    {
+      "name": "遂宁",
+      "name_en": "Suining",
+      "maimai_count": 7,
+      "population_total": 275.0,
+      "maimai_index": 0.0255,
+      "coord": [
+        105.5928,
+        30.5329
+      ],
+      "province": "四川",
+      "grp_total": 1715,
+      "per_capita_total": 62137.0
+    },
+    {
+      "name": "广元",
+      "name_en": "Guangyuan",
+      "maimai_count": 4,
+      "population_total": 225.0,
+      "maimai_index": 0.0178,
+      "coord": [
+        105.8436,
+        32.4355
+      ],
+      "province": "四川",
+      "grp_total": 1180,
+      "per_capita_total": 52204.0
+    },
+    {
+      "name": "资阳",
+      "name_en": "Ziyang",
+      "maimai_count": 4,
+      "population_total": 225.0,
+      "maimai_index": 0.0178,
+      "coord": [
+        104.6276,
+        30.129
+      ],
+      "province": "四川",
+      "grp_total": 1019,
+      "per_capita_total": 45078.0
+    },
+    {
+      "name": "自贡",
+      "name_en": "Zigong",
+      "maimai_count": 4,
+      "population_total": 243.0,
+      "maimai_index": 0.0165,
+      "coord": [
+        104.7734,
+        29.3527
+      ],
+      "province": "四川",
+      "grp_total": 1750,
+      "per_capita_total": 71726.0
+    },
+    {
+      "name": "攀枝花",
+      "name_en": "Panzhihua",
+      "maimai_count": 2,
+      "population_total": 122.0,
+      "maimai_index": 0.0164,
+      "coord": [
+        101.716,
+        26.5804
+      ],
+      "province": "四川",
+      "grp_total": 1304,
+      "per_capita_total": 107133.0
+    },
+    {
+      "name": "泸州",
+      "name_en": "Luzhou",
+      "maimai_count": 7,
+      "population_total": 427.0,
+      "maimai_index": 0.0164,
+      "coord": [
+        105.4433,
+        28.8891
+      ],
+      "province": "四川",
+      "grp_total": 2726,
+      "per_capita_total": 63913.0
+    },
+    {
+      "name": "内江",
+      "name_en": "Neijiang",
+      "maimai_count": 5,
+      "population_total": 306.0,
+      "maimai_index": 0.0163,
+      "coord": [
+        105.0661,
+        29.5871
+      ],
+      "province": "四川",
+      "grp_total": 1807,
+      "per_capita_total": 58758.0
+    },
+    {
+      "name": "乐山",
+      "name_en": "Leshan",
+      "maimai_count": 5,
+      "population_total": 315.0,
+      "maimai_index": 0.0159,
+      "coord": [
+        103.7613,
+        29.582
+      ],
+      "province": "四川",
+      "grp_total": 2448,
+      "per_capita_total": 77699.0
+    },
+    {
+      "name": "达州",
+      "name_en": "Dazhou",
+      "maimai_count": 8,
+      "population_total": 532.0,
+      "maimai_index": 0.015,
+      "coord": [
+        107.5023,
+        31.2095
+      ],
+      "province": "四川",
+      "grp_total": 2657,
+      "per_capita_total": 49755.0
+    },
+    {
+      "name": "眉山",
+      "name_en": "Meishan",
+      "maimai_count": 4,
+      "population_total": 296.0,
+      "maimai_index": 0.0135,
+      "coord": [
+        103.8485,
+        30.0756
+      ],
+      "province": "四川",
+      "grp_total": 1737,
+      "per_capita_total": 58722.0
+    },
+    {
+      "name": "宜宾",
+      "name_en": "Yibin",
+      "maimai_count": 6,
+      "population_total": 463.0,
+      "maimai_index": 0.013,
+      "coord": [
+        104.6432,
+        28.7513
+      ],
+      "province": "四川",
+      "grp_total": 3807,
+      "per_capita_total": 82341.0
+    },
+    {
+      "name": "南充",
+      "name_en": "Nanchong",
+      "maimai_count": 7,
+      "population_total": 551.0,
+      "maimai_index": 0.0127,
+      "coord": [
+        106.1107,
+        30.8378
+      ],
+      "province": "四川",
+      "grp_total": 2735,
+      "per_capita_total": 49453.0
+    },
+    {
+      "name": "广安",
+      "name_en": "Guang'an",
+      "maimai_count": 4,
+      "population_total": 323.0,
+      "maimai_index": 0.0124,
+      "coord": [
+        106.6332,
+        30.4564
+      ],
+      "province": "四川",
+      "grp_total": 1513,
+      "per_capita_total": 46798.0
+    },
+    {
+      "name": "德阳",
+      "name_en": "Deyang",
+      "maimai_count": 4,
+      "population_total": 345.0,
+      "maimai_index": 0.0116,
+      "coord": [
+        104.398,
+        31.1279
+      ],
+      "province": "四川",
+      "grp_total": 3014,
+      "per_capita_total": 87197.0
+    },
+    {
+      "name": "巴中",
+      "name_en": "Bazhong",
+      "maimai_count": 2,
+      "population_total": 263.0,
+      "maimai_index": 0.0076,
+      "coord": [
+        106.7475,
+        31.8682
+      ],
+      "province": "四川",
+      "grp_total": 780,
+      "per_capita_total": 29517.0
+    },
+    {
+      "name": "雅安",
+      "name_en": "Ya'an",
+      "maimai_count": 1,
+      "population_total": 143.0,
+      "maimai_index": 0.007,
+      "coord": [
+        103.0133,
+        30.0023
+      ],
+      "province": "四川",
+      "grp_total": 1010,
+      "per_capita_total": 70582.0
+    }
+  ],
+  "吉林": [
+    {
+      "name": "长春",
+      "name_en": "Changchun",
+      "maimai_count": 38,
+      "population_total": 910.0,
+      "maimai_index": 0.0418,
+      "coord": [
+        125.3235,
+        43.8171
+      ],
+      "province": "吉林",
+      "grp_total": 7002,
+      "per_capita_total": 77084.0
+    },
+    {
+      "name": "吉林",
+      "name_en": "Jilin",
+      "maimai_count": 8,
+      "population_total": 353.0,
+      "maimai_index": 0.0227,
+      "coord": [
+        126.553,
+        43.8436
+      ],
+      "province": "吉林",
+      "grp_total": 1584,
+      "per_capita_total": 44932.0
+    },
+    {
+      "name": "通化",
+      "name_en": "Tonghua",
+      "maimai_count": 2,
+      "population_total": 120.0,
+      "maimai_index": 0.0167,
+      "coord": [
+        125.93,
+        41.73
+      ],
+      "province": "吉林",
+      "grp_total": 614,
+      "per_capita_total": 50644.0
+    },
+    {
+      "name": "四平",
+      "name_en": "Siping",
+      "maimai_count": 2,
+      "population_total": 167.0,
+      "maimai_index": 0.012,
+      "coord": [
+        124.35,
+        43.17
+      ],
+      "province": "吉林",
+      "grp_total": 589,
+      "per_capita_total": 34922.0
+    },
+    {
+      "name": "白山",
+      "name_en": "Baishan",
+      "maimai_count": 1,
+      "population_total": 90.0,
+      "maimai_index": 0.0111,
+      "coord": [
+        126.42,
+        41.94
+      ],
+      "province": "吉林",
+      "grp_total": 553,
+      "per_capita_total": 61378.0
+    },
+    {
+      "name": "辽源",
+      "name_en": "Liaoyuan",
+      "maimai_count": 1,
+      "population_total": 94.0,
+      "maimai_index": 0.0106,
+      "coord": [
+        125.13,
+        42.88
+      ],
+      "province": "吉林",
+      "grp_total": 517,
+      "per_capita_total": 54345.0
+    },
+    {
+      "name": "松原",
+      "name_en": "Songyuan",
+      "maimai_count": 2,
+      "population_total": 213.0,
+      "maimai_index": 0.0094,
+      "coord": [
+        124.82,
+        45.13
+      ],
+      "province": "吉林",
+      "grp_total": 893,
+      "per_capita_total": 41654.0
+    },
+    {
+      "name": "白城",
+      "name_en": "Baicheng",
+      "maimai_count": 1,
+      "population_total": 147.0,
+      "maimai_index": 0.0068,
+      "coord": [
+        122.83,
+        45.62
+      ],
+      "province": "吉林",
+      "grp_total": 593,
+      "per_capita_total": 40199.0
+    }
+  ],
+  "天津": [
+    {
+      "name": "天津",
+      "name_en": "Tianjin",
+      "maimai_count": 56,
+      "population_total": 1364.0,
+      "maimai_index": 0.0411,
+      "coord": [
+        117.2008,
+        39.0842
+      ],
+      "province": "天津",
+      "grp_total": 16737,
+      "per_capita_total": 122752.0
+    }
+  ],
+  "新疆": [
+    {
+      "name": "乌鲁木齐",
+      "name_en": "Urumqi",
+      "maimai_count": 16,
+      "population_total": 408.0,
+      "maimai_index": 0.0392,
+      "coord": [
+        87.6168,
+        43.8256
+      ],
+      "province": "新疆",
+      "grp_total": 4168,
+      "per_capita_total": 102078.0
+    },
+    {
+      "name": "克拉玛依",
+      "name_en": "Karamay",
+      "maimai_count": 1,
+      "population_total": 49.0,
+      "maimai_index": 0.0204,
+      "coord": [
+        84.8739,
+        45.5792
+      ],
+      "province": "新疆",
+      "grp_total": 1261,
+      "per_capita_total": 243780.0
+    },
+    {
+      "name": "哈密",
+      "name_en": "Hami",
+      "maimai_count": 1,
+      "population_total": 63.0,
+      "maimai_index": 0.0159,
+      "coord": [
+        93.5152,
+        42.8255
+      ],
+      "province": "新疆",
+      "grp_total": 983,
+      "per_capita_total": 147980.0
+    },
+    {
+      "name": "吐鲁番",
+      "name_en": "Turpan",
+      "maimai_count": 0,
+      "population_total": 69.0,
+      "maimai_index": 0.0,
+      "coord": [
+        89.1897,
+        42.9513
+      ],
+      "province": "新疆",
+      "grp_total": 588,
+      "per_capita_total": 84919.0
+    }
+  ],
+  "辽宁": [
+    {
+      "name": "盘锦",
+      "name_en": "Panjin",
+      "maimai_count": 5,
+      "population_total": 138.0,
+      "maimai_index": 0.0362,
+      "coord": [
+        122.07,
+        41.12
+      ],
+      "province": "辽宁",
+      "grp_total": 1382,
+      "per_capita_total": 99717.0
+    },
+    {
+      "name": "大连",
+      "name_en": "Dalian",
+      "maimai_count": 24,
+      "population_total": 754.0,
+      "maimai_index": 0.0318,
+      "coord": [
+        121.6147,
+        38.914
+      ],
+      "province": "辽宁",
+      "grp_total": 8753,
+      "per_capita_total": 116557.0
+    },
+    {
+      "name": "锦州",
+      "name_en": "Jinzhou",
+      "maimai_count": 7,
+      "population_total": 263.0,
+      "maimai_index": 0.0266,
+      "coord": [
+        121.13,
+        41.1
+      ],
+      "province": "辽宁",
+      "grp_total": 1253,
+      "per_capita_total": 47577.0
+    },
+    {
+      "name": "本溪",
+      "name_en": "Benxi",
+      "maimai_count": 3,
+      "population_total": 125.0,
+      "maimai_index": 0.024,
+      "coord": [
+        123.7667,
+        41.3
+      ],
+      "province": "辽宁",
+      "grp_total": 971,
+      "per_capita_total": 77217.0
+    },
+    {
+      "name": "辽阳",
+      "name_en": "Liaoyang",
+      "maimai_count": 3,
+      "population_total": 153.0,
+      "maimai_index": 0.0196,
+      "coord": [
+        123.17,
+        41.28
+      ],
+      "province": "辽宁",
+      "grp_total": 878,
+      "per_capita_total": 57132.0
+    },
+    {
+      "name": "营口",
+      "name_en": "Yingkou",
+      "maimai_count": 4,
+      "population_total": 227.0,
+      "maimai_index": 0.0176,
+      "coord": [
+        122.23,
+        40.67
+      ],
+      "province": "辽宁",
+      "grp_total": 1479,
+      "per_capita_total": 64999.0
+    },
+    {
+      "name": "抚顺",
+      "name_en": "Fushun",
+      "maimai_count": 3,
+      "population_total": 175.0,
+      "maimai_index": 0.0171,
+      "coord": [
+        123.9167,
+        41.8667
+      ],
+      "province": "辽宁",
+      "grp_total": 949,
+      "per_capita_total": 52663.0
+    },
+    {
+      "name": "鞍山",
+      "name_en": "Anshan",
+      "maimai_count": 5,
+      "population_total": 322.0,
+      "maimai_index": 0.0155,
+      "coord": [
+        123.0,
+        41.1
+      ],
+      "province": "辽宁",
+      "grp_total": 2012,
+      "per_capita_total": 61658.0
+    },
+    {
+      "name": "丹东",
+      "name_en": "Dandong",
+      "maimai_count": 2,
+      "population_total": 209.0,
+      "maimai_index": 0.0096,
+      "coord": [
+        124.35,
+        40.13
+      ],
+      "province": "辽宁",
+      "grp_total": 945,
+      "per_capita_total": 44926.0
+    },
+    {
+      "name": "铁岭",
+      "name_en": "Tieling",
+      "maimai_count": 2,
+      "population_total": 226.0,
+      "maimai_index": 0.0088,
+      "coord": [
+        123.85,
+        42.3
+      ],
+      "province": "辽宁",
+      "grp_total": 765,
+      "per_capita_total": 33596.0
+    },
+    {
+      "name": "葫芦岛",
+      "name_en": "Huludao",
+      "maimai_count": 2,
+      "population_total": 234.0,
+      "maimai_index": 0.0085,
+      "coord": [
+        120.83,
+        40.75
+      ],
+      "province": "辽宁",
+      "grp_total": 912,
+      "per_capita_total": 38815.0
+    },
+    {
+      "name": "阜新",
+      "name_en": "Fuxin",
+      "maimai_count": 1,
+      "population_total": 157.0,
+      "maimai_index": 0.0064,
+      "coord": [
+        121.68,
+        42.02
+      ],
+      "province": "辽宁",
+      "grp_total": 602,
+      "per_capita_total": 38310.0
+    },
+    {
+      "name": "朝阳",
+      "name_en": "Chaoyang",
+      "maimai_count": 0,
+      "population_total": 279.0,
+      "maimai_index": 0.0,
+      "coord": [
+        120.45,
+        41.57
+      ],
+      "province": "辽宁",
+      "grp_total": 1044,
+      "per_capita_total": 37368.0
+    }
+  ],
+  "河北": [
+    {
+      "name": "廊坊",
+      "name_en": "Langfang",
+      "maimai_count": 19,
+      "population_total": 548.0,
+      "maimai_index": 0.0347,
+      "coord": [
+        116.6837,
+        39.538
+      ],
+      "province": "河北",
+      "grp_total": 3608,
+      "per_capita_total": 65763.0
+    },
+    {
+      "name": "石家庄",
+      "name_en": "Shijiazhuang",
+      "maimai_count": 31,
+      "population_total": 1123.0,
+      "maimai_index": 0.0276,
+      "coord": [
+        114.5149,
+        38.0423
+      ],
+      "province": "河北",
+      "grp_total": 7534,
+      "per_capita_total": 67099.0
+    },
+    {
+      "name": "秦皇岛",
+      "name_en": "Qinhuangdao",
+      "maimai_count": 8,
+      "population_total": 311.0,
+      "maimai_index": 0.0257,
+      "coord": [
+        119.6005,
+        39.9354
+      ],
+      "province": "河北",
+      "grp_total": 2001,
+      "per_capita_total": 64491.0
+    },
+    {
+      "name": "沧州",
+      "name_en": "Cangzhou",
+      "maimai_count": 15,
+      "population_total": 726.0,
+      "maimai_index": 0.0207,
+      "coord": [
+        116.8388,
+        38.3045
+      ],
+      "province": "河北",
+      "grp_total": 4440,
+      "per_capita_total": 60909.0
+    },
+    {
+      "name": "保定",
+      "name_en": "Baoding",
+      "maimai_count": 21,
+      "population_total": 1149.0,
+      "maimai_index": 0.0183,
+      "coord": [
+        115.4646,
+        38.8739
+      ],
+      "province": "河北",
+      "grp_total": 4825,
+      "per_capita_total": 41990.0
+    },
+    {
+      "name": "唐山",
+      "name_en": "Tangshan",
+      "maimai_count": 13,
+      "population_total": 772.0,
+      "maimai_index": 0.0168,
+      "coord": [
+        118.1802,
+        39.6292
+      ],
+      "province": "河北",
+      "grp_total": 9133,
+      "per_capita_total": 118418.0
+    },
+    {
+      "name": "张家口",
+      "name_en": "Zhangjiakou",
+      "maimai_count": 6,
+      "population_total": 405.0,
+      "maimai_index": 0.0148,
+      "coord": [
+        114.8875,
+        40.8119
+      ],
+      "province": "河北",
+      "grp_total": 1843,
+      "per_capita_total": 45360.0
+    },
+    {
+      "name": "邯郸",
+      "name_en": "Handan",
+      "maimai_count": 11,
+      "population_total": 917.0,
+      "maimai_index": 0.012,
+      "coord": [
+        114.4905,
+        36.6116
+      ],
+      "province": "河北",
+      "grp_total": 4382,
+      "per_capita_total": 47493.0
+    },
+    {
+      "name": "邢台",
+      "name_en": "Xingtai",
+      "maimai_count": 8,
+      "population_total": 696.0,
+      "maimai_index": 0.0115,
+      "coord": [
+        114.5047,
+        37.0659
+      ],
+      "province": "河北",
+      "grp_total": 2586,
+      "per_capita_total": 36994.0
+    },
+    {
+      "name": "承德",
+      "name_en": "Chengde",
+      "maimai_count": 3,
+      "population_total": 330.0,
+      "maimai_index": 0.0091,
+      "coord": [
+        117.9328,
+        40.951
+      ],
+      "province": "河北",
+      "grp_total": 1852,
+      "per_capita_total": 55915.0
+    },
+    {
+      "name": "衡水",
+      "name_en": "Hengshui",
+      "maimai_count": 3,
+      "population_total": 416.0,
+      "maimai_index": 0.0072,
+      "coord": [
+        115.686,
+        37.735
+      ],
+      "province": "河北",
+      "grp_total": 1888,
+      "per_capita_total": 45364.0
+    }
+  ],
+  "云南": [
+    {
+      "name": "昆明",
+      "name_en": "Kunming",
+      "maimai_count": 30,
+      "population_total": 868.0,
+      "maimai_index": 0.0346,
+      "coord": [
+        102.8329,
+        24.8801
+      ],
+      "province": "云南",
+      "grp_total": 7865,
+      "per_capita_total": 90821.0
+    },
+    {
+      "name": "玉溪",
+      "name_en": "Yuxi",
+      "maimai_count": 2,
+      "population_total": 227.0,
+      "maimai_index": 0.0088,
+      "coord": [
+        102.5471,
+        24.3505
+      ],
+      "province": "云南",
+      "grp_total": 2565,
+      "per_capita_total": 112910.0
+    },
+    {
+      "name": "普洱",
+      "name_en": "Pu'er",
+      "maimai_count": 2,
+      "population_total": 234.0,
+      "maimai_index": 0.0085,
+      "coord": [
+        100.9665,
+        22.8252
+      ],
+      "province": "云南",
+      "grp_total": 1091,
+      "per_capita_total": 46323.0
+    },
+    {
+      "name": "丽江",
+      "name_en": "Lijiang",
+      "maimai_count": 1,
+      "population_total": 125.0,
+      "maimai_index": 0.008,
+      "coord": [
+        100.2271,
+        26.856
+      ],
+      "province": "云南",
+      "grp_total": 672,
+      "per_capita_total": 53998.0
+    },
+    {
+      "name": "曲靖",
+      "name_en": "Qujing",
+      "maimai_count": 4,
+      "population_total": 569.0,
+      "maimai_index": 0.007,
+      "coord": [
+        103.7968,
+        25.489
+      ],
+      "province": "云南",
+      "grp_total": 4049,
+      "per_capita_total": 70760.0
+    },
+    {
+      "name": "昭通",
+      "name_en": "Zhaotong",
+      "maimai_count": 3,
+      "population_total": 485.0,
+      "maimai_index": 0.0062,
+      "coord": [
+        103.7172,
+        27.3382
+      ],
+      "province": "云南",
+      "grp_total": 1644,
+      "per_capita_total": 33543.0
+    },
+    {
+      "name": "临沧",
+      "name_en": "Lincang",
+      "maimai_count": 1,
+      "population_total": 220.0,
+      "maimai_index": 0.0045,
+      "coord": [
+        100.0888,
+        23.8839
+      ],
+      "province": "云南",
+      "grp_total": 1050,
+      "per_capita_total": 47286.0
+    },
+    {
+      "name": "保山",
+      "name_en": "Baoshan",
+      "maimai_count": 1,
+      "population_total": 241.0,
+      "maimai_index": 0.0041,
+      "coord": [
+        99.1618,
+        25.112
+      ],
+      "province": "云南",
+      "grp_total": 1254,
+      "per_capita_total": 52215.0
+    }
+  ],
+  "青海": [
+    {
+      "name": "西宁",
+      "name_en": "Xining",
+      "maimai_count": 8,
+      "population_total": 248.0,
+      "maimai_index": 0.0323,
+      "coord": [
+        101.7782,
+        36.6171
+      ],
+      "province": "青海",
+      "grp_total": 1801,
+      "per_capita_total": 72611.0
+    },
+    {
+      "name": "海东",
+      "name_en": "Haidong",
+      "maimai_count": 0,
+      "population_total": 134.0,
+      "maimai_index": 0.0,
+      "coord": [
+        102.1033,
+        36.5029
+      ],
+      "province": "青海",
+      "grp_total": 580,
+      "per_capita_total": 43084.0
+    }
+  ],
+  "重庆": [
+    {
+      "name": "重庆",
+      "name_en": "Chongqing",
+      "maimai_count": 72,
+      "population_total": 3191.0,
+      "maimai_index": 0.0226,
+      "coord": [
+        106.5516,
+        29.563
+      ],
+      "province": "重庆",
+      "grp_total": 30146,
+      "per_capita_total": 94135.0
+    }
+  ],
+  "西藏": [
+    {
+      "name": "拉萨",
+      "name_en": "Lhasa",
+      "maimai_count": 1,
+      "population_total": 87.0,
+      "maimai_index": 0.0115,
+      "coord": [
+        91.1409,
+        29.6456
+      ],
+      "province": "西藏",
+      "grp_total": 835,
+      "per_capita_total": 96329.0
+    },
+    {
+      "name": "日喀则",
+      "name_en": "Xigaze",
+      "maimai_count": 0,
+      "population_total": 80.0,
+      "maimai_index": 0.0,
+      "coord": [
+        88.88,
+        29.27
+      ],
+      "province": "西藏",
+      "grp_total": 407,
+      "per_capita_total": 50986.0
+    },
+    {
+      "name": "昌都",
+      "name_en": "Qamdo",
+      "maimai_count": 0,
+      "population_total": 76.0,
+      "maimai_index": 0.0,
+      "coord": [
+        97.18,
+        31.13
+      ],
+      "province": "西藏",
+      "grp_total": 334,
+      "per_capita_total": 43948.0
+    },
+    {
+      "name": "林芝",
+      "name_en": "Nyingchi",
+      "maimai_count": 0,
+      "population_total": 24.0,
+      "maimai_index": 0.0,
+      "coord": [
+        94.36,
+        29.65
+      ],
+      "province": "西藏",
+      "grp_total": 236,
+      "per_capita_total": 98651.0
+    },
+    {
+      "name": "山南",
+      "name_en": "Lhoka",
+      "maimai_count": 0,
+      "population_total": 35.0,
+      "maimai_index": 0.0,
+      "coord": [
+        91.77,
+        29.23
+      ],
+      "province": "西藏",
+      "grp_total": 273,
+      "per_capita_total": 77241.0
+    },
+    {
+      "name": "那曲",
+      "name_en": "Nagqu",
+      "maimai_count": 0,
+      "population_total": 51.0,
+      "maimai_index": 0.0,
+      "coord": [
+        92.05,
+        31.48
+      ],
+      "province": "西藏",
+      "grp_total": 217,
+      "per_capita_total": 37890.0
+    }
+  ]
+}

@@ -1,0 +1,2249 @@
+[
+  {
+    "name": "北京",
+    "name_en": "Beijing",
+    "population_total": 2186.0,
+    "population_district": 2186.0,
+    "urbanization_rate": 87.83
+  },
+  {
+    "name": "天津",
+    "name_en": "Tianjin",
+    "population_total": 1364.0,
+    "population_district": 1364.0,
+    "urbanization_rate": 85.49
+  },
+  {
+    "name": "河北",
+    "name_en": "Hebei",
+    "cities": [
+      {
+        "name": "石家庄",
+        "name_en": "Shijiazhuang",
+        "population_total": 1123.0,
+        "population_district": 578.0,
+        "urbanization_rate": 72.28
+      },
+      {
+        "name": "唐山",
+        "name_en": "Tangshan",
+        "population_total": 772.0,
+        "population_district": 380.0,
+        "urbanization_rate": 66.71
+      },
+      {
+        "name": "秦皇岛",
+        "name_en": "Qinhuangdao",
+        "population_total": 311.0,
+        "population_district": 189.0,
+        "urbanization_rate": 66.43
+      },
+      {
+        "name": "邯郸",
+        "name_en": "Handan",
+        "population_total": 917.0,
+        "population_district": 366.0,
+        "urbanization_rate": 61.44
+      },
+      {
+        "name": "邢台",
+        "name_en": "Xingtai",
+        "population_total": 696.0,
+        "population_district": 210.0,
+        "urbanization_rate": 56.32
+      },
+      {
+        "name": "保定",
+        "name_en": "Baoding",
+        "population_total": 1149.0,
+        "population_district": 335.0,
+        "urbanization_rate": 59.45
+      },
+      {
+        "name": "张家口",
+        "name_en": "Zhangjiakou",
+        "population_total": 405.0,
+        "population_district": 173.0,
+        "urbanization_rate": 68.35
+      },
+      {
+        "name": "承德",
+        "name_en": "Chengde",
+        "population_total": 330.0,
+        "population_district": 73.0,
+        "urbanization_rate": 59.12
+      },
+      {
+        "name": "沧州",
+        "name_en": "Cangzhou",
+        "population_total": 726.0,
+        "population_district": 79.0,
+        "urbanization_rate": 54.14
+      },
+      {
+        "name": "廊坊",
+        "name_en": "Langfang",
+        "population_total": 548.0,
+        "population_district": 112.0,
+        "urbanization_rate": 66.81
+      },
+      {
+        "name": "衡水",
+        "name_en": "Hengshui",
+        "population_total": 416.0,
+        "population_district": 114.0,
+        "urbanization_rate": 57.42
+      }
+    ]
+  },
+  {
+    "name": "山西",
+    "name_en": "Shanxi",
+    "cities": [
+      {
+        "name": "太原",
+        "name_en": "Taiyuan",
+        "population_total": 545.0,
+        "population_district": 468.0,
+        "urbanization_rate": 89.5
+      },
+      {
+        "name": "大同",
+        "name_en": "Datong",
+        "population_total": 308.0,
+        "population_district": 204.0,
+        "urbanization_rate": 74.44
+      },
+      {
+        "name": "阳泉",
+        "name_en": "Yangquan",
+        "population_total": 130.0,
+        "population_district": 72.0,
+        "urbanization_rate": 73.01
+      },
+      {
+        "name": "长治",
+        "name_en": "Changzhi",
+        "population_total": 313.0,
+        "population_district": 169.0,
+        "urbanization_rate": 59.12
+      },
+      {
+        "name": "晋城",
+        "name_en": "Jincheng",
+        "population_total": 217.0,
+        "population_district": 59.0,
+        "urbanization_rate": 65.04
+      },
+      {
+        "name": "朔州",
+        "name_en": "Shuozhou",
+        "population_total": 158.0,
+        "population_district": 71.0,
+        "urbanization_rate": 64.26
+      },
+      {
+        "name": "晋中",
+        "name_en": "Jinzhong",
+        "population_total": 338.0,
+        "population_district": 126.0,
+        "urbanization_rate": 62.52
+      },
+      {
+        "name": "运城",
+        "name_en": "Yuncheng",
+        "population_total": 471.0,
+        "population_district": 99.0,
+        "urbanization_rate": 52.53
+      },
+      {
+        "name": "忻州",
+        "name_en": "Xinzhou",
+        "population_total": 263.0,
+        "population_district": 58.0,
+        "urbanization_rate": 56.53
+      },
+      {
+        "name": "临汾",
+        "name_en": "Linfen",
+        "population_total": 389.0,
+        "population_district": 95.0,
+        "urbanization_rate": 55.91
+      },
+      {
+        "name": "吕梁",
+        "name_en": "Lvliang",
+        "population_total": 335.0,
+        "population_district": 47.0,
+        "urbanization_rate": 56.1
+      }
+    ]
+  },
+  {
+    "name": "内蒙古",
+    "name_en": "Inner Mongolia",
+    "cities": [
+      {
+        "name": "呼和浩特",
+        "name_en": "Hohhot",
+        "population_total": 360.0,
+        "population_district": 272.0,
+        "urbanization_rate": 80.72
+      },
+      {
+        "name": "包头",
+        "name_en": "Baotou",
+        "population_total": 276.0,
+        "population_district": 234.0,
+        "urbanization_rate": 87.56
+      },
+      {
+        "name": "乌海",
+        "name_en": "Wuhai",
+        "population_total": 56.0,
+        "population_district": 56.0,
+        "urbanization_rate": 96.38
+      },
+      {
+        "name": "赤峰",
+        "name_en": "Chifeng",
+        "population_total": 397.0,
+        "population_district": 146.0,
+        "urbanization_rate": 55.57
+      },
+      {
+        "name": "通辽",
+        "name_en": "Tongliao",
+        "population_total": 281.0,
+        "population_district": 70.0,
+        "urbanization_rate": 51.89
+      },
+      {
+        "name": "鄂尔多斯",
+        "name_en": "Erdos",
+        "population_total": 222.0,
+        "population_district": 71.0,
+        "urbanization_rate": 79.19
+      },
+      {
+        "name": "呼伦贝尔",
+        "name_en": "Hulunbuir",
+        "population_total": 217.0,
+        "population_district": 44.0,
+        "urbanization_rate": 75.76
+      },
+      {
+        "name": "巴彦淖尔",
+        "name_en": "Bayannur",
+        "population_total": 150.0,
+        "population_district": 59.0,
+        "urbanization_rate": 61.65
+      },
+      {
+        "name": "乌兰察布",
+        "name_en": "Ulanqab",
+        "population_total": 160.0,
+        "population_district": 43.0,
+        "urbanization_rate": 61.94
+      }
+    ]
+  },
+  {
+    "name": "辽宁",
+    "name_en": "Liaoning",
+    "cities": [
+      {
+        "name": "沈阳",
+        "name_en": "Shenyang",
+        "urbanization_rate": 85.12
+      },
+      {
+        "name": "大连",
+        "name_en": "Dalian",
+        "population_total": 754.0,
+        "population_district": 589.0,
+        "urbanization_rate": 82.93
+      },
+      {
+        "name": "鞍山",
+        "name_en": "Anshan",
+        "population_total": 322.0,
+        "population_district": 151.0,
+        "urbanization_rate": 75.81
+      },
+      {
+        "name": "抚顺",
+        "name_en": "Fushun",
+        "population_total": 175.0,
+        "population_district": 124.0,
+        "urbanization_rate": 79.57
+      },
+      {
+        "name": "本溪",
+        "name_en": "Benxi",
+        "population_total": 125.0,
+        "population_district": 81.0,
+        "urbanization_rate": 80.51
+      },
+      {
+        "name": "丹东",
+        "name_en": "Dandong",
+        "population_total": 209.0,
+        "population_district": 77.0,
+        "urbanization_rate": 70.26
+      },
+      {
+        "name": "锦州",
+        "name_en": "Jinzhou",
+        "population_total": 263.0,
+        "population_district": 108.0,
+        "urbanization_rate": 61.34
+      },
+      {
+        "name": "营口",
+        "name_en": "Yingkou",
+        "population_total": 227.0,
+        "population_district": 115.0,
+        "urbanization_rate": 68.56
+      },
+      {
+        "name": "阜新",
+        "name_en": "Fuxin",
+        "population_total": 157.0,
+        "population_district": 72.0,
+        "urbanization_rate": 62.96
+      },
+      {
+        "name": "辽阳",
+        "name_en": "Liaoyang",
+        "population_total": 153.0,
+        "population_district": 85.0,
+        "urbanization_rate": 68.4
+      },
+      {
+        "name": "盘锦",
+        "name_en": "Panjin",
+        "population_total": 138.0,
+        "population_district": 116.0,
+        "urbanization_rate": 78.71
+      },
+      {
+        "name": "铁岭",
+        "name_en": "Tieling",
+        "population_total": 226.0,
+        "population_district": 37.0,
+        "urbanization_rate": 57.12
+      },
+      {
+        "name": "朝阳",
+        "name_en": "Chaoyang",
+        "population_total": 279.0,
+        "population_district": 69.0,
+        "urbanization_rate": 51.68
+      },
+      {
+        "name": "葫芦岛",
+        "name_en": "Huludao",
+        "population_total": 234.0,
+        "population_district": 91.0,
+        "urbanization_rate": 56.62
+      }
+    ]
+  },
+  {
+    "name": "吉林",
+    "name_en": "Jilin",
+    "cities": [
+      {
+        "name": "长春",
+        "name_en": "Changchun",
+        "population_total": 910.0,
+        "population_district": 590.0,
+        "urbanization_rate": 68.18
+      },
+      {
+        "name": "吉林",
+        "name_en": "Jilin",
+        "population_total": 353.0,
+        "population_district": 186.0,
+        "urbanization_rate": 65.57
+      },
+      {
+        "name": "四平",
+        "name_en": "Siping",
+        "population_total": 167.0,
+        "population_district": 58.0,
+        "urbanization_rate": 53.25
+      },
+      {
+        "name": "辽源",
+        "name_en": "Liaoyuan",
+        "population_total": 94.0,
+        "population_district": 44.0,
+        "urbanization_rate": 59.82
+      },
+      {
+        "name": "通化",
+        "name_en": "Tonghua",
+        "population_total": 120.0,
+        "population_district": 42.0,
+        "urbanization_rate": 62.51
+      },
+      {
+        "name": "白山",
+        "name_en": "Baishan",
+        "population_total": 90.0,
+        "population_district": 42.0,
+        "urbanization_rate": 80.3
+      },
+      {
+        "name": "松原",
+        "name_en": "Songyuan",
+        "population_total": 213.0,
+        "population_district": 69.0,
+        "urbanization_rate": 48.69
+      },
+      {
+        "name": "白城",
+        "name_en": "Baicheng",
+        "population_total": 147.0,
+        "population_district": 46.0,
+        "urbanization_rate": 56.18
+      }
+    ]
+  },
+  {
+    "name": "黑龙江",
+    "name_en": "Heilongjiang",
+    "cities": [
+      {
+        "name": "哈尔滨",
+        "name_en": "Harbin",
+        "population_total": 978.0,
+        "population_district": 692.0,
+        "urbanization_rate": 71.82
+      },
+      {
+        "name": "齐齐哈尔",
+        "name_en": "Qiqihar",
+        "population_total": 386.0,
+        "population_district": 135.0,
+        "urbanization_rate": 55.24
+      },
+      {
+        "name": "鸡西",
+        "name_en": "Jixi",
+        "population_total": 142.0,
+        "population_district": 64.0,
+        "urbanization_rate": 74.66
+      },
+      {
+        "name": "鹤岗",
+        "name_en": "Hegang",
+        "population_total": 85.0,
+        "population_district": 52.0,
+        "urbanization_rate": 84.44
+      },
+      {
+        "name": "双鸭山",
+        "name_en": "Shuangyashan",
+        "population_total": 115.0,
+        "population_district": 38.0,
+        "urbanization_rate": 70.68
+      },
+      {
+        "name": "大庆",
+        "name_en": "Daqing",
+        "population_total": 270.0,
+        "population_district": 172.0,
+        "urbanization_rate": 73.9
+      },
+      {
+        "name": "伊春",
+        "name_en": "Yichun",
+        "population_total": 82.0,
+        "population_district": 34.0,
+        "urbanization_rate": 85.38
+      },
+      {
+        "name": "佳木斯",
+        "name_en": "Jiamusi",
+        "population_total": 208.0,
+        "population_district": 83.0,
+        "urbanization_rate": 66.68
+      },
+      {
+        "name": "七台河",
+        "name_en": "Qitaihe",
+        "population_total": 66.0,
+        "population_district": 47.0,
+        "urbanization_rate": 79.02
+      },
+      {
+        "name": "牡丹江",
+        "name_en": "Mudanjiang",
+        "population_total": 222.0,
+        "population_district": 91.0,
+        "urbanization_rate": 66.95
+      },
+      {
+        "name": "黑河",
+        "name_en": "Heihe",
+        "population_total": 123.0,
+        "population_district": 22.0,
+        "urbanization_rate": 66.9
+      },
+      {
+        "name": "绥化",
+        "name_en": "Suihua",
+        "population_total": 356.0,
+        "population_district": 67.0,
+        "urbanization_rate": 45.4
+      }
+    ]
+  },
+  {
+    "name": "上海",
+    "name_en": "Shanghai",
+    "population_total": 2487.0,
+    "population_district": 2487.0,
+    "urbanization_rate": 89.5
+  },
+  {
+    "name": "江苏",
+    "name_en": "Jiangsu",
+    "cities": [
+      {
+        "name": "南京",
+        "name_en": "Nanjing",
+        "population_total": 955.0,
+        "population_district": 955.0,
+        "urbanization_rate": 87.2
+      },
+      {
+        "name": "无锡",
+        "name_en": "Wuxi",
+        "population_total": 750.0,
+        "population_district": 443.0,
+        "urbanization_rate": 83.31
+      },
+      {
+        "name": "徐州",
+        "name_en": "Xuzhou",
+        "population_total": 902.0,
+        "population_district": 362.0,
+        "urbanization_rate": 67.6
+      },
+      {
+        "name": "常州",
+        "name_en": "Changzhou",
+        "population_total": 538.0,
+        "population_district": 457.0,
+        "urbanization_rate": 78.5
+      },
+      {
+        "name": "苏州",
+        "name_en": "Suzhou",
+        "population_total": 1296.0,
+        "population_district": 684.0,
+        "urbanization_rate": 82.5
+      },
+      {
+        "name": "南通",
+        "name_en": "Nantong",
+        "population_total": 775.0,
+        "population_district": 383.0,
+        "urbanization_rate": 72.6
+      },
+      {
+        "name": "连云港",
+        "name_en": "Lianyungang",
+        "population_total": 459.0,
+        "population_district": 224.0,
+        "urbanization_rate": 64.0
+      },
+      {
+        "name": "淮安",
+        "name_en": "Huai'an",
+        "population_total": 454.0,
+        "population_district": 284.0,
+        "urbanization_rate": 67.7
+      },
+      {
+        "name": "盐城",
+        "name_en": "Yancheng",
+        "population_total": 669.0,
+        "population_district": 237.0,
+        "urbanization_rate": 66.3
+      },
+      {
+        "name": "扬州",
+        "name_en": "Yangzhou",
+        "population_total": 459.0,
+        "population_district": 266.0,
+        "urbanization_rate": 72.8
+      },
+      {
+        "name": "镇江",
+        "name_en": "Zhenjiang",
+        "population_total": 323.0,
+        "population_district": 127.0,
+        "urbanization_rate": 80.7
+      },
+      {
+        "name": "泰州",
+        "name_en": "Taizhou",
+        "population_total": 451.0,
+        "population_district": 173.0,
+        "urbanization_rate": 70.1
+      },
+      {
+        "name": "宿迁",
+        "name_en": "Suqian",
+        "population_total": 498.0,
+        "population_district": 163.0,
+        "urbanization_rate": 65.0
+      }
+    ]
+  },
+  {
+    "name": "浙江",
+    "name_en": "Zhejiang",
+    "cities": [
+      {
+        "name": "杭州",
+        "name_en": "Hangzhou",
+        "population_total": 1252.0,
+        "population_district": 1130.0,
+        "urbanization_rate": 84.2
+      },
+      {
+        "name": "宁波",
+        "name_en": "Ningbo",
+        "population_total": 970.0,
+        "population_district": 527.0,
+        "urbanization_rate": 79.85
+      },
+      {
+        "name": "温州",
+        "name_en": "Wenzhou",
+        "population_total": 976.0,
+        "population_district": 312.0,
+        "urbanization_rate": 74.66
+      },
+      {
+        "name": "嘉兴",
+        "name_en": "Jiaxing",
+        "population_total": 558.0,
+        "population_district": 159.0,
+        "urbanization_rate": 73.15
+      },
+      {
+        "name": "湖州",
+        "name_en": "Huzhou",
+        "population_total": 344.0,
+        "population_district": 160.0,
+        "urbanization_rate": 67.5
+      },
+      {
+        "name": "绍兴",
+        "name_en": "Shaoxing",
+        "population_total": 539.0,
+        "population_district": 306.0,
+        "urbanization_rate": 73.1
+      },
+      {
+        "name": "金华",
+        "name_en": "Jinhua",
+        "population_total": 716.0,
+        "population_district": 150.0,
+        "urbanization_rate": 70.4
+      },
+      {
+        "name": "衢州",
+        "name_en": "Quzhou",
+        "population_total": 230.0,
+        "population_district": 92.0,
+        "urbanization_rate": 60.56
+      },
+      {
+        "name": "舟山",
+        "name_en": "Zhoushan",
+        "population_total": 117.0,
+        "population_district": 89.0,
+        "urbanization_rate": 73.97
+      },
+      {
+        "name": "台州",
+        "name_en": "Taizhou",
+        "population_total": 671.0,
+        "population_district": 223.0,
+        "urbanization_rate": 64.8
+      },
+      {
+        "name": "丽水",
+        "name_en": "Lishui",
+        "population_total": 253.0,
+        "population_district": 58.0,
+        "urbanization_rate": 64.6
+      }
+    ]
+  },
+  {
+    "name": "安徽",
+    "name_en": "Anhui",
+    "cities": [
+      {
+        "name": "合肥",
+        "name_en": "Hefei",
+        "population_total": 985.0,
+        "population_district": 549.0,
+        "urbanization_rate": 85.55
+      },
+      {
+        "name": "芜湖",
+        "name_en": "Wuhu",
+        "population_total": 376.0,
+        "population_district": 249.0,
+        "urbanization_rate": 74.46
+      },
+      {
+        "name": "蚌埠",
+        "name_en": "Bengbu",
+        "population_total": 326.0,
+        "population_district": 132.0,
+        "urbanization_rate": 59.65
+      },
+      {
+        "name": "淮南",
+        "name_en": "Huainan",
+        "population_total": 302.0,
+        "population_district": 156.0,
+        "urbanization_rate": 63.29
+      },
+      {
+        "name": "马鞍山",
+        "name_en": "Ma'anshan",
+        "population_total": 219.0,
+        "population_district": 102.0,
+        "urbanization_rate": 73.62
+      },
+      {
+        "name": "淮北",
+        "name_en": "Huaibei",
+        "population_total": 194.0,
+        "population_district": 103.0,
+        "urbanization_rate": 65.64
+      },
+      {
+        "name": "铜陵",
+        "name_en": "Tongling",
+        "population_total": 130.0,
+        "population_district": 84.0,
+        "urbanization_rate": 67.2
+      },
+      {
+        "name": "安庆",
+        "name_en": "Anqing",
+        "population_total": 412.0,
+        "population_district": 82.0,
+        "urbanization_rate": 57.49
+      },
+      {
+        "name": "黄山",
+        "name_en": "Huangshan",
+        "population_total": 132.0,
+        "population_district": 55.0,
+        "urbanization_rate": 60.23
+      },
+      {
+        "name": "滁州",
+        "name_en": "Chuzhou",
+        "population_total": 406.0,
+        "population_district": 81.0,
+        "urbanization_rate": 63.85
+      },
+      {
+        "name": "阜阳",
+        "name_en": "Fuyang",
+        "population_total": 808.0,
+        "population_district": 212.0,
+        "urbanization_rate": 45.16
+      },
+      {
+        "name": "宿州",
+        "name_en": "Suzhou",
+        "population_total": 526.0,
+        "population_district": 177.0,
+        "urbanization_rate": 48.09
+      },
+      {
+        "name": "六安",
+        "name_en": "Lu'an",
+        "population_total": 434.0,
+        "population_district": 196.0,
+        "urbanization_rate": 51.41
+      },
+      {
+        "name": "亳州",
+        "name_en": "Bozhou",
+        "population_total": 490.0,
+        "population_district": 153.0,
+        "urbanization_rate": 45.95
+      },
+      {
+        "name": "池州",
+        "name_en": "Chizhou",
+        "population_total": 132.0,
+        "population_district": 61.0,
+        "urbanization_rate": 61.39
+      },
+      {
+        "name": "宣城",
+        "name_en": "Xuancheng",
+        "population_total": 249.0,
+        "population_district": 77.0,
+        "urbanization_rate": 63.55
+      }
+    ]
+  },
+  {
+    "name": "福建",
+    "name_en": "Fujian",
+    "cities": [
+      {
+        "name": "福州",
+        "name_en": "Fuzhou",
+        "population_total": 847.0,
+        "population_district": 419.0,
+        "urbanization_rate": 73.91
+      },
+      {
+        "name": "厦门",
+        "name_en": "Xiamen",
+        "population_total": 533.0,
+        "population_district": 533.0,
+        "urbanization_rate": 90.81
+      },
+      {
+        "name": "莆田",
+        "name_en": "Putian",
+        "population_total": 318.0,
+        "population_district": 228.0,
+        "urbanization_rate": 65.04
+      },
+      {
+        "name": "三明",
+        "name_en": "Sanming",
+        "population_total": 243.0,
+        "population_district": 66.0,
+        "urbanization_rate": 65.9
+      },
+      {
+        "name": "泉州",
+        "name_en": "Quanzhou",
+        "population_total": 888.0,
+        "population_district": 179.0,
+        "urbanization_rate": 70.79
+      },
+      {
+        "name": "漳州",
+        "name_en": "Zhangzhou",
+        "population_total": 506.0,
+        "population_district": 214.0,
+        "urbanization_rate": 64.19
+      },
+      {
+        "name": "南平",
+        "name_en": "Nanping",
+        "population_total": 263.0,
+        "population_district": 79.0,
+        "urbanization_rate": 62.3
+      },
+      {
+        "name": "龙岩",
+        "name_en": "Longyan",
+        "population_total": 269.0,
+        "population_district": 117.0,
+        "urbanization_rate": 65.44
+      },
+      {
+        "name": "宁德",
+        "name_en": "Ningde",
+        "population_total": 316.0,
+        "population_district": 65.0,
+        "urbanization_rate": 63.96
+      }
+    ]
+  },
+  {
+    "name": "江西",
+    "name_en": "Jiangxi",
+    "cities": [
+      {
+        "name": "南昌",
+        "name_en": "Nanchang",
+        "population_total": 657.0,
+        "population_district": 441.0,
+        "urbanization_rate": 79.58
+      },
+      {
+        "name": "景德镇",
+        "name_en": "Jingdezhen",
+        "population_total": 162.0,
+        "population_district": 59.0,
+        "urbanization_rate": 67.51
+      },
+      {
+        "name": "萍乡",
+        "name_en": "Pingxiang",
+        "population_total": 180.0,
+        "population_district": 86.0,
+        "urbanization_rate": 70.42
+      },
+      {
+        "name": "九江",
+        "name_en": "Jiujiang",
+        "population_total": 454.0,
+        "population_district": 122.0,
+        "urbanization_rate": 63.82
+      },
+      {
+        "name": "新余",
+        "name_en": "Xinyu",
+        "population_total": 120.0,
+        "population_district": 92.0,
+        "urbanization_rate": 75.08
+      },
+      {
+        "name": "鹰潭",
+        "name_en": "Yingtan",
+        "population_total": 115.0,
+        "population_district": 61.0,
+        "urbanization_rate": 67.13
+      },
+      {
+        "name": "赣州",
+        "name_en": "Ganzhou",
+        "population_total": 899.0,
+        "population_district": 261.0,
+        "urbanization_rate": 58.18
+      },
+      {
+        "name": "吉安",
+        "name_en": "Ji'an",
+        "population_total": 439.0,
+        "population_district": 68.0,
+        "urbanization_rate": 55.07
+      },
+      {
+        "name": "宜春",
+        "name_en": "Yichun",
+        "population_total": 494.0,
+        "population_district": 114.0,
+        "urbanization_rate": 59.18
+      },
+      {
+        "name": "抚州",
+        "name_en": "Fuzhou",
+        "population_total": 356.0,
+        "population_district": 148.0,
+        "urbanization_rate": 59.72
+      },
+      {
+        "name": "上饶",
+        "name_en": "Shangrao",
+        "population_total": 640.0,
+        "population_district": 206.0,
+        "urbanization_rate": 57.06
+      }
+    ]
+  },
+  {
+    "name": "山东",
+    "name_en": "Shandong",
+    "cities": [
+      {
+        "name": "济南",
+        "name_en": "Jinan",
+        "population_total": 944.0,
+        "population_district": 858.0,
+        "urbanization_rate": 75.28
+      },
+      {
+        "name": "青岛",
+        "name_en": "Qingdao",
+        "population_total": 1037.0,
+        "population_district": 744.0,
+        "urbanization_rate": 78.3
+      },
+      {
+        "name": "淄博",
+        "name_en": "Zibo",
+        "population_total": 467.0,
+        "population_district": 338.0,
+        "urbanization_rate": 75.66
+      },
+      {
+        "name": "枣庄",
+        "name_en": "Zaozhuang",
+        "population_total": 381.0,
+        "population_district": 226.0,
+        "urbanization_rate": 61.73
+      },
+      {
+        "name": "东营",
+        "name_en": "Dongying",
+        "population_total": 221.0,
+        "population_district": 144.0,
+        "urbanization_rate": 72.49
+      },
+      {
+        "name": "烟台",
+        "name_en": "Yantai",
+        "population_total": 703.0,
+        "population_district": 319.0,
+        "urbanization_rate": 69.23
+      },
+      {
+        "name": "潍坊",
+        "name_en": "Weifang",
+        "population_total": 937.0,
+        "population_district": 253.0,
+        "urbanization_rate": 66.12
+      },
+      {
+        "name": "济宁",
+        "name_en": "Jining",
+        "population_total": 824.0,
+        "population_district": 225.0,
+        "urbanization_rate": 63.05
+      },
+      {
+        "name": "泰安",
+        "name_en": "Tai'an",
+        "population_total": 535.0,
+        "population_district": 193.0,
+        "urbanization_rate": 66.45
+      },
+      {
+        "name": "威海",
+        "name_en": "Weihai",
+        "population_total": 291.0,
+        "population_district": 176.0,
+        "urbanization_rate": 72.68
+      },
+      {
+        "name": "日照",
+        "name_en": "Rizhao",
+        "population_total": 295.0,
+        "population_district": 154.0,
+        "urbanization_rate": 63.56
+      },
+      {
+        "name": "临沂",
+        "name_en": "Linyi",
+        "population_total": 1094.0,
+        "population_district": 378.0,
+        "urbanization_rate": 58.16
+      },
+      {
+        "name": "德州",
+        "name_en": "Dezhou",
+        "population_total": 554.0,
+        "population_district": 149.0,
+        "urbanization_rate": 56.33
+      },
+      {
+        "name": "聊城",
+        "name_en": "Liaocheng",
+        "population_total": 586.0,
+        "population_district": 199.0,
+        "urbanization_rate": 55.8
+      },
+      {
+        "name": "滨州",
+        "name_en": "Binzhou",
+        "population_total": 390.0,
+        "population_district": 119.0,
+        "urbanization_rate": 61.92
+      },
+      {
+        "name": "菏泽",
+        "name_en": "Heze",
+        "population_total": 864.0,
+        "population_district": 222.0,
+        "urbanization_rate": 53.83
+      }
+    ]
+  },
+  {
+    "name": "河南",
+    "name_en": "Henan",
+    "cities": [
+      {
+        "name": "郑州",
+        "name_en": "Zhengzhou",
+        "population_total": 1301.0,
+        "population_district": 686.0,
+        "urbanization_rate": 80.0
+      },
+      {
+        "name": "开封",
+        "name_en": "Kaifeng",
+        "population_total": 471.0,
+        "population_district": 176.0,
+        "urbanization_rate": 54.54
+      },
+      {
+        "name": "洛阳",
+        "name_en": "Luoyang",
+        "population_total": 708.0,
+        "population_district": 363.0,
+        "urbanization_rate": 67.42
+      },
+      {
+        "name": "平顶山",
+        "name_en": "Pingdingshan",
+        "population_total": 492.0,
+        "population_district": 118.0,
+        "urbanization_rate": 56.1
+      },
+      {
+        "name": "安阳",
+        "name_en": "Anyang",
+        "population_total": 538.0,
+        "population_district": 158.0,
+        "urbanization_rate": 55.7
+      },
+      {
+        "name": "鹤壁",
+        "name_en": "Hebi",
+        "population_total": 157.0,
+        "population_district": 70.0,
+        "urbanization_rate": 63.19
+      },
+      {
+        "name": "新乡",
+        "name_en": "Xinxiang",
+        "population_total": 613.0,
+        "population_district": 143.0,
+        "urbanization_rate": 60.0
+      },
+      {
+        "name": "焦作",
+        "name_en": "Jiaozuo",
+        "population_total": 352.0,
+        "population_district": 109.0,
+        "urbanization_rate": 65.25
+      },
+      {
+        "name": "濮阳",
+        "name_en": "Puyang",
+        "population_total": 370.0,
+        "population_district": 97.0,
+        "urbanization_rate": 52.57
+      },
+      {
+        "name": "许昌",
+        "name_en": "Xuchang",
+        "population_total": 438.0,
+        "population_district": 134.0,
+        "urbanization_rate": 56.12
+      },
+      {
+        "name": "漯河",
+        "name_en": "Luohe",
+        "population_total": 237.0,
+        "population_district": 133.0,
+        "urbanization_rate": 57.53
+      },
+      {
+        "name": "三门峡",
+        "name_en": "Sanmenxia",
+        "population_total": 202.0,
+        "population_district": 61.0,
+        "urbanization_rate": 59.55
+      },
+      {
+        "name": "南阳",
+        "name_en": "Nanyang",
+        "population_total": 950.0,
+        "population_district": 206.0,
+        "urbanization_rate": 53.16
+      },
+      {
+        "name": "商丘",
+        "name_en": "Shangqiu",
+        "population_total": 766.0,
+        "population_district": 195.0,
+        "urbanization_rate": 48.76
+      },
+      {
+        "name": "信阳",
+        "name_en": "Xinyang",
+        "population_total": 605.0,
+        "population_district": 149.0,
+        "urbanization_rate": 52.7
+      },
+      {
+        "name": "周口",
+        "name_en": "Zhoukou",
+        "population_total": 867.0,
+        "population_district": 180.0,
+        "urbanization_rate": 45.31
+      },
+      {
+        "name": "驻马店",
+        "name_en": "Zhumadian",
+        "population_total": 677.0,
+        "population_district": 106.0,
+        "urbanization_rate": 46.84
+      }
+    ]
+  },
+  {
+    "name": "湖北",
+    "name_en": "Hubei",
+    "cities": [
+      {
+        "name": "武汉",
+        "name_en": "Wuhan",
+        "population_total": 1377.0,
+        "population_district": 1377.0,
+        "urbanization_rate": 84.79
+      },
+      {
+        "name": "黄石",
+        "name_en": "Huangshi",
+        "population_total": 244.0,
+        "population_district": 86.0,
+        "urbanization_rate": 68.24
+      },
+      {
+        "name": "十堰",
+        "name_en": "Shiyan",
+        "population_total": 315.0,
+        "population_district": 138.0,
+        "urbanization_rate": 63.58
+      },
+      {
+        "name": "宜昌",
+        "name_en": "Yichang",
+        "population_total": 392.0,
+        "population_district": 160.0,
+        "urbanization_rate": 65.32
+      },
+      {
+        "name": "襄阳",
+        "name_en": "Xiangyang",
+        "population_total": 528.0,
+        "population_district": 234.0,
+        "urbanization_rate": 64.15
+      },
+      {
+        "name": "鄂州",
+        "name_en": "Ezhou",
+        "population_total": 107.0,
+        "population_district": 107.0,
+        "urbanization_rate": 67.92
+      },
+      {
+        "name": "荆门",
+        "name_en": "Jingmen",
+        "population_total": 255.0,
+        "population_district": 78.0,
+        "urbanization_rate": 61.2
+      },
+      {
+        "name": "孝感",
+        "name_en": "Xiaogan",
+        "population_total": 417.0,
+        "population_district": 97.0,
+        "urbanization_rate": 62.83
+      },
+      {
+        "name": "荆州",
+        "name_en": "Jingzhou",
+        "population_total": 514.0,
+        "population_district": 127.0,
+        "urbanization_rate": 58.18
+      },
+      {
+        "name": "黄冈",
+        "name_en": "Huanggang",
+        "population_total": 579.0,
+        "population_district": 50.0,
+        "urbanization_rate": 50.52
+      },
+      {
+        "name": "咸宁",
+        "name_en": "Xianning",
+        "population_total": 261.0,
+        "population_district": 61.0,
+        "urbanization_rate": 58.85
+      },
+      {
+        "name": "随州",
+        "name_en": "Suizhou",
+        "population_total": 200.0,
+        "population_district": 68.0,
+        "urbanization_rate": 59.12
+      }
+    ]
+  },
+  {
+    "name": "湖南",
+    "name_en": "Hunan",
+    "cities": [
+      {
+        "name": "长沙",
+        "name_en": "Changsha",
+        "population_total": 1051.0,
+        "population_district": 636.0,
+        "urbanization_rate": 83.59
+      },
+      {
+        "name": "株洲",
+        "name_en": "Zhuzhou",
+        "population_total": 385.0,
+        "population_district": 173.0,
+        "urbanization_rate": 72.83
+      },
+      {
+        "name": "湘潭",
+        "name_en": "Xiangtan",
+        "population_total": 270.0,
+        "population_district": 111.0,
+        "urbanization_rate": 66.16
+      },
+      {
+        "name": "衡阳",
+        "name_en": "Hengyang",
+        "population_total": 650.0,
+        "population_district": 136.0,
+        "urbanization_rate": 57.0
+      },
+      {
+        "name": "邵阳",
+        "name_en": "Shaoyang",
+        "population_total": 636.0,
+        "population_district": 81.0,
+        "urbanization_rate": 54.33
+      },
+      {
+        "name": "岳阳",
+        "name_en": "Yueyang",
+        "population_total": 499.0,
+        "population_district": 134.0,
+        "urbanization_rate": 62.39
+      },
+      {
+        "name": "常德",
+        "name_en": "Changde",
+        "population_total": 519.0,
+        "population_district": 145.0,
+        "urbanization_rate": 57.9
+      },
+      {
+        "name": "张家界",
+        "name_en": "Zhangjiajie",
+        "population_total": 150.0,
+        "population_district": 57.0,
+        "urbanization_rate": 54.22
+      },
+      {
+        "name": "益阳",
+        "name_en": "Yiyang",
+        "population_total": 376.0,
+        "population_district": 122.0,
+        "urbanization_rate": 52.67
+      },
+      {
+        "name": "郴州",
+        "name_en": "Chenzhou",
+        "population_total": 460.0,
+        "population_district": 101.0,
+        "urbanization_rate": 60.4
+      },
+      {
+        "name": "永州",
+        "name_en": "Yongzhou",
+        "population_total": 508.0,
+        "population_district": 113.0,
+        "urbanization_rate": 49.71
+      },
+      {
+        "name": "怀化",
+        "name_en": "Huaihua",
+        "population_total": 447.0,
+        "population_district": 71.0,
+        "urbanization_rate": 50.04
+      },
+      {
+        "name": "娄底",
+        "name_en": "Loudi",
+        "population_total": 374.0,
+        "population_district": 76.0,
+        "urbanization_rate": 49.82
+      }
+    ]
+  },
+  {
+    "name": "广东",
+    "name_en": "Guangdong",
+    "cities": [
+      {
+        "name": "广州",
+        "name_en": "Guangzhou",
+        "population_total": 1883.0,
+        "population_district": 1883.0,
+        "urbanization_rate": 86.76
+      },
+      {
+        "name": "韶关",
+        "name_en": "Shaoguan",
+        "population_total": 286.0,
+        "population_district": 104.0,
+        "urbanization_rate": 59.65
+      },
+      {
+        "name": "深圳",
+        "name_en": "Shenzhen",
+        "population_total": 1779.0,
+        "population_district": 1779.0,
+        "urbanization_rate": 99.8
+      },
+      {
+        "name": "珠海",
+        "name_en": "Zhuhai",
+        "population_total": 249.0,
+        "population_district": 249.0,
+        "urbanization_rate": 90.87
+      },
+      {
+        "name": "汕头",
+        "name_en": "Shantou",
+        "population_total": 556.0,
+        "population_district": 549.0,
+        "urbanization_rate": 71.15
+      },
+      {
+        "name": "佛山",
+        "name_en": "Foshan",
+        "population_total": 962.0,
+        "population_district": 962.0,
+        "urbanization_rate": 95.39
+      },
+      {
+        "name": "江门",
+        "name_en": "Jiangmen",
+        "population_total": 482.0,
+        "population_district": 216.0,
+        "urbanization_rate": 68.66
+      },
+      {
+        "name": "湛江",
+        "name_en": "Zhanjiang",
+        "population_total": 708.0,
+        "population_district": 199.0,
+        "urbanization_rate": 48.07
+      },
+      {
+        "name": "茂名",
+        "name_en": "Maoming",
+        "population_total": 625.0,
+        "population_district": 258.0,
+        "urbanization_rate": 47.32
+      },
+      {
+        "name": "肇庆",
+        "name_en": "Zhaoqing",
+        "population_total": 413.0,
+        "population_district": 169.0,
+        "urbanization_rate": 53.09
+      },
+      {
+        "name": "惠州",
+        "name_en": "Huizhou",
+        "population_total": 607.0,
+        "population_district": 352.0,
+        "urbanization_rate": 73.3
+      },
+      {
+        "name": "梅州",
+        "name_en": "Meizhou",
+        "population_total": 385.0,
+        "population_district": 99.0,
+        "urbanization_rate": 54.39
+      },
+      {
+        "name": "汕尾",
+        "name_en": "Shanwei",
+        "population_total": 269.0,
+        "population_district": 47.0,
+        "urbanization_rate": 59.31
+      },
+      {
+        "name": "河源",
+        "name_en": "Heyuan",
+        "population_total": 284.0,
+        "population_district": 71.0,
+        "urbanization_rate": 51.96
+      },
+      {
+        "name": "阳江",
+        "name_en": "Yangjiang",
+        "population_total": 262.0,
+        "population_district": 130.0,
+        "urbanization_rate": 56.99
+      },
+      {
+        "name": "清远",
+        "name_en": "Qiingyuan",
+        "population_total": 399.0,
+        "population_district": 175.0,
+        "urbanization_rate": 57.16
+      },
+      {
+        "name": "东莞",
+        "name_en": "Dongguan",
+        "population_total": 1049.0,
+        "urbanization_rate": 92.83
+      },
+      {
+        "name": "中山",
+        "name_en": "Zhongshan",
+        "population_total": 446.0,
+        "urbanization_rate": 87.56
+      },
+      {
+        "name": "潮州",
+        "name_en": "Chaozhou",
+        "population_total": 258.0,
+        "population_district": 176.0,
+        "urbanization_rate": 65.1
+      },
+      {
+        "name": "揭阳",
+        "name_en": "Jieyang",
+        "population_total": 565.0,
+        "population_district": 188.0,
+        "urbanization_rate": 52.27
+      },
+      {
+        "name": "云浮",
+        "name_en": "Yunfu",
+        "population_total": 240.0,
+        "population_district": 65.0,
+        "urbanization_rate": 46.59
+      }
+    ]
+  },
+  {
+    "name": "广西",
+    "name_en": "Guangxi",
+    "cities": [
+      {
+        "name": "南宁",
+        "name_en": "Nanning",
+        "population_total": 894.0,
+        "population_district": 614.0,
+        "urbanization_rate": 71.37
+      },
+      {
+        "name": "柳州",
+        "name_en": "Liuzhou",
+        "population_total": 415.0,
+        "population_district": 252.0,
+        "urbanization_rate": 71.23
+      },
+      {
+        "name": "桂林",
+        "name_en": "Guilin",
+        "population_total": 495.0,
+        "population_district": 174.0,
+        "urbanization_rate": 55.12
+      },
+      {
+        "name": "梧州",
+        "name_en": "Wuzhou",
+        "population_total": 283.0,
+        "population_district": 87.0,
+        "urbanization_rate": 56.88
+      },
+      {
+        "name": "北海",
+        "name_en": "Beihai",
+        "population_total": 189.0,
+        "population_district": 101.0,
+        "urbanization_rate": 60.47
+      },
+      {
+        "name": "防城港",
+        "name_en": "Fangchenggang",
+        "population_total": 107.0,
+        "population_district": 65.0,
+        "urbanization_rate": 64.57
+      },
+      {
+        "name": "钦州",
+        "name_en": "Qinzhou",
+        "population_total": 332.0,
+        "population_district": 141.0,
+        "urbanization_rate": 44.91
+      },
+      {
+        "name": "贵港",
+        "name_en": "Guigang",
+        "population_total": 431.0,
+        "population_district": 168.0,
+        "urbanization_rate": 52.17
+      },
+      {
+        "name": "玉林",
+        "name_en": "Yulin",
+        "population_total": 582.0,
+        "population_district": 124.0,
+        "urbanization_rate": 52.1
+      },
+      {
+        "name": "百色",
+        "name_en": "Baise",
+        "population_total": 351.0,
+        "population_district": 77.0,
+        "urbanization_rate": 46.67
+      },
+      {
+        "name": "贺州",
+        "name_en": "Hezhou",
+        "population_total": 201.0,
+        "population_district": 105.0,
+        "urbanization_rate": 51.14
+      },
+      {
+        "name": "河池",
+        "name_en": "Hechi",
+        "population_total": 335.0,
+        "population_district": 91.0,
+        "urbanization_rate": 47.84
+      },
+      {
+        "name": "来宾",
+        "name_en": "Laibin",
+        "population_total": 205.0,
+        "population_district": 92.0,
+        "urbanization_rate": 50.22
+      },
+      {
+        "name": "崇左",
+        "name_en": "Chongzuo",
+        "population_total": 206.0,
+        "population_district": 44.0,
+        "urbanization_rate": 46.69
+      }
+    ]
+  },
+  {
+    "name": "海南",
+    "name_en": "Hainan",
+    "cities": [
+      {
+        "name": "海口",
+        "name_en": "Haikou",
+        "population_total": 300.0,
+        "population_district": 300.0,
+        "urbanization_rate": 83.34
+      },
+      {
+        "name": "三亚",
+        "name_en": "Sanya",
+        "population_total": 111.0,
+        "population_district": 111.0,
+        "urbanization_rate": 72.34
+      },
+      {
+        "name": "三沙",
+        "name_en": "Sansha",
+        "urbanization_rate": 100.0
+      },
+      {
+        "name": "儋州",
+        "name_en": "Danzhou",
+        "population_total": 102.0,
+        "urbanization_rate": 56.59
+      }
+    ]
+  },
+  {
+    "name": "重庆",
+    "name_en": "Chongqing",
+    "population_total": 3191.0,
+    "population_district": 2535.0,
+    "urbanization_rate": 71.67
+  },
+  {
+    "name": "四川",
+    "name_en": "Sichuan",
+    "cities": [
+      {
+        "name": "成都",
+        "name_en": "Chengdu",
+        "population_total": 2140.0,
+        "population_district": 1586.0,
+        "urbanization_rate": 80.5
+      },
+      {
+        "name": "自贡",
+        "name_en": "Zigong",
+        "population_total": 243.0,
+        "population_district": 127.0,
+        "urbanization_rate": 57.69
+      },
+      {
+        "name": "攀枝花",
+        "name_en": "Panzhihua",
+        "population_total": 122.0,
+        "population_district": 81.0,
+        "urbanization_rate": 70.78
+      },
+      {
+        "name": "泸州",
+        "name_en": "Luzhou",
+        "population_total": 427.0,
+        "population_district": 161.0,
+        "urbanization_rate": 53.16
+      },
+      {
+        "name": "德阳",
+        "name_en": "Deyang",
+        "population_total": 345.0,
+        "population_district": 104.0,
+        "urbanization_rate": 58.77
+      },
+      {
+        "name": "绵阳",
+        "name_en": "Mianyang",
+        "population_total": 491.0,
+        "population_district": 229.0,
+        "urbanization_rate": 56.01
+      },
+      {
+        "name": "广元",
+        "name_en": "Guangyuan",
+        "population_total": 225.0,
+        "population_district": 89.0,
+        "urbanization_rate": 49.57
+      },
+      {
+        "name": "遂宁",
+        "name_en": "Suining",
+        "population_total": 275.0,
+        "population_district": 126.0,
+        "urbanization_rate": 59.78
+      },
+      {
+        "name": "内江",
+        "name_en": "Neijiang",
+        "population_total": 306.0,
+        "population_district": 117.0,
+        "urbanization_rate": 52.57
+      },
+      {
+        "name": "乐山",
+        "name_en": "Leshan",
+        "population_total": 315.0,
+        "population_district": 125.0,
+        "urbanization_rate": 55.79
+      },
+      {
+        "name": "南充",
+        "name_en": "Nanchong",
+        "population_total": 551.0,
+        "population_district": 191.0,
+        "urbanization_rate": 52.83
+      },
+      {
+        "name": "眉山",
+        "name_en": "Meishan",
+        "population_total": 296.0,
+        "population_district": 124.0,
+        "urbanization_rate": 52.81
+      },
+      {
+        "name": "宜宾",
+        "name_en": "Yibin",
+        "population_total": 463.0,
+        "population_district": 221.0,
+        "urbanization_rate": 54.91
+      },
+      {
+        "name": "广安",
+        "name_en": "Guang'an",
+        "population_total": 323.0,
+        "population_district": 97.0,
+        "urbanization_rate": 46.57
+      },
+      {
+        "name": "达州",
+        "name_en": "Dazhou",
+        "population_total": 532.0,
+        "population_district": 185.0,
+        "urbanization_rate": 52.48
+      },
+      {
+        "name": "雅安",
+        "name_en": "Ya'an",
+        "population_total": 143.0,
+        "population_district": 62.0,
+        "urbanization_rate": 55.17
+      },
+      {
+        "name": "巴中",
+        "name_en": "Bazhong",
+        "population_total": 263.0,
+        "population_district": 104.0,
+        "urbanization_rate": 48.52
+      },
+      {
+        "name": "资阳",
+        "name_en": "Ziyang",
+        "population_total": 225.0,
+        "population_district": 85.0,
+        "urbanization_rate": 43.86
+      }
+    ]
+  },
+  {
+    "name": "贵州",
+    "name_en": "Guizhou",
+    "cities": [
+      {
+        "name": "贵阳",
+        "name_en": "Guiyang",
+        "population_total": 640.0,
+        "population_district": 484.0,
+        "urbanization_rate": 80.5
+      },
+      {
+        "name": "六盘水",
+        "name_en": "Liupanshui",
+        "population_total": 303.0,
+        "population_district": 142.0,
+        "urbanization_rate": 51.61
+      },
+      {
+        "name": "遵义",
+        "name_en": "Zunyi",
+        "population_total": 658.0,
+        "population_district": 236.0,
+        "urbanization_rate": 59.51
+      },
+      {
+        "name": "安顺",
+        "name_en": "Anshun",
+        "population_total": 246.0,
+        "population_district": 123.0,
+        "urbanization_rate": 49.03
+      },
+      {
+        "name": "毕节",
+        "name_en": "Bijie",
+        "population_total": 673.0,
+        "population_district": 127.0,
+        "urbanization_rate": 45.0
+      },
+      {
+        "name": "铜仁",
+        "name_en": "Tongren",
+        "population_total": 321.0,
+        "population_district": 61.0,
+        "urbanization_rate": 49.11
+      }
+    ]
+  },
+  {
+    "name": "云南",
+    "name_en": "Yunnan",
+    "cities": [
+      {
+        "name": "昆明",
+        "name_en": "Kunming",
+        "population_total": 868.0,
+        "population_district": 613.0,
+        "urbanization_rate": 82.32
+      },
+      {
+        "name": "曲靖",
+        "name_en": "Qujing",
+        "population_total": 569.0,
+        "population_district": 159.0,
+        "urbanization_rate": 51.79
+      },
+      {
+        "name": "玉溪",
+        "name_en": "Yuxi",
+        "population_total": 227.0,
+        "population_district": 86.0,
+        "urbanization_rate": 57.08
+      },
+      {
+        "name": "保山",
+        "name_en": "Baoshan",
+        "population_total": 241.0,
+        "population_district": 91.0,
+        "urbanization_rate": 37.81
+      },
+      {
+        "name": "昭通",
+        "name_en": "Zhaotong",
+        "population_total": 485.0,
+        "population_district": 87.0,
+        "urbanization_rate": 41.85
+      },
+      {
+        "name": "丽江",
+        "name_en": "Lijiang",
+        "population_total": 125.0,
+        "population_district": 28.0,
+        "urbanization_rate": 50.44
+      },
+      {
+        "name": "普洱",
+        "name_en": "Pu'er",
+        "population_total": 234.0,
+        "population_district": 42.0,
+        "urbanization_rate": 43.12
+      },
+      {
+        "name": "临沧",
+        "name_en": "Lincang",
+        "population_total": 220.0,
+        "population_district": 37.0,
+        "urbanization_rate": 37.52
+      }
+    ]
+  },
+  {
+    "name": "西藏",
+    "name_en": "Xizang",
+    "cities": [
+      {
+        "name": "拉萨",
+        "name_en": "Lhasa",
+        "population_total": 87.0,
+        "population_district": 63.0,
+        "urbanization_rate": 71.28
+      },
+      {
+        "name": "日喀则",
+        "name_en": "Xigaze",
+        "population_total": 80.0,
+        "population_district": 16.0,
+        "urbanization_rate": 24.59
+      },
+      {
+        "name": "昌都",
+        "name_en": "Qamdo",
+        "population_total": 76.0,
+        "population_district": 15.0,
+        "urbanization_rate": 30.0
+      },
+      {
+        "name": "林芝",
+        "name_en": "Nyingchi",
+        "population_total": 24.0,
+        "population_district": 8.0,
+        "urbanization_rate": 42.37
+      },
+      {
+        "name": "山南",
+        "name_en": "Lhoka",
+        "population_total": 35.0,
+        "population_district": 8.0,
+        "urbanization_rate": 33.24
+      },
+      {
+        "name": "那曲",
+        "name_en": "Nagqu",
+        "population_total": 51.0,
+        "population_district": 10.0,
+        "urbanization_rate": 26.0
+      }
+    ]
+  },
+  {
+    "name": "陕西",
+    "name_en": "Shaanxi",
+    "cities": [
+      {
+        "name": "西安",
+        "name_en": "Xi'an",
+        "population_total": 1308.0,
+        "population_district": 1202.0,
+        "urbanization_rate": 79.88
+      },
+      {
+        "name": "铜川",
+        "name_en": "Tongchuan",
+        "population_total": 70.0,
+        "population_district": 63.0,
+        "urbanization_rate": 65.04
+      },
+      {
+        "name": "宝鸡",
+        "name_en": "Baoji",
+        "population_total": 326.0,
+        "population_district": 185.0,
+        "urbanization_rate": 61.0
+      },
+      {
+        "name": "咸阳",
+        "name_en": "Xianyang",
+        "population_total": 412.0,
+        "population_district": 94.0,
+        "urbanization_rate": 60.19
+      },
+      {
+        "name": "渭南",
+        "name_en": "Weinan",
+        "population_total": 460.0,
+        "population_district": 117.0,
+        "urbanization_rate": 52.35
+      },
+      {
+        "name": "延安",
+        "name_en": "Yan'an",
+        "population_total": 226.0,
+        "population_district": 81.0,
+        "urbanization_rate": 63.02
+      },
+      {
+        "name": "汉中",
+        "name_en": "Hanzhong",
+        "population_total": 317.0,
+        "population_district": 108.0,
+        "urbanization_rate": 54.28
+      },
+      {
+        "name": "榆林",
+        "name_en": "Yulin",
+        "population_total": 361.0,
+        "population_district": 98.0,
+        "urbanization_rate": 63.5
+      },
+      {
+        "name": "安康",
+        "name_en": "Ankang",
+        "population_total": 246.0,
+        "population_district": 90.0,
+        "urbanization_rate": 53.77
+      },
+      {
+        "name": "商洛",
+        "name_en": "Shangluo",
+        "population_total": 201.0,
+        "population_district": 47.0,
+        "urbanization_rate": 51.59
+      }
+    ]
+  },
+  {
+    "name": "甘肃",
+    "name_en": "Gansu",
+    "cities": [
+      {
+        "name": "兰州",
+        "name_en": "Lanzhou",
+        "population_total": 443.0,
+        "population_district": 326.0,
+        "urbanization_rate": 84.8
+      },
+      {
+        "name": "嘉峪关",
+        "name_en": "Jiayuguan",
+        "population_total": 32.0,
+        "urbanization_rate": 94.67
+      },
+      {
+        "name": "金昌",
+        "name_en": "Jinchang",
+        "population_total": 43.0,
+        "population_district": 26.0,
+        "urbanization_rate": 79.83
+      },
+      {
+        "name": "白银",
+        "name_en": "Baiyin",
+        "population_total": 149.0,
+        "population_district": 52.0,
+        "urbanization_rate": 59.48
+      },
+      {
+        "name": "天水",
+        "name_en": "Tianshui",
+        "population_total": 291.0,
+        "population_district": 119.0,
+        "urbanization_rate": 49.03
+      },
+      {
+        "name": "武威",
+        "name_en": "Wuwei",
+        "population_total": 143.0,
+        "population_district": 87.0,
+        "urbanization_rate": 50.87
+      },
+      {
+        "name": "张掖",
+        "name_en": "Zhangye",
+        "population_total": 110.0,
+        "population_district": 51.0,
+        "urbanization_rate": 54.86
+      },
+      {
+        "name": "平凉",
+        "name_en": "Pingliang",
+        "population_total": 179.0,
+        "population_district": 50.0,
+        "urbanization_rate": 48.09
+      },
+      {
+        "name": "酒泉",
+        "name_en": "Jiuquan",
+        "population_total": 104.0,
+        "population_district": 45.0,
+        "urbanization_rate": 67.07
+      },
+      {
+        "name": "庆阳",
+        "name_en": "Qingyang",
+        "population_total": 213.0,
+        "population_district": 51.0,
+        "urbanization_rate": 45.21
+      },
+      {
+        "name": "定西",
+        "name_en": "Dingxi",
+        "population_total": 248.0,
+        "population_district": 42.0,
+        "urbanization_rate": 41.46
+      },
+      {
+        "name": "陇南",
+        "name_en": "Longnan",
+        "population_total": 234.0,
+        "population_district": 54.0,
+        "urbanization_rate": 40.1
+      }
+    ]
+  },
+  {
+    "name": "青海",
+    "name_en": "Qinghai",
+    "cities": [
+      {
+        "name": "西宁",
+        "name_en": "Xining",
+        "population_total": 248.0,
+        "population_district": 197.0,
+        "urbanization_rate": 80.57
+      },
+      {
+        "name": "海东",
+        "name_en": "Haidong",
+        "population_total": 134.0,
+        "population_district": 35.0,
+        "urbanization_rate": 44.54
+      }
+    ]
+  },
+  {
+    "name": "宁夏",
+    "name_en": "Ningxia",
+    "cities": [
+      {
+        "name": "银川",
+        "name_en": "Yinchuan",
+        "population_total": 291.0,
+        "population_district": 193.0,
+        "urbanization_rate": 82.84
+      },
+      {
+        "name": "石嘴山",
+        "name_en": "Shizuishan",
+        "population_total": 75.0,
+        "population_district": 48.0,
+        "urbanization_rate": 80.74
+      },
+      {
+        "name": "吴忠",
+        "name_en": "Wuzhong",
+        "population_total": 140.0,
+        "population_district": 46.0,
+        "urbanization_rate": 57.94
+      },
+      {
+        "name": "固原",
+        "name_en": "Guyuan",
+        "population_total": 115.0,
+        "population_district": 48.0,
+        "urbanization_rate": 45.66
+      },
+      {
+        "name": "中卫",
+        "name_en": "Zhongwei",
+        "population_total": 108.0,
+        "population_district": 40.0,
+        "urbanization_rate": 51.62
+      }
+    ]
+  },
+  {
+    "name": "新疆",
+    "name_en": "Xinjiang",
+    "cities": [
+      {
+        "name": "乌鲁木齐",
+        "name_en": "Urumqi",
+        "population_total": 408.0,
+        "population_district": 401.0,
+        "urbanization_rate": 96.56
+      },
+      {
+        "name": "克拉玛依",
+        "name_en": "Karamay",
+        "population_total": 49.0,
+        "population_district": 49.0,
+        "urbanization_rate": 98.98
+      },
+      {
+        "name": "吐鲁番",
+        "name_en": "Turpan",
+        "population_total": 69.0,
+        "population_district": 32.0,
+        "urbanization_rate": 50.95
+      },
+      {
+        "name": "哈密",
+        "name_en": "Hami",
+        "population_total": 63.0,
+        "population_district": 51.0,
+        "urbanization_rate": 74.65
+      }
+    ]
+  },
+  {
+    "name": "香港",
+    "name_en": "Hong Kong",
+    "population_total": 750.0,
+    "population_district": 750.0,
+    "urbanization_rate": 100.0
+  },
+  {
+    "name": "澳门",
+    "name_en": "Macau",
+    "population_total": 68.0,
+    "population_district": 68.0,
+    "urbanization_rate": 100.0
+  }
+]
