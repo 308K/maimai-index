@@ -72,7 +72,7 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
 
   // 更新图表数据
   useEffect(() => {
-    if (!chartInstance.current) return;
+    if (!mapLoaded || !chartInstance.current) return;
 
     // 过滤数据
     const filteredData = selectedProvince
@@ -208,7 +208,7 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
     };
 
     chartInstance.current.setOption(option);
-  }, [selectedProvince, onCityClick]);
+  }, [mapLoaded, selectedProvince, onCityClick]);
 
   return (
     <div 
