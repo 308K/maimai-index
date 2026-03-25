@@ -54,8 +54,29 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
 
     const resizeObserver = new ResizeObserver(() => {
       chartInstance.current?.resize();
+      setTimeout(() => {
+        chartInstance.current?.resize();
+      }, 150);
     });
     resizeObserver.observe(chartRef.current);
+
+    // 监听全屏切换，强制重新渲染和重置缩放以修复可能的地图层与散点层错位或者缩放偏移问题
+    const resetZoomOnFullscreen = () => {
+      if (chartInstance.current) {
+        // 重置缩放和平移参数
+        chartInstance.current.setOption({
+          geo: {
+            zoom: 1.2,
+            center: selectedProvince === '台湾' ? [121, 24] : selectedProvince === '新疆' ? [87, 42] : undefined
+          }
+        });
+        setTimeout(() => {
+          chartInstance.current?.resize();
+        }, 150);
+      }
+    };
+    
+    document.addEventListener('fullscreenchange', resetZoomOnFullscreen);
 
     // 点击事件
     chartInstance.current.on('click', (params: any) => {
@@ -66,9 +87,10 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
 
     return () => {
       resizeObserver.disconnect();
+      document.removeEventListener('fullscreenchange', resetZoomOnFullscreen);
       chartInstance.current?.dispose();
     };
-  }, [mapLoaded]);
+  }, [mapLoaded, selectedProvince]);
 
   // 更新图表数据
   useEffect(() => {
