@@ -1,5 +1,5 @@
-import { useState, useMemo } from 'react';
-import { MapPin, Gamepad2, TrendingUp, BarChart3, Info } from 'lucide-react';
+import { useState, useMemo, useRef, useEffect } from 'react';
+import { MapPin, Gamepad2, TrendingUp, BarChart3, Info, Maximize, Minimize } from 'lucide-react';
 import ChinaMap from './components/ChinaMap';
 import ProvinceSelector from './components/ProvinceSelector';
 import CityRanking from './components/CityRanking';
@@ -18,6 +18,26 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 
 function App() {
   const [selectedProvince, setSelectedProvince] = useState<string | null>(null);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+  const mapContainerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(!!document.fullscreenElement);
+    };
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    return () => document.removeEventListener('fullscreenchange', handleFullscreenChange);
+  }, []);
+
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      mapContainerRef.current?.requestFullscreen().catch(err => {
+        console.error(`Error attempting to enable fullscreen: ${err.message}`);
+      });
+    } else {
+      document.exitFullscreen();
+    }
+  };
 
   // 统计数据
   const stats = useMemo(() => {
@@ -179,28 +199,40 @@ function App() {
         <div className="grid lg:grid-cols-3 gap-6">
           {/* Map Section */}
           <div className="lg:col-span-2 space-y-4">
-            <div className="bg-slate-800/40 rounded-xl border border-slate-700/50 p-4">
+            <div 
+              ref={mapContainerRef}
+              className={`bg-slate-800/40 rounded-xl border border-slate-700/50 p-4 ${isFullscreen ? 'bg-slate-900 overflow-hidden flex flex-col' : ''}`}
+            >
               <div className="flex items-center justify-between mb-4">
                 <h2 className="text-lg font-semibold text-white flex items-center gap-2">
                   <MapPin className="w-5 h-5 text-cyan-400" />
                   {selectedProvince ? `${selectedProvince}地图` : '全国分布图'}
                 </h2>
-                <div className="flex items-center gap-2 text-xs text-slate-400">
-                  <span className="flex items-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-red-500"></span>
-                    高
-                  </span>
-                  <span className="flex items-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-yellow-400"></span>
-                    中
-                  </span>
-                  <span className="flex items-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-blue-600"></span>
-                    低
-                  </span>
+                <div className="flex items-center gap-4">
+                  <div className="flex items-center gap-2 text-xs text-slate-400 hidden sm:flex">
+                    <span className="flex items-center gap-1">
+                      <span className="w-2 h-2 rounded-full bg-red-500"></span>
+                      高
+                    </span>
+                    <span className="flex items-center gap-1">
+                      <span className="w-2 h-2 rounded-full bg-yellow-400"></span>
+                      中
+                    </span>
+                    <span className="flex items-center gap-1">
+                      <span className="w-2 h-2 rounded-full bg-blue-600"></span>
+                      低
+                    </span>
+                  </div>
+                  <button 
+                    onClick={toggleFullscreen}
+                    className="p-1.5 rounded-lg bg-slate-700/50 hover:bg-slate-600 text-slate-300 transition-colors"
+                    title={isFullscreen ? "退出全屏" : "全屏显示"}
+                  >
+                    {isFullscreen ? <Minimize className="w-4 h-4" /> : <Maximize className="w-4 h-4" />}
+                  </button>
                 </div>
               </div>
-              <div className="h-[500px] rounded-lg overflow-hidden bg-slate-900/50">
+              <div className={`rounded-lg overflow-hidden bg-slate-900/50 ${isFullscreen ? 'flex-1 min-h-0' : 'h-[500px]'}`}>
                 <ChinaMap 
                   selectedProvince={selectedProvince}
                   onCityClick={(cityName) => console.log('Clicked:', cityName)}
