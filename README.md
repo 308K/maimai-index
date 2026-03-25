@@ -27,19 +27,18 @@
 
 ### 1) 环境要求
 
-- Node.js 20+（推荐）
-- npm 10+（或兼容版本）
+- Bun 1.3+
 
 ### 2) 安装依赖
 
 ```bash
-npm install
+bun install
 ```
 
 ### 3) 启动开发环境
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 默认情况下，Vite 会在本地启动开发服务器（端口以终端输出为准）。
@@ -47,21 +46,21 @@ npm run dev
 ### 4) 构建生产版本
 
 ```bash
-npm run build
+bun run build
 ```
 
 ### 5) 本地预览构建产物
 
 ```bash
-npm run preview
+bun run preview
 ```
 
 ## 常用脚本
 
-- `npm run dev`：启动开发服务器
-- `npm run build`：TypeScript 构建检查 + Vite 打包
-- `npm run preview`：预览生产构建
-- `npm run lint`：运行 ESLint
+- `bun run dev`：启动开发服务器
+- `bun run build`：TypeScript 构建检查 + Vite 打包
+- `bun run preview`：预览生产构建
+- `bun run lint`：运行 ESLint
 
 ## 数据来源
 
@@ -141,7 +140,7 @@ maimai-index/
 典型流程：
 
 ```bash
-npm run build
+bun run build
 ```
 
 将 `dist/` 目录上传到你的静态托管平台即可。

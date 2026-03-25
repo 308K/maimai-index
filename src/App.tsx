@@ -56,7 +56,7 @@ function App() {
                 中国城市舞萌指数地图
               </h1>
               <p className="text-slate-400 text-sm mt-1">
-                每万人口舞萌机台数量分布 | 数据驱动可视化
+                每万人口舞萌机台数量分布
               </p>
             </div>
             <div className="flex items-center gap-3">
@@ -64,6 +64,22 @@ function App() {
                 selectedProvince={selectedProvince}
                 onSelectProvince={setSelectedProvince}
               />
+              <a
+                href="https://github.com/308K/maimai-index"
+                target="_blank"
+                rel="noreferrer"
+                className="p-2 rounded-lg bg-slate-800/80 border border-slate-600 hover:bg-slate-700 transition-colors"
+                aria-label="GitHub"
+              >
+                <svg
+                  viewBox="0 0 24 24"
+                  className="w-5 h-5 text-slate-300"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path d="M12 .5a12 12 0 0 0-3.79 23.39c.6.11.82-.26.82-.58V21.1c-3.34.73-4.04-1.42-4.04-1.42-.55-1.37-1.33-1.74-1.33-1.74-1.09-.74.08-.73.08-.73 1.2.09 1.83 1.2 1.83 1.2 1.08 1.82 2.83 1.3 3.52.99.11-.77.42-1.29.76-1.59-2.67-.3-5.48-1.31-5.48-5.85 0-1.29.47-2.34 1.24-3.16-.12-.3-.54-1.53.12-3.19 0 0 1.01-.32 3.3 1.21a11.6 11.6 0 0 1 6 0c2.29-1.53 3.3-1.21 3.3-1.21.66 1.66.24 2.89.12 3.19.77.82 1.24 1.87 1.24 3.16 0 4.55-2.82 5.55-5.5 5.84.43.37.82 1.09.82 2.2v3.26c0 .32.22.7.83.58A12 12 0 0 0 12 .5Z" />
+                </svg>
+              </a>
               <Dialog>
                 <DialogTrigger asChild>
                   <button className="p-2 rounded-lg bg-slate-800/80 border border-slate-600 hover:bg-slate-700 transition-colors">
@@ -214,7 +230,7 @@ function App() {
               <TabsContent value="national" className="mt-4">
                 <CityRanking 
                   cities={topCities}
-                  title="🏆 全国舞萌指数 TOP20"
+                  title="全国舞萌指数 TOP20"
                   limit={20}
                   showProvince={true}
                 />
