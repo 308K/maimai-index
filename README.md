@@ -38,7 +38,7 @@ bun install
 ### 3) 启动开发环境
 
 ```bash
-bun run dev
+bun dev
 ```
 
 默认情况下，Vite 会在本地启动开发服务器（端口以终端输出为准）。
@@ -57,7 +57,7 @@ bun run preview
 
 ## 常用脚本
 
-- `bun run dev`：启动开发服务器
+- `bun dev`：启动开发服务器
 - `bun run build`：TypeScript 构建检查 + Vite 打包
 - `bun run preview`：预览生产构建
 - `bun run lint`：运行 ESLint
@@ -68,7 +68,7 @@ bun run preview
 
 - `raw-data/舞萌机台数量.json`
 - `raw-data/中国城市统计年鉴2024地级以上城市人口.json`
-- `100000_full.json`（中国地图 GeoJSON）
+- `public/100000_full.json`（中国地图 GeoJSON）
 
 处理后的前端数据位于：
 
@@ -77,7 +77,7 @@ bun run preview
 - `src/data/provinceList.json`
 - `src/data/provinceStats.json`
 
-> 页面脚注说明的数据口径：舞萌机台数量统计 + 中国城市统计年鉴 2024。
+> 页面脚注说明的数据口径：全国音游地图 + 中国城市统计年鉴 2024。
 
 ## 指数计算与可视化规则
 
@@ -108,22 +108,27 @@ bun run preview
 
 ```text
 maimai-index/
-├─ raw-data/                     # 原始数据
+├─ public/
+│  └─ 100000_full.json             # 中国地图 GeoJSON
+├─ raw-data/
+│  ├─ 舞萌机台数量.json
+│  └─ 中国城市统计年鉴2024地级以上城市人口.json
 ├─ src/
 │  ├─ components/
-│  │  ├─ ChinaMap.tsx           # 地图可视化
-│  │  ├─ ProvinceSelector.tsx   # 省份筛选
-│  │  ├─ CityRanking.tsx        # 排行榜
-│  │  ├─ ProvinceDetail.tsx     # 省份详情
-│  │  └─ StatsCard.tsx          # 统计卡片
-│  ├─ data/                     # 清洗后的业务数据
-│  ├─ hooks/                    # 自定义 hooks
-│  ├─ lib/                      # 工具函数
-│  ├─ App.tsx                   # 页面主入口
-│  └─ main.tsx                  # 应用入口
-├─ 100000_full.json             # 中国地图 GeoJSON
-├─ vite.config.ts               # Vite 配置
-└─ package.json                 # 依赖与脚本
+│  │  ├─ ChinaMap.tsx              # 地图可视化
+│  │  ├─ ProvinceSelector.tsx      # 省份筛选
+│  │  ├─ CityRanking.tsx           # 排行榜
+│  │  ├─ ProvinceDetail.tsx        # 省份详情
+│  │  ├─ StatsCard.tsx             # 统计卡片
+│  │  └─ ui/                       # shadcn/ui 组件
+│  ├─ data/                        # 清洗后的业务数据
+│  ├─ hooks/                       # 自定义 hooks
+│  ├─ lib/                         # 工具函数
+│  ├─ App.tsx                      # 页面主入口
+│  └─ main.tsx                     # 应用入口
+├─ index.html
+├─ vite.config.ts                  # Vite 配置
+└─ package.json                    # 依赖与脚本
 ```
 
 ## 部署建议
