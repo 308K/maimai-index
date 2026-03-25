@@ -234,6 +234,7 @@ function App() {
               </div>
               <div className={`rounded-lg overflow-hidden bg-slate-900/50 ${isFullscreen ? 'flex-1 min-h-0' : 'h-[500px]'}`}>
                 <ChinaMap 
+                  key={isFullscreen ? 'map-fullscreen' : 'map-windowed'}
                   selectedProvince={selectedProvince}
                   onCityClick={(cityName) => console.log('Clicked:', cityName)}
                 />
