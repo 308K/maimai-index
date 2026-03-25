@@ -32,7 +32,7 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
   useEffect(() => {
     const loadMap = async () => {
       try {
-        const localMapUrl = new URL('../../100000_full.json', import.meta.url).href;
+        const response = await fetch('/100000_full.json');
         const response = await fetch(localMapUrl);
         if (!response.ok) {
           throw new Error(`HTTP ${response.status} ${response.statusText}`);
