@@ -318,7 +318,35 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-slate-700/50 mt-8 py-6">
         <div className="max-w-7xl mx-auto px-4 text-center text-slate-500 text-sm">
-          <p>数据来源：全国音游地图、中国城市统计年鉴2024</p>
+          <p>
+            数据来源：
+            <a
+              href="https://map.bemanicn.com/games/1"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-300 hover:text-cyan-400 transition-colors"
+            >
+              全国音游地图
+            </a>
+            、
+            <a
+              href="https://data.cnki.net/yearBook/single?id=N2025020156&pinyinCode=YZGCA"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-300 hover:text-cyan-400 transition-colors"
+            >
+              中国城市统计年鉴2024
+            </a>
+            、
+            <a
+              href="https://datav.aliyun.com/portal/school/atlas/area_selector"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-300 hover:text-cyan-400 transition-colors"
+            >
+              阿里云DataV.GeoAtlas
+            </a>
+          </p>
           <p className="mt-1">舞萌指数 = 机台数量 ÷ 人口(万) | 可视化变换: log₁₀(指数×1000+1)</p>
         </div>
       </footer>

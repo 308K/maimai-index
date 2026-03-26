@@ -66,9 +66,9 @@ bun run preview
 
 项目中使用了以下数据文件：
 
-- `raw-data/舞萌机台数量.json`
-- `raw-data/中国城市统计年鉴2024地级以上城市人口.json`
-- `public/100000_full.json`（中国地图 GeoJSON）
+- `raw-data/舞萌机台数量.json` 来自[全国音游地图](https://map.bemanicn.com/games/1)
+- `raw-data/中国城市统计年鉴2024地级以上城市人口.json` 来自[中国城市统计年鉴2024](https://data.cnki.net/yearBook/single?id=N2025020156&pinyinCode=YZGCA)
+- `public/中华人民共和国.geojson`（中国地图 GeoJSON） 来自[阿里云DataV.GeoAtlas](https://datav.aliyun.com/portal/school/atlas/area_selector)
 
 处理后的前端数据位于：
 
@@ -77,7 +77,6 @@ bun run preview
 - `src/data/provinceList.json`
 - `src/data/provinceStats.json`
 
-> 页面脚注说明的数据口径：全国音游地图 + 中国城市统计年鉴 2024。
 
 ## 指数计算与可视化规则
 
@@ -109,7 +108,7 @@ bun run preview
 ```text
 maimai-index/
 ├─ public/
-│  └─ 100000_full.json             # 中国地图 GeoJSON
+│  └─ 中华人民共和国.geojson             # 中国地图 GeoJSON
 ├─ raw-data/
 │  ├─ 舞萌机台数量.json
 │  └─ 中国城市统计年鉴2024地级以上城市人口.json
