@@ -32,7 +32,7 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
   useEffect(() => {
     const loadMap = async () => {
       try {
-        const response = await fetch('/100000_full.json');
+        const response = await fetch('/中华人民共和国.geojson');
         if (!response.ok) {
           throw new Error(`HTTP ${response.status} ${response.statusText}`);
         }
@@ -142,6 +142,28 @@ export default function ChinaMap({ selectedProvince, onCityClick }: ChinaMapProp
         label: {
           show: false
         },
+        regions: [
+          {
+            name: '南海诸岛',
+            itemStyle: {
+              opacity: 0
+            },
+            label: {
+              show: false
+            },
+            emphasis: {
+              itemStyle: {
+                opacity: 0
+              },
+              label: {
+                show: false
+              }
+            },
+            tooltip: {
+              show: false
+            }
+          }
+        ],
         itemStyle: {
           areaColor: 'rgba(20,40,80,0.5)',
           borderColor: '#1e4a6e',
