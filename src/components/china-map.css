@@ -1,0 +1,26 @@
+.china-map-theme {
+  --china-map-background: transparent;
+  --china-map-level-1: oklch(63% 0.26 29deg);
+  --china-map-level-2: oklch(73% 0.19 53deg);
+  --china-map-level-3: oklch(97% 0.21 110deg);
+  --china-map-level-4: oklch(87% 0.29 142deg);
+  --china-map-level-5: oklch(91% 0.15 195deg);
+  --china-map-level-6: oklch(45% 0.31 264deg);
+  --china-map-tooltip-bg: oklch(0% 0 0deg / 85%);
+  --china-map-tooltip-border: oklch(80% 0.15 220deg);
+  --china-map-tooltip-text: oklch(100% 0 90deg);
+  --china-map-tooltip-title: oklch(80% 0.15 220deg);
+  --china-map-tooltip-highlight: oklch(73% 0.19 53deg);
+  --china-map-geo-area: oklch(28% 0.08 263deg / 50%);
+  --china-map-geo-border: oklch(40% 0.08 246deg);
+  --china-map-geo-area-emphasis: oklch(35% 0.08 256deg / 70%);
+  --china-map-label-color: oklch(100% 0 90deg);
+  --china-map-label-bg: oklch(0% 0 0deg / 60%);
+  --china-map-label-bg-emphasis: oklch(0% 0 0deg / 80%);
+  --china-map-top-label-bg: oklch(0% 0 0deg / 70%);
+}
+
+.china-map-theme .china-map-canvas {
+  background: var(--china-map-background);
+}
+

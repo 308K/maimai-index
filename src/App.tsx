@@ -254,9 +254,9 @@ function App() {
           <div className="space-y-4">
             <Tabs defaultValue="national" className="w-full">
               <TabsList className="w-full bg-slate-800/60">
-                <TabsTrigger value="national" className="flex-1">全国排行</TabsTrigger>
+                <TabsTrigger value="national" className="flex-1 text-white data-[state=active]:text-black">全国排行</TabsTrigger>
                 {selectedProvince && (
-                  <TabsTrigger value="province" className="flex-1">省内排行</TabsTrigger>
+                  <TabsTrigger value="province" className="flex-1 text-white data-[state=active]:text-black">省内排行</TabsTrigger>
                 )}
               </TabsList>
               
