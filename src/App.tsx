@@ -112,20 +112,20 @@ function App() {
                   </DialogHeader>
                   <div className="space-y-4 text-slate-300">
                     <div>
-                      <h4 className="font-semibold text-white mb-2">📐 计算公式</h4>
+                      <h4 className="font-semibold text-white mb-2">计算公式</h4>
                       <div className="bg-slate-900/50 rounded-lg p-3 font-mono text-sm">
                         <p>舞萌指数 = 机台数量 ÷ 人口(万)</p>
                       </div>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-white mb-2">📊 可视化变换</h4>
+                      <h4 className="font-semibold text-white mb-2">可视化变换</h4>
                       <div className="bg-slate-900/50 rounded-lg p-3 font-mono text-sm">
                         <p>显示值 = log₁₀(指数×1000+1)</p>
                         <p className="text-slate-500 text-xs mt-1">使用对数变换拉大数值差距</p>
                       </div>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-white mb-2">🎨 颜色图例</h4>
+                      <h4 className="font-semibold text-white mb-2">颜色图例</h4>
                       <div className="space-y-2 text-sm">
                         <div className="flex items-center gap-2">
                           <span className="w-4 h-4 rounded-full bg-red-500"></span>
